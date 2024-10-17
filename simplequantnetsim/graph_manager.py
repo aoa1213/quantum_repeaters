@@ -1,6 +1,6 @@
 import networkx as nx
 
-from simplequantnetsim.graph import network, reset_graph_state, update_graph_params
+from graph import network, reset_graph_state, update_graph_params
 from networkx.generators import *
 from networkx.readwrite import json_graph
 import json

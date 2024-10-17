@@ -1,14 +1,14 @@
 import networkx as nx
 import numpy as np
 
-from simplequantnetsim.graph import (
+from graph import (
     reset_graph_usage,
     update_graph_usage,
     update_usage_from_subgraph,
     reset_graph_state,
     get_entangled_subgraph,
 )
-from simplequantnetsim.sim import run_entanglement_step
+from sim import run_entanglement_step
 
 from networkx.algorithms.approximation.steinertree import steiner_tree
 
