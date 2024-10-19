@@ -4,16 +4,24 @@ from networkx.generators import *
 
 
 def network(n, m):
+
     """
     function to generate 2d grid networkx graph with required edge and nodes attributes
 
     Input Pararmeters:
     G    - Networkx graph G(V,E) which defines the topology of the network. see graphs.py for more details
     """
+
     G = nx.grid_2d_graph(n, m)  # n times m grid
     nx.set_edge_attributes(G, 1, "length")  # default edge length = 1km
     update_graph_params(G, p=1, Qc=1)  # initalise p,Qc as 1
+
+    #   Qc is quantum capacity the exist time for quantum link
+    #   p is the probability of entanglment successfully generated
+
     reset_graph_state(G)  # initialise link-state of network (as no entangled links present)
+    #   Set all "entanglement" to False
+
     reset_graph_usage(G)  # initialise usage params of network
     return G
 
@@ -31,6 +39,7 @@ def reset_graph_state(G):
     nx.set_node_attributes(G, 0, "age")
 
 
+
 def reset_graph_usage(G):
     """
     function to initalise / reset the node usage param of graph G
@@ -38,8 +47,12 @@ def reset_graph_usage(G):
     Input Pararmeters:
     G         - Networkx graph G(V,E) which defines the topology of the network. see graphs.py for more details
     """
+
     nx.set_node_attributes(G, 0, "usage_count")
+    #   The number of time that this node been used
+
     nx.set_node_attributes(G, 0, "usage_fraction")
+    #   The ratio of usage_count/Total number of usage
 
 
 def update_graph_usage(G, reps):
@@ -52,6 +65,9 @@ def update_graph_usage(G, reps):
     """
     for node in G.nodes:
         usage_count = G.nodes[node]["usage_count"]
+        #   From G.nodes[node] one get the specific attribute dictionary, where [node] is the identifier
+        #   Then from G.nodes[node]["usage_count"] one get the correspond value of key "usage_count"
+
         G.nodes[node]["usage_fraction"] = usage_count / reps
 
 
@@ -64,9 +80,11 @@ def update_graph_params(G, p=None, Qc=None):
     p  - edge link probability p, if inputted set all edges to have p_edge = p
     Qc - Decoherence time Qc, if inputted set all edges (and Nodes) to have decoherence time Qc
     """
+
     if Qc is not None:
         nx.set_node_attributes(G, Qc, "Qc")
         nx.set_edge_attributes(G, Qc, "Qc")
+
     if p is not None:
         nx.set_edge_attributes(G, p, "p_edge")
 
@@ -89,6 +107,7 @@ def set_p_edge(G, p_op=0.8, loss_dB=None):
             p_loss = 10 ** -(loss_dB * length / 10)
             G.edges[edge]["p_edge"] = p_op * p_loss
 
+    #   Adjust the probability of successfully generate entanglement
 
 def set_edge_length(G, length=1, p_op=0.8, loss_dB=0.2):
     """
