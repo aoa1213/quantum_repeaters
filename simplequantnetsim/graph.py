@@ -105,6 +105,7 @@ def set_p_edge(G, p_op=0.8, loss_dB=None):
         for edge in G.edges:
             length = G.edges[edge]["length"]
             p_loss = 10 ** -(loss_dB * length / 10)
+            #   p_loss is actually the ratio of (arrived signal/original signal), which is the ratio of loss
             G.edges[edge]["p_edge"] = p_op * p_loss
 
     #   Adjust the probability of successfully generate entanglement
@@ -137,9 +138,12 @@ def get_entangled_subgraph(G):
     G_prime.add_nodes_from(G)
     eligible_edges = [(u, v, e) for u, v, e in G.edges(data=True) if e["entangled"]]
     G_prime.add_edges_from(eligible_edges)
-
     return G_prime
+    #   create a sub plot by taking out all nodes in the original graph and all edges that are entangled
 
+    #   [(u, v, e) for u, v, e in G.edges(data=True) if e["entangled"]]
+    #   The u,v,e can be replaced by things like, (x,y,z),(node1,node2,node3). But the parameter after the "for" should be
+    #   the same with parameters in the brakect() 
 
 def update_usage_from_subgraph(G, J):
     """
@@ -174,5 +178,8 @@ def remove_nodes(G: nx.Graph, min_usage, excluded_nodes=None):
         if (usage < min_usage) and (node not in excluded_nodes):
             G.remove_node(node)
             count += 1
+    #   node and usage here receive the first and second value in a tuple, which is produced by ".items()"
+    #   nx.get_node_attributes(G, "usage_fraction") returns a dictionary and ".items()" function turn it into a tuple
+
 
     return count
