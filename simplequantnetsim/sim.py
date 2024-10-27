@@ -18,7 +18,7 @@ def run_entanglement_step(G, used_nodes, nodes=False):
     # array of random numbers between 0 and 1 (size of number of edges), which is the probability of generating entanglement
 
     for edge, r in zip(G.edges().values(), r_list):
-
+            #G.edges(data=True)
 
         #   zip() took out pairs of data from G.edges().values() and r_list and assign to edge and r correspondingly
         #   G.edges().values() is the dictionary of each edges in the G graph
@@ -48,17 +48,28 @@ def run_entanglement_step(G, used_nodes, nodes=False):
     if nodes:
         for node_name in G.nodes():
             node = G.nodes[node_name]
-
+            #   G.nodes() returns the identifiers of each node and assign it to node_name
+            #   G.nodes[node_name] returns the dictionary of given identifier
             if node["entangled"]:
                 node["age"] += 1
+            #  If the node is entangled then the exsist time increase
 
             if node["age"] >= node["Qc"]:
                 node["entangled"] = False
                 edge["age"] = 0
+            #   If the exsist time exceed the quantum capacity then the entagled ends
 
         for path in used_nodes:
             path["age"] += 1
-
+        #   Iterate the path and 
         used_nodes[:] = [
             path for path in used_nodes if path["age"] < G.nodes[path["destination_node"]]["Qc"]
         ]
+        #   path["destination_node"] returns the identifier of the destination node
+        #   G.nodes[path["destination_node"]]["Qc"] returne the quatntum capacity of giiven identifier
+        #   used_nodes[:] replace the whole context in the list
+        """
+        used_nodes = [1, 2, 3]
+        used_nodes[:] = [4, 5, 6]
+        print(used_nodes)  # print out：[4, 5, 6]
+        """

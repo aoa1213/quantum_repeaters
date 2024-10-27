@@ -18,6 +18,10 @@ def save_graph(G, name="tree"):
     """
     with open("graphs//" + name + ".json", "w") as outfile1:
         outfile1.write(json.dumps(json_graph.node_link_data(G)))
+    #   Store the graph to address "graphs//" + name + ".json"
+    #   json_graph.node_link_data(G) convert information about edge and node into dictionary, whcih then able to be serialize
+    #   json.dumps() convert python data type like dictionary into string in json data type
+    #   outfile1.write() write the converted json data into file
 
 
 def load_graph(filename):
@@ -33,6 +37,9 @@ def load_graph(filename):
     with open("graphs//" + filename + ".json", "r") as f:
         js_graph = json.loads(f.read())
     return json_graph.node_link_graph(js_graph)
+    #   f.read() read the information included in the file 
+    #   json.loads() convert the json string into python data type like dictionary
+    #   json_graph.node_link_graph() convert the python dictionary back into Network X graph object
 
 
 def make_graphs_list():
@@ -43,11 +50,19 @@ def make_graphs_list():
     initialise p and Qc as 1
     """
     current_directory = os.getcwd()
+    #   Obtain the current working address
+
     graphs_dir = os.path.join(current_directory, "graphs")
+    #   Join the current path with "graphs" and obtain the address to store graphs
+
     G = network(6, 6)
     update_graph_params(G, p=1, Qc=1)  # initalise p,Qc as 1
     save_graph(G, "grid_6_6")
+    #   Create a new 6x6 grid graph and save it into the file
+
     for file in [file for file in os.listdir(graphs_dir) if file.endswith(".txt")]:
+        #   os.listdir(graphs_dir) returns the list the contain all files in the graphs folder
+        #   file for file in os.listdir(graphs_dir) if file.endswith(".txt") filt out all txt file 
         print(os.path.join(graphs_dir, file))
         file_name = file.split("\\")[0]
         G = load_from_file(file=file_name)
