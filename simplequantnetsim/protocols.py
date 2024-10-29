@@ -85,7 +85,9 @@ def _run_protocol(G, users, timesteps, reps, success_protocol, nodes=False, coun
     multipartite_gen_time = -1 * np.ones((reps))
     links_used = 0
     for i in range(reps):
+    #   excute the protocol for reps time
         reset_graph_state(G)
+    #   reset the state for all link 
         used_nodes = []
         t = 0
         while t < timesteps and multipartite_gen_time[i] == -1:  # for t timesteps or until success
@@ -157,6 +159,7 @@ def _SD_protocol(G, H, users, used_nodes, count_fusion=False):
         ):
             path = nx.shortest_path(H, source_node, destination_node)
             _create_bell_pair(G, H, path, used_nodes)
+            
     return all([G.nodes[x]["entangled"] for x in destination_nodes])
 
 

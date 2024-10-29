@@ -64,9 +64,13 @@ def make_graphs_list():
         #   os.listdir(graphs_dir) returns the list the contain all files in the graphs folder
         #   file for file in os.listdir(graphs_dir) if file.endswith(".txt") filt out all txt file 
         print(os.path.join(graphs_dir, file))
+        #   Show the current path
         file_name = file.split("\\")[0]
+        #   split the path and get the file name
         G = load_from_file(file=file_name)
+        #   Read the file
         nom = file_name[:-4]
+        #   Remove the '.txt' from the file name
         update_graph_params(G, p=1, Qc=1)  # initalise p,Qc as 1
         save_graph(G, name=file_name)
 
@@ -88,8 +92,11 @@ def load_from_file(file="UKnet.txt"):  # could be done better?
     title = True
     data = []
     with open(graphs_dir + "/" + file, encoding="ISO-8859-1") as csv_file:
+        #   combine the address and then open it
         csv_reader = csv.reader(csv_file, delimiter="\t")
+        #   read the file and assign to csv_reader
         for row in csv_reader:
+        #   
             if title:
                 title = False
             else:
