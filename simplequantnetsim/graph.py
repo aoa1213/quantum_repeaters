@@ -3,16 +3,16 @@ import networkx as nx
 from networkx.generators import *
 
 
-def network(n, m):
+def network(G):
 
     """
-    function to generate 2d grid networkx graph with required edge and nodes attributes
+    function to generate 2d grid networkx graph with defualt edge and nodes attributes
 
     Input Pararmeters:
     G    - Networkx graph G(V,E) which defines the topology of the network. see graphs.py for more details
     """
 
-    G = nx.grid_2d_graph(n, m)  # n times m grid
+    # G = nx.grid_2d_graph(n, m)  # n times m grid
     nx.set_edge_attributes(G, 1, "length")  # default edge length = 1km
     update_graph_params(G, p=1, Qc=1)  # initalise p,Qc as 1
 
@@ -143,7 +143,7 @@ def get_entangled_subgraph(G):
 
     #   [(u, v, e) for u, v, e in G.edges(data=True) if e["entangled"]]
     #   The u,v,e can be replaced by things like, (x,y,z),(node1,node2,node3). But the parameter after the "for" should be
-    #   the same with parameters in the brakect() 
+    #   the same with parameters in the brakect()
 
 def update_usage_from_subgraph(G, J):
     """

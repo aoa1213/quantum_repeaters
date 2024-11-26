@@ -1,0 +1,258 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 48.4,
+            "longitude": 9.99,
+            "location": "Ulm",
+            "country": "Germany",
+            "id": 8
+        },
+        {
+            "latitude": 52.39,
+            "longitude": 9.8,
+            "location": "Hannover",
+            "country": "Germany",
+            "id": 1
+        },
+        {
+            "latitude": 50.14,
+            "longitude": 8.66,
+            "location": "Frankfurt am Main",
+            "country": "Germany",
+            "id": 2
+        },
+        {
+            "latitude": 53.55,
+            "longitude": 10.08,
+            "location": "Marienthal",
+            "country": "Germany",
+            "id": 3
+        },
+        {
+            "latitude": 53.6,
+            "longitude": 7.21,
+            "location": "Norden",
+            "country": "Germany",
+            "id": 4
+        },
+        {
+            "latitude": 53.08,
+            "longitude": 8.8,
+            "location": "Bremen",
+            "country": "Germany",
+            "id": 5
+        },
+        {
+            "latitude": 52.52,
+            "longitude": 13.48,
+            "location": "Fennpfuhl",
+            "country": "Germany",
+            "id": 6
+        },
+        {
+            "latitude": 48.15,
+            "longitude": 11.55,
+            "location": "Munich",
+            "country": "Germany",
+            "id": 7
+        },
+        {
+            "latitude": 49.45,
+            "longitude": 11.08,
+            "location": "Nuernberg",
+            "country": "Germany",
+            "id": 9
+        },
+        {
+            "latitude": 48.73,
+            "longitude": 9.12,
+            "location": "Leinfelden-Echterdingen",
+            "country": "Germany",
+            "id": 10
+        },
+        {
+            "latitude": 49.01,
+            "longitude": 8.41,
+            "location": "Karlsruhe",
+            "country": "Germany",
+            "id": 11
+        },
+        {
+            "latitude": 49.49,
+            "longitude": 8.49,
+            "location": "Mannheim",
+            "country": "Germany",
+            "id": 12
+        },
+        {
+            "latitude": 51.44,
+            "longitude": 7.0,
+            "location": "Essen",
+            "country": "Germany",
+            "id": 13
+        },
+        {
+            "latitude": 51.51,
+            "longitude": 7.48,
+            "location": "Dortmund",
+            "country": "Germany",
+            "id": 14
+        },
+        {
+            "latitude": 51.22,
+            "longitude": 6.78,
+            "location": "Dusseldorf",
+            "country": "Germany",
+            "id": 15
+        },
+        {
+            "latitude": 50.92,
+            "longitude": 7.01,
+            "location": "Humboldtkolonie",
+            "country": "Germany",
+            "id": 16
+        },
+        {
+            "latitude": 51.34,
+            "longitude": 12.38,
+            "location": "Leipzig",
+            "country": "Germany",
+            "id": 17
+        }
+    ],
+    "links": [
+        {
+            "length": 374.624782328087,
+            "source": 1,
+            "target": 6.0
+        },
+        {
+            "length": 153.1132171736606,
+            "source": 1,
+            "target": 5.0
+        },
+        {
+            "length": 280.0268896201081,
+            "source": 1,
+            "target": 14.0
+        },
+        {
+            "length": 393.6775619461023,
+            "source": 1,
+            "target": 2.0
+        },
+        {
+            "length": 195.5122974449201,
+            "source": 1,
+            "target": 3.0
+        },
+        {
+            "length": 318.2231036629754,
+            "source": 1,
+            "target": 17.0
+        },
+        {
+            "length": 218.0056692643854,
+            "source": 2,
+            "target": 16.0
+        },
+        {
+            "length": 440.6546566372959,
+            "source": 2,
+            "target": 17.0
+        },
+        {
+            "length": 109.9479513076914,
+            "source": 2,
+            "target": 12.0
+        },
+        {
+            "length": 284.8248893317208,
+            "source": 2,
+            "target": 9.0
+        },
+        {
+            "length": 381.7847325471307,
+            "source": 3,
+            "target": 6.0
+        },
+        {
+            "length": 149.7064069006946,
+            "source": 3,
+            "target": 5.0
+        },
+        {
+            "length": 180.53361104788,
+            "source": 4,
+            "target": 5.0
+        },
+        {
+            "length": 349.6690242570837,
+            "source": 4,
+            "target": 14.0
+        },
+        {
+            "length": 227.0072937943405,
+            "source": 6,
+            "target": 17.0
+        },
+        {
+            "length": 222.8924142009059,
+            "source": 7,
+            "target": 9.0
+        },
+        {
+            "length": 178.1210043987085,
+            "source": 7,
+            "target": 8.0
+        },
+        {
+            "length": 110.683858131905,
+            "source": 8,
+            "target": 10.0
+        },
+        {
+            "length": 344.1972217356784,
+            "source": 9,
+            "target": 17.0
+        },
+        {
+            "length": 245.4570856667369,
+            "source": 9,
+            "target": 10.0
+        },
+        {
+            "length": 90.82158654545206,
+            "source": 10,
+            "target": 11.0
+        },
+        {
+            "length": 80.53273587887958,
+            "source": 11,
+            "target": 12.0
+        },
+        {
+            "length": 51.21455844269055,
+            "source": 13,
+            "target": 14.0
+        },
+        {
+            "length": 43.26842092186249,
+            "source": 13,
+            "target": 15.0
+        },
+        {
+            "length": 109.9782254493657,
+            "source": 14,
+            "target": 16.0
+        },
+        {
+            "length": 55.54142781966004,
+            "source": 15,
+            "target": 16.0
+        }
+    ]
+}

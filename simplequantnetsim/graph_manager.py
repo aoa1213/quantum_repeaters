@@ -16,13 +16,13 @@ def save_graph(G, name="tree"):
     G    - Networkx graph G(V,E) which defines the topology of the network. see graphs.py for more details
     name - graph filename
     """
+    
     with open("graphs//" + name + ".json", "w") as outfile1:
         outfile1.write(json.dumps(json_graph.node_link_data(G)))
     #   Store the graph to address "graphs//" + name + ".json"
     #   json_graph.node_link_data(G) convert information about edge and node into dictionary, whcih then able to be serialize
     #   json.dumps() convert python data type like dictionary into string in json data type
     #   outfile1.write() write the converted json data into file
-
 
 def load_graph(filename):
     """
@@ -43,12 +43,14 @@ def load_graph(filename):
 
 
 def make_graphs_list():
+
     """
     create Networkx json graphs from .txt files in graphs folder
     Note:
     Also create 6x6 grid graph
     initialise p and Qc as 1
     """
+
     current_directory = os.getcwd()
     #   Obtain the current working address
 
@@ -62,7 +64,7 @@ def make_graphs_list():
 
     for file in [file for file in os.listdir(graphs_dir) if file.endswith(".txt")]:
         #   os.listdir(graphs_dir) returns the list the contain all files in the graphs folder
-        #   file for file in os.listdir(graphs_dir) if file.endswith(".txt") filt out all txt file 
+        #   file for file in os.listdir(graphs_dir) if file.endswith(".txt") filt out all txt file
         print(os.path.join(graphs_dir, file))
         #   Show the current path
         file_name = file.split("\\")[0]
@@ -96,7 +98,6 @@ def load_from_file(file="UKnet.txt"):  # could be done better?
         csv_reader = csv.reader(csv_file, delimiter="\t")
         #   read the file and assign to csv_reader
         for row in csv_reader:
-        #   
             if title:
                 title = False
             else:
@@ -111,7 +112,7 @@ def load_from_file(file="UKnet.txt"):  # could be done better?
     return G
 
 
-def get_G_list():  # Load saved topologies from graphs folder
+def get_G_list(): 
     """
     load all Networkx graphs from file in graphs folder
 

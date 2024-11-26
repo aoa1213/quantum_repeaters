@@ -1,0 +1,327 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 38.7077507,
+            "longitude": -9.1365919,
+            "location": "Lisbon",
+            "country": "Portugal",
+            "id": 1
+        },
+        {
+            "latitude": 40.4167047,
+            "longitude": -3.7035825,
+            "location": "Madrid",
+            "country": "Spain",
+            "id": 2
+        },
+        {
+            "latitude": 48.8534951,
+            "longitude": 2.3483915,
+            "location": "Paris",
+            "country": "France",
+            "id": 3
+        },
+        {
+            "latitude": 51.5074456,
+            "longitude": -0.1277653,
+            "location": "London",
+            "country": "UK",
+            "id": 4
+        },
+        {
+            "latitude": 53.3493795,
+            "longitude": -6.2605593,
+            "location": "Dublin",
+            "country": "Ireland",
+            "id": 5
+        },
+        {
+            "latitude": 50.8465573,
+            "longitude": 4.351697,
+            "location": "Brussels",
+            "country": "Belgium",
+            "id": 6
+        },
+        {
+            "latitude": 45.4641943,
+            "longitude": 9.1896346,
+            "location": "Milan",
+            "country": "Italy",
+            "id": 7
+        },
+        {
+            "latitude": 52.3730796,
+            "longitude": 4.8924534,
+            "location": "Amsterdam",
+            "country": "Netherlands",
+            "id": 8
+        },
+        {
+            "latitude": 47.3744489,
+            "longitude": 8.5410422,
+            "location": "Zurich",
+            "country": "Switzerland",
+            "id": 9
+        },
+        {
+            "latitude": 50.0874654,
+            "longitude": 14.4212535,
+            "location": "Prague",
+            "country": "Czech Republic",
+            "id": 10
+        },
+        {
+            "latitude": 45.8130967,
+            "longitude": 15.9772795,
+            "location": "Zagreb",
+            "country": "Croatia",
+            "id": 11
+        },
+        {
+            "latitude": 48.2083537,
+            "longitude": 16.3725042,
+            "location": "Vienna",
+            "country": "Austria",
+            "id": 12
+        },
+        {
+            "latitude": 52.5170365,
+            "longitude": 13.3888599,
+            "location": "Berlin",
+            "country": "Germany",
+            "id": 13
+        },
+        {
+            "latitude": 55.6867243,
+            "longitude": 12.5700724,
+            "location": "Copenhagen",
+            "country": "Denmark",
+            "id": 14
+        },
+        {
+            "latitude": 59.9133301,
+            "longitude": 10.7389701,
+            "location": "Oslo",
+            "country": "Norway",
+            "id": 15
+        },
+        {
+            "latitude": 59.3251172,
+            "longitude": 18.0710935,
+            "location": "Stockholm",
+            "country": "Sweden",
+            "id": 16
+        },
+        {
+            "latitude": 55.7505412,
+            "longitude": 37.6174782,
+            "location": "Moscow",
+            "country": "Russia",
+            "id": 17
+        },
+        {
+            "latitude": 37.98,
+            "longitude": 23.72,
+            "location": "Athens",
+            "country": "Greece",
+            "id": 18
+        },
+        {
+            "latitude": 41.8933203,
+            "longitude": 12.4829321,
+            "location": "Rome",
+            "country": "Italy",
+            "id": 19
+        }
+    ],
+    "links": [
+        {
+            "length": 754.3499999999999,
+            "source": 1,
+            "target": 2.0
+        },
+        {
+            "length": 1982.9875,
+            "source": 1,
+            "target": 4.0
+        },
+        {
+            "length": 1500.0,
+            "source": 2,
+            "target": 3.0
+        },
+        {
+            "length": 1171.35,
+            "source": 3,
+            "target": 5.0
+        },
+        {
+            "length": 515.58,
+            "source": 3,
+            "target": 4.0
+        },
+        {
+            "length": 732.1500000000001,
+            "source": 3,
+            "target": 9.0
+        },
+        {
+            "length": 959.385,
+            "source": 3,
+            "target": 7.0
+        },
+        {
+            "length": 396.105,
+            "source": 3,
+            "target": 6.0
+        },
+        {
+            "length": 694.965,
+            "source": 4,
+            "target": 5.0
+        },
+        {
+            "length": 481.11,
+            "source": 4,
+            "target": 6.0
+        },
+        {
+            "length": 535.89,
+            "source": 4,
+            "target": 8.0
+        },
+        {
+            "length": 1500.0,
+            "source": 4,
+            "target": 15.0
+        },
+        {
+            "length": 1395.705,
+            "source": 4,
+            "target": 13.0
+        },
+        {
+            "length": 260.7,
+            "source": 6,
+            "target": 8.0
+        },
+        {
+            "length": 737.715,
+            "source": 6,
+            "target": 9.0
+        },
+        {
+            "length": 327.225,
+            "source": 7,
+            "target": 9.0
+        },
+        {
+            "length": 793.455,
+            "source": 7,
+            "target": 11.0
+        },
+        {
+            "length": 715.785,
+            "source": 7,
+            "target": 19.0
+        },
+        {
+            "length": 1262.4,
+            "source": 7,
+            "target": 13.0
+        },
+        {
+            "length": 968.25,
+            "source": 7,
+            "target": 10.0
+        },
+        {
+            "length": 863.61,
+            "source": 8,
+            "target": 13.0
+        },
+        {
+            "length": 932.52,
+            "source": 8,
+            "target": 14.0
+        },
+        {
+            "length": 1064.745,
+            "source": 8,
+            "target": 10.0
+        },
+        {
+            "length": 789.105,
+            "source": 9,
+            "target": 10.0
+        },
+        {
+            "length": 419.28,
+            "source": 10,
+            "target": 13.0
+        },
+        {
+            "length": 378.855,
+            "source": 10,
+            "target": 12.0
+        },
+        {
+            "length": 402.03,
+            "source": 11,
+            "target": 12.0
+        },
+        {
+            "length": 1500.0,
+            "source": 11,
+            "target": 18.0
+        },
+        {
+            "length": 777.045,
+            "source": 11,
+            "target": 19.0
+        },
+        {
+            "length": 785.4749999999999,
+            "source": 12,
+            "target": 13.0
+        },
+        {
+            "length": 1216.215,
+            "source": 13,
+            "target": 16.0
+        },
+        {
+            "length": 2012.4375,
+            "source": 13,
+            "target": 17.0
+        },
+        {
+            "length": 723.4350000000001,
+            "source": 14,
+            "target": 15.0
+        },
+        {
+            "length": 781.29,
+            "source": 14,
+            "target": 16.0
+        },
+        {
+            "length": 625.89,
+            "source": 15,
+            "target": 16.0
+        },
+        {
+            "length": 1533.9,
+            "source": 16,
+            "target": 17.0
+        },
+        {
+            "length": 1500.0,
+            "source": 18,
+            "target": 19.0
+        }
+    ]
+}

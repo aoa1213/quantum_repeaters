@@ -1,0 +1,267 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 46.42,
+            "longitude": -117.02,
+            "location": "Lewiston",
+            "country": "United States of America (the)",
+            "id": 8
+        },
+        {
+            "latitude": 47.66,
+            "longitude": -117.43,
+            "location": "Spokane",
+            "country": "United States of America (the)",
+            "id": 1
+        },
+        {
+            "latitude": 47.68,
+            "longitude": -116.78,
+            "location": "Coeur d'Alene",
+            "country": "United States of America (the)",
+            "id": 2
+        },
+        {
+            "latitude": 47.42,
+            "longitude": -120.31,
+            "location": "Wenatchee",
+            "country": "United States of America (the)",
+            "id": 3
+        },
+        {
+            "latitude": 46.83,
+            "longitude": -119.18,
+            "location": "Othello",
+            "country": "United States of America (the)",
+            "id": 4
+        },
+        {
+            "latitude": 46.06,
+            "longitude": -118.34,
+            "location": "Walla Walla",
+            "country": "United States of America (the)",
+            "id": 5
+        },
+        {
+            "latitude": 46.24,
+            "longitude": -119.1,
+            "location": "Pasco",
+            "country": "United States of America (the)",
+            "id": 6
+        },
+        {
+            "latitude": 46.73,
+            "longitude": -117.18,
+            "location": "Pullman",
+            "country": "United States of America (the)",
+            "id": 7
+        },
+        {
+            "latitude": 46.21,
+            "longitude": -119.14,
+            "location": "Kennewick",
+            "country": "United States of America (the)",
+            "id": 9
+        },
+        {
+            "latitude": 46.6,
+            "longitude": -120.51,
+            "location": "Yakima",
+            "country": "United States of America (the)",
+            "id": 10
+        },
+        {
+            "latitude": 47.0,
+            "longitude": -120.55,
+            "location": "Ellensburg",
+            "country": "United States of America (the)",
+            "id": 11
+        },
+        {
+            "latitude": 49.25,
+            "longitude": -123.12,
+            "location": "Vancouver",
+            "country": "Canada",
+            "id": 12
+        },
+        {
+            "latitude": 48.76,
+            "longitude": -122.49,
+            "location": "Bellingham",
+            "country": "United States of America (the)",
+            "id": 13
+        },
+        {
+            "latitude": 48.42,
+            "longitude": -122.33,
+            "location": "Mount Vernon",
+            "country": "United States of America (the)",
+            "id": 14
+        },
+        {
+            "latitude": 47.98,
+            "longitude": -122.2,
+            "location": "Everett",
+            "country": "United States of America (the)",
+            "id": 15
+        },
+        {
+            "latitude": 47.61,
+            "longitude": -122.34,
+            "location": "Seattle",
+            "country": "United States of America (the)",
+            "id": 16
+        },
+        {
+            "latitude": 47.25,
+            "longitude": -122.44,
+            "location": "Tacoma",
+            "country": "United States of America (the)",
+            "id": 17
+        },
+        {
+            "latitude": 47.04,
+            "longitude": -122.9,
+            "location": "Olympia",
+            "country": "United States of America (the)",
+            "id": 18
+        },
+        {
+            "latitude": 45.52,
+            "longitude": -122.68,
+            "location": "Portland",
+            "country": "United States of America (the)",
+            "id": 19
+        }
+    ],
+    "links": [
+        {
+            "length": 73.08261974195123,
+            "source": 1,
+            "target": 2.0
+        },
+        {
+            "length": 326.7224503254238,
+            "source": 1,
+            "target": 3.0
+        },
+        {
+            "length": 241.7112063035856,
+            "source": 1,
+            "target": 4.0
+        },
+        {
+            "length": 157.6832261384525,
+            "source": 1,
+            "target": 7.0
+        },
+        {
+            "length": 75.14546248417876,
+            "source": 3,
+            "target": 11.0
+        },
+        {
+            "length": 230.8602144919846,
+            "source": 3,
+            "target": 16.0
+        },
+        {
+            "length": 156.8566505681249,
+            "source": 4,
+            "target": 10.0
+        },
+        {
+            "length": 95.78907487116305,
+            "source": 5,
+            "target": 9.0
+        },
+        {
+            "length": 92.80716702310214,
+            "source": 5,
+            "target": 6.0
+        },
+        {
+            "length": 6.80750400672969,
+            "source": 6,
+            "target": 9.0
+        },
+        {
+            "length": 172.8824903246685,
+            "source": 6,
+            "target": 10.0
+        },
+        {
+            "length": 54.86341642985107,
+            "source": 7,
+            "target": 8.0
+        },
+        {
+            "length": 170.4636330891594,
+            "source": 9,
+            "target": 10.0
+        },
+        {
+            "length": 426.9179729563697,
+            "source": 9,
+            "target": 19.0
+        },
+        {
+            "length": 66.87308990199159,
+            "source": 10,
+            "target": 11.0
+        },
+        {
+            "length": 267.4600221751385,
+            "source": 10,
+            "target": 16.0
+        },
+        {
+            "length": 106.9151766804321,
+            "source": 12,
+            "target": 13.0
+        },
+        {
+            "length": 286.8332012043319,
+            "source": 12,
+            "target": 16.0
+        },
+        {
+            "length": 59.39308239786348,
+            "source": 13,
+            "target": 14.0
+        },
+        {
+            "length": 74.79814172574787,
+            "source": 14,
+            "target": 15.0
+        },
+        {
+            "length": 63.67565608224866,
+            "source": 15,
+            "target": 16.0
+        },
+        {
+            "length": 61.09619682834861,
+            "source": 16,
+            "target": 17.0
+        },
+        {
+            "length": 350.7687027868379,
+            "source": 16,
+            "target": 19.0
+        },
+        {
+            "length": 62.84884443637591,
+            "source": 17,
+            "target": 18.0
+        },
+        {
+            "length": 254.7894079178984,
+            "source": 18,
+            "target": 19.0
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 42.700196738745,
+            "longitude": 23.3218840373449,
+            "location": "Sofia",
+            "country": "Bulgaria",
+            "id": 9
+        },
+        {
+            "latitude": 43.835571,
+            "longitude": 25.965654,
+            "location": "Ruse",
+            "country": "Bulgaria",
+            "id": 1
+        },
+        {
+            "latitude": 43.27,
+            "longitude": 26.93,
+            "location": "Choumen",
+            "country": "Bulgaria",
+            "id": 2
+        },
+        {
+            "latitude": 43.21405,
+            "longitude": 27.914734,
+            "location": "Varna",
+            "country": "Bulgaria",
+            "id": 3
+        },
+        {
+            "latitude": 42.504791,
+            "longitude": 27.462637,
+            "location": "Burgas",
+            "country": "Bulgaria",
+            "id": 4
+        },
+        {
+            "latitude": 43.0756647759984,
+            "longitude": 25.6181872309471,
+            "location": "Trnovo",
+            "country": "Bulgaria",
+            "id": 5
+        },
+        {
+            "latitude": 42.8838819691562,
+            "longitude": 25.3149737976083,
+            "location": "Gabrovo",
+            "country": "Bulgaria",
+            "id": 6
+        },
+        {
+            "latitude": 42.4272119485047,
+            "longitude": 25.632925398511,
+            "location": "StaraZagora",
+            "country": "Bulgaria",
+            "id": 7
+        },
+        {
+            "latitude": 43.25,
+            "longitude": 24.37,
+            "location": "Pleven",
+            "country": "Bulgaria",
+            "id": 8
+        },
+        {
+            "latitude": 42.1355852008223,
+            "longitude": 24.7470533705177,
+            "location": "Plovdiv",
+            "country": "Bulgaria",
+            "id": 10
+        }
+    ],
+    "links": [
+        {
+            "length": 345.3,
+            "source": 1,
+            "target": 2.0
+        },
+        {
+            "length": 133.545,
+            "source": 1,
+            "target": 5.0
+        },
+        {
+            "length": 251.85,
+            "source": 2,
+            "target": 3.0
+        },
+        {
+            "length": 130.575,
+            "source": 3,
+            "target": 4.0
+        },
+        {
+            "length": 225.45,
+            "source": 4,
+            "target": 7.0
+        },
+        {
+            "length": 48.915,
+            "source": 5,
+            "target": 6.0
+        },
+        {
+            "length": 135.795,
+            "source": 5,
+            "target": 8.0
+        },
+        {
+            "length": 85.57499999999999,
+            "source": 6,
+            "target": 7.0
+        },
+        {
+            "length": 119.655,
+            "source": 7,
+            "target": 10.0
+        },
+        {
+            "length": 197.1,
+            "source": 8,
+            "target": 9.0
+        },
+        {
+            "length": 199.2,
+            "source": 9,
+            "target": 10.0
+        }
+    ]
+}

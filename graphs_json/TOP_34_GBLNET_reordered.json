@@ -1,0 +1,100 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 48.85,
+            "longitude": 2.35,
+            "location": "Paris",
+            "country": "France",
+            "id": 1
+        },
+        {
+            "latitude": 53.08,
+            "longitude": -0.14,
+            "location": "Coningsby",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "id": 2
+        },
+        {
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "location": "London",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "id": 3
+        },
+        {
+            "latitude": 59.33,
+            "longitude": 18.06,
+            "location": "Stockholm",
+            "country": "Sweden",
+            "id": 4
+        },
+        {
+            "latitude": 59.89,
+            "longitude": 30.26,
+            "location": "Avtovo",
+            "country": "Russian Federation (the)",
+            "id": 5
+        },
+        {
+            "latitude": 55.75,
+            "longitude": 37.62,
+            "location": "Moscow",
+            "country": "Russian Federation (the)",
+            "id": 6
+        },
+        {
+            "latitude": 52.37,
+            "longitude": 4.89,
+            "location": "Amsterdam",
+            "country": "Netherlands (Kingdom of the)",
+            "id": 7
+        },
+        {
+            "latitude": 50.12,
+            "longitude": 8.68,
+            "location": "Frankfurt am Main",
+            "country": "Germany",
+            "id": 8
+        }
+    ],
+    "links": [
+        {
+            "length": 645.6357804808555,
+            "source": 1,
+            "target": 7
+        },
+        {
+            "length": 521.6095788482335,
+            "source": 2,
+            "target": 7
+        },
+        {
+            "length": 535.6163051270169,
+            "source": 3,
+            "target": 7
+        },
+        {
+            "length": 1032.15219238748,
+            "source": 4,
+            "target": 5
+        },
+        {
+            "length": 1500.0,
+            "source": 4,
+            "target": 7
+        },
+        {
+            "length": 949.8667213173954,
+            "source": 5,
+            "target": 6
+        },
+        {
+            "length": 545.2339470871901,
+            "source": 7,
+            "target": 8
+        }
+    ]
+}

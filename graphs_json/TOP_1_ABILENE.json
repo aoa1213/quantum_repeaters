@@ -1,0 +1,156 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 40.7833,
+            "longitude": -73.9667,
+            "location": "Manhattan",
+            "country": "United States of America (the)",
+            "id": 8
+        },
+        {
+            "latitude": 33.75,
+            "longitude": -84.3833,
+            "location": "Atlanta",
+            "country": "United States of America (the)",
+            "id": 1
+        },
+        {
+            "latitude": 41.8333,
+            "longitude": -87.6167,
+            "location": "Chicago",
+            "country": "United States of America (the)",
+            "id": 2
+        },
+        {
+            "latitude": 40.75,
+            "longitude": -105.0,
+            "location": "Wellington",
+            "country": "United States of America (the)",
+            "id": 3
+        },
+        {
+            "latitude": 29.770031,
+            "longitude": -95.517364,
+            "location": "Hedwig Village",
+            "country": "United States of America (the)",
+            "id": 4
+        },
+        {
+            "latitude": 39.780622,
+            "longitude": -86.159535,
+            "location": "Indianapolis",
+            "country": "United States of America (the)",
+            "id": 5
+        },
+        {
+            "latitude": 38.961694,
+            "longitude": -96.596704,
+            "location": "Ogden",
+            "country": "United States of America (the)",
+            "id": 6
+        },
+        {
+            "latitude": 34.05,
+            "longitude": -118.25,
+            "location": "Los Angeles",
+            "country": "United States of America (the)",
+            "id": 7
+        },
+        {
+            "latitude": 37.38575,
+            "longitude": -122.02553,
+            "location": "Sunnyvale",
+            "country": "United States of America (the)",
+            "id": 9
+        },
+        {
+            "latitude": 47.6,
+            "longitude": -122.3,
+            "location": "Seattle",
+            "country": "United States of America (the)",
+            "id": 10
+        },
+        {
+            "latitude": 38.897303,
+            "longitude": -77.026842,
+            "location": "Washington, D.C.",
+            "country": "United States of America (the)",
+            "id": 11
+        }
+    ],
+    "links": [
+        {
+            "length": 1500.0,
+            "source": 1,
+            "target": 4.0
+        },
+        {
+            "length": 885.1138413916553,
+            "source": 1,
+            "target": 5.0
+        },
+        {
+            "length": 1348.854429653284,
+            "source": 1,
+            "target": 11.0
+        },
+        {
+            "length": 388.6491313578985,
+            "source": 2,
+            "target": 5.0
+        },
+        {
+            "length": 1500.0,
+            "source": 2,
+            "target": 8.0
+        },
+        {
+            "length": 1116.022139449131,
+            "source": 3,
+            "target": 6.0
+        },
+        {
+            "length": 1892.498311036556,
+            "source": 3,
+            "target": 9.0
+        },
+        {
+            "length": 1963.718340246905,
+            "source": 3,
+            "target": 10.0
+        },
+        {
+            "length": 1500.0,
+            "source": 4,
+            "target": 6.0
+        },
+        {
+            "length": 2741.202050417932,
+            "source": 4,
+            "target": 7.0
+        },
+        {
+            "length": 1351.895189767641,
+            "source": 5,
+            "target": 6.0
+        },
+        {
+            "length": 755.4741126799757,
+            "source": 7,
+            "target": 9.0
+        },
+        {
+            "length": 502.4825029191594,
+            "source": 8,
+            "target": 11.0
+        },
+        {
+            "length": 1500.0,
+            "source": 9,
+            "target": 10.0
+        }
+    ]
+}

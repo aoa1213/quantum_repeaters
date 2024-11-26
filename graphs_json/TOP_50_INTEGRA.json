@@ -1,0 +1,378 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 40.71,
+            "longitude": -74.01,
+            "location": "New York City",
+            "country": "United States of America (the)",
+            "id": 16
+        },
+        {
+            "latitude": 41.85,
+            "longitude": -87.65,
+            "location": "Chicago",
+            "country": "United States of America (the)",
+            "id": 1
+        },
+        {
+            "latitude": 32.78,
+            "longitude": -96.81,
+            "location": "Dallas",
+            "country": "United States of America (the)",
+            "id": 2
+        },
+        {
+            "latitude": 45.56,
+            "longitude": -94.16,
+            "location": "Saint Cloud",
+            "country": "United States of America (the)",
+            "id": 3
+        },
+        {
+            "latitude": 44.98,
+            "longitude": -93.26,
+            "location": "Minneapolis",
+            "country": "United States of America (the)",
+            "id": 4
+        },
+        {
+            "latitude": 34.05,
+            "longitude": -118.24,
+            "location": "Los Angeles",
+            "country": "United States of America (the)",
+            "id": 5
+        },
+        {
+            "latitude": 37.35,
+            "longitude": -121.96,
+            "location": "Santa Clara",
+            "country": "United States of America (the)",
+            "id": 6
+        },
+        {
+            "latitude": 36.17,
+            "longitude": -115.14,
+            "location": "Las Vegas",
+            "country": "United States of America (the)",
+            "id": 7
+        },
+        {
+            "latitude": 33.45,
+            "longitude": -112.07,
+            "location": "Phoenix",
+            "country": "United States of America (the)",
+            "id": 8
+        },
+        {
+            "latitude": 38.58,
+            "longitude": -121.49,
+            "location": "Sacramento",
+            "country": "United States of America (the)",
+            "id": 9
+        },
+        {
+            "latitude": 38.44,
+            "longitude": -122.71,
+            "location": "Santa Rosa",
+            "country": "United States of America (the)",
+            "id": 10
+        },
+        {
+            "latitude": 44.94,
+            "longitude": -123.04,
+            "location": "Salem",
+            "country": "United States of America (the)",
+            "id": 11
+        },
+        {
+            "latitude": 44.06,
+            "longitude": -121.32,
+            "location": "Bend",
+            "country": "United States of America (the)",
+            "id": 12
+        },
+        {
+            "latitude": 44.05,
+            "longitude": -123.09,
+            "location": "Eugene",
+            "country": "United States of America (the)",
+            "id": 13
+        },
+        {
+            "latitude": 39.53,
+            "longitude": -119.81,
+            "location": "Reno",
+            "country": "United States of America (the)",
+            "id": 14
+        },
+        {
+            "latitude": 38.59,
+            "longitude": -121.3,
+            "location": "Rancho Cordova",
+            "country": "United States of America (the)",
+            "id": 15
+        },
+        {
+            "latitude": 39.04,
+            "longitude": -77.49,
+            "location": "Ashburn",
+            "country": "United States of America (the)",
+            "id": 17
+        },
+        {
+            "latitude": 47.66,
+            "longitude": -117.43,
+            "location": "Spokane",
+            "country": "United States of America (the)",
+            "id": 18
+        },
+        {
+            "latitude": 46.88,
+            "longitude": -96.79,
+            "location": "Fargo",
+            "country": "United States of America (the)",
+            "id": 19
+        },
+        {
+            "latitude": 45.78,
+            "longitude": -108.5,
+            "location": "Billings",
+            "country": "United States of America (the)",
+            "id": 20
+        },
+        {
+            "latitude": 39.74,
+            "longitude": -104.98,
+            "location": "Denver",
+            "country": "United States of America (the)",
+            "id": 21
+        },
+        {
+            "latitude": 41.22,
+            "longitude": -111.97,
+            "location": "Ogden",
+            "country": "United States of America (the)",
+            "id": 22
+        },
+        {
+            "latitude": 40.3,
+            "longitude": -111.69,
+            "location": "Orem",
+            "country": "United States of America (the)",
+            "id": 23
+        },
+        {
+            "latitude": 40.76,
+            "longitude": -111.89,
+            "location": "Salt Lake City",
+            "country": "United States of America (the)",
+            "id": 24
+        },
+        {
+            "latitude": 43.61,
+            "longitude": -116.2,
+            "location": "Boise",
+            "country": "United States of America (the)",
+            "id": 25
+        },
+        {
+            "latitude": 45.52,
+            "longitude": -122.68,
+            "location": "Portland",
+            "country": "United States of America (the)",
+            "id": 26
+        },
+        {
+            "latitude": 47.61,
+            "longitude": -122.33,
+            "location": "Seattle",
+            "country": "United States of America (the)",
+            "id": 27
+        }
+    ],
+    "links": [
+        {
+            "length": 1371.117095352517,
+            "source": 1,
+            "target": 17.0
+        },
+        {
+            "length": 856.6967858075002,
+            "source": 1,
+            "target": 4.0
+        },
+        {
+            "length": 1843.716434385458,
+            "source": 1,
+            "target": 21.0
+        },
+        {
+            "length": 1500.0,
+            "source": 2,
+            "target": 21.0
+        },
+        {
+            "length": 1777.377955221904,
+            "source": 2,
+            "target": 8.0
+        },
+        {
+            "length": 374.9189023995028,
+            "source": 3,
+            "target": 19.0
+        },
+        {
+            "length": 143.2439767771629,
+            "source": 3,
+            "target": 4.0
+        },
+        {
+            "length": 517.7263785550638,
+            "source": 4,
+            "target": 19.0
+        },
+        {
+            "length": 2798.902600946488,
+            "source": 4,
+            "target": 27.0
+        },
+        {
+            "length": 2043.907199971668,
+            "source": 4,
+            "target": 16.0
+        },
+        {
+            "length": 746.0789546600618,
+            "source": 5,
+            "target": 6.0
+        },
+        {
+            "length": 551.2511575012703,
+            "source": 5,
+            "target": 7.0
+        },
+        {
+            "length": 861.3692628497527,
+            "source": 5,
+            "target": 8.0
+        },
+        {
+            "length": 214.2607789089177,
+            "source": 6,
+            "target": 9.0
+        },
+        {
+            "length": 875.1907174327788,
+            "source": 7,
+            "target": 24.0
+        },
+        {
+            "length": 618.4493777535091,
+            "source": 7,
+            "target": 8.0
+        },
+        {
+            "length": 160.9300921413741,
+            "source": 9,
+            "target": 10.0
+        },
+        {
+            "length": 269.1664316225356,
+            "source": 9,
+            "target": 14.0
+        },
+        {
+            "length": 24.82807554679378,
+            "source": 9,
+            "target": 15.0
+        },
+        {
+            "length": 1166.845178904244,
+            "source": 9,
+            "target": 26.0
+        },
+        {
+            "length": 105.5780583789585,
+            "source": 11,
+            "target": 26.0
+        },
+        {
+            "length": 148.5643640399954,
+            "source": 11,
+            "target": 13.0
+        },
+        {
+            "length": 291.9085042218529,
+            "source": 12,
+            "target": 26.0
+        },
+        {
+            "length": 603.6183344061474,
+            "source": 12,
+            "target": 27.0
+        },
+        {
+            "length": 1030.031392577858,
+            "source": 14,
+            "target": 24.0
+        },
+        {
+            "length": 525.3065372949657,
+            "source": 16,
+            "target": 17.0
+        },
+        {
+            "length": 550.6983275646231,
+            "source": 18,
+            "target": 27.0
+        },
+        {
+            "length": 1067.463439813683,
+            "source": 18,
+            "target": 20.0
+        },
+        {
+            "length": 1095.480395458758,
+            "source": 20,
+            "target": 21.0
+        },
+        {
+            "length": 920.2225536447613,
+            "source": 21,
+            "target": 22.0
+        },
+        {
+            "length": 157.4733440312334,
+            "source": 22,
+            "target": 23.0
+        },
+        {
+            "length": 77.38275291458565,
+            "source": 22,
+            "target": 24.0
+        },
+        {
+            "length": 80.80529193589061,
+            "source": 23,
+            "target": 24.0
+        },
+        {
+            "length": 713.7523611067775,
+            "source": 24,
+            "target": 25.0
+        },
+        {
+            "length": 833.0136408211406,
+            "source": 25,
+            "target": 26.0
+        },
+        {
+            "length": 350.8979570264834,
+            "source": 26,
+            "target": 27.0
+        }
+    ]
+}

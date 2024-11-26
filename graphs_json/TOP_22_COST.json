@@ -1,0 +1,553 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 37.38,
+            "longitude": -5.98,
+            "location": "Sevilla",
+            "country": "Spain",
+            "id": 30
+        },
+        {
+            "latitude": 52.35,
+            "longitude": 4.9,
+            "location": "Amsterdam",
+            "country": "Netherlands (Kingdom of the)",
+            "id": 1
+        },
+        {
+            "latitude": 38.0,
+            "longitude": 23.73,
+            "location": "Kipseli",
+            "country": "Greece",
+            "id": 2
+        },
+        {
+            "latitude": 41.37,
+            "longitude": 2.18,
+            "location": "Ciutat Vella",
+            "country": "Spain",
+            "id": 3
+        },
+        {
+            "latitude": 44.83,
+            "longitude": 20.5,
+            "location": "Palilula",
+            "country": "Serbia",
+            "id": 4
+        },
+        {
+            "latitude": 52.52,
+            "longitude": 13.4,
+            "location": "Mitte",
+            "country": "Germany",
+            "id": 5
+        },
+        {
+            "latitude": 52.47,
+            "longitude": -1.88,
+            "location": "Birmingham",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "id": 6
+        },
+        {
+            "latitude": 44.85,
+            "longitude": -0.57,
+            "location": "Bordeaux",
+            "country": "France",
+            "id": 7
+        },
+        {
+            "latitude": 50.83,
+            "longitude": 4.35,
+            "location": "Brussels",
+            "country": "Belgium",
+            "id": 8
+        },
+        {
+            "latitude": 47.5,
+            "longitude": 19.08,
+            "location": "Budapest VII. keruelet",
+            "country": "Hungary",
+            "id": 9
+        },
+        {
+            "latitude": 55.72,
+            "longitude": 12.57,
+            "location": "Charlottenlund",
+            "country": "Denmark",
+            "id": 10
+        },
+        {
+            "latitude": 53.33,
+            "longitude": -6.25,
+            "location": "Dublin",
+            "country": "Ireland",
+            "id": 11
+        },
+        {
+            "latitude": 51.23,
+            "longitude": 6.78,
+            "location": "Dusseldorf",
+            "country": "Germany",
+            "id": 12
+        },
+        {
+            "latitude": 50.1,
+            "longitude": 8.67,
+            "location": "Frankfurt am Main",
+            "country": "Germany",
+            "id": 13
+        },
+        {
+            "latitude": 55.85,
+            "longitude": -4.25,
+            "location": "Glasgow",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "id": 14
+        },
+        {
+            "latitude": 53.55,
+            "longitude": 10.02,
+            "location": "Hamburg-Mitte",
+            "country": "Germany",
+            "id": 15
+        },
+        {
+            "latitude": 60.17,
+            "longitude": 24.97,
+            "location": "Helsinki",
+            "country": "Finland",
+            "id": 16
+        },
+        {
+            "latitude": 50.05,
+            "longitude": 19.95,
+            "location": "Krakow",
+            "country": "Poland",
+            "id": 17
+        },
+        {
+            "latitude": 38.73,
+            "longitude": -9.13,
+            "location": "Lisbon",
+            "country": "Portugal",
+            "id": 18
+        },
+        {
+            "latitude": 51.5,
+            "longitude": -0.17,
+            "location": "Chelsea",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "id": 19
+        },
+        {
+            "latitude": 45.73,
+            "longitude": 4.83,
+            "location": "La Mulatiere",
+            "country": "France",
+            "id": 20
+        },
+        {
+            "latitude": 40.42,
+            "longitude": -3.72,
+            "location": "City Center",
+            "country": "Spain",
+            "id": 21
+        },
+        {
+            "latitude": 43.3,
+            "longitude": 5.37,
+            "location": "Marseille 02",
+            "country": "France",
+            "id": 22
+        },
+        {
+            "latitude": 45.47,
+            "longitude": 9.17,
+            "location": "Milano",
+            "country": "Italy",
+            "id": 23
+        },
+        {
+            "latitude": 48.13,
+            "longitude": 11.57,
+            "location": "Munich",
+            "country": "Germany",
+            "id": 24
+        },
+        {
+            "latitude": 59.93,
+            "longitude": 10.75,
+            "location": "Oslo",
+            "country": "Norway",
+            "id": 25
+        },
+        {
+            "latitude": 38.12,
+            "longitude": 13.35,
+            "location": "Palermo",
+            "country": "Italy",
+            "id": 26
+        },
+        {
+            "latitude": 48.87,
+            "longitude": 2.33,
+            "location": "Paris",
+            "country": "France",
+            "id": 27
+        },
+        {
+            "latitude": 50.08,
+            "longitude": 14.43,
+            "location": "Stare Mesto",
+            "country": "Czechia",
+            "id": 28
+        },
+        {
+            "latitude": 41.88,
+            "longitude": 12.5,
+            "location": "Rome",
+            "country": "Italy",
+            "id": 29
+        },
+        {
+            "latitude": 42.75,
+            "longitude": 23.33,
+            "location": "Sofia",
+            "country": "Bulgaria",
+            "id": 31
+        },
+        {
+            "latitude": 59.33,
+            "longitude": 18.05,
+            "location": "Stockholm",
+            "country": "Sweden",
+            "id": 32
+        },
+        {
+            "latitude": 48.58,
+            "longitude": 7.77,
+            "location": "Strasbourg",
+            "country": "France",
+            "id": 33
+        },
+        {
+            "latitude": 48.22,
+            "longitude": 16.37,
+            "location": "Vienna",
+            "country": "Austria",
+            "id": 34
+        },
+        {
+            "latitude": 52.25,
+            "longitude": 21.0,
+            "location": "Wola",
+            "country": "Poland",
+            "id": 35
+        },
+        {
+            "latitude": 45.83,
+            "longitude": 16.02,
+            "location": "Dubrava",
+            "country": "Croatia",
+            "id": 36
+        },
+        {
+            "latitude": 47.38,
+            "longitude": 8.55,
+            "location": "Zuerich (Kreis 6) / Oberstrass",
+            "country": "Switzerland",
+            "id": 37
+        }
+    ],
+    "links": [
+        {
+            "length": 259.84965666159,
+            "source": 1,
+            "target": 8.0
+        },
+        {
+            "length": 1067.161007176065,
+            "source": 1,
+            "target": 14.0
+        },
+        {
+            "length": 551.932850462205,
+            "source": 1,
+            "target": 15.0
+        },
+        {
+            "length": 540.2969276038555,
+            "source": 1,
+            "target": 19.0
+        },
+        {
+            "length": 1362.6064844523,
+            "source": 2,
+            "target": 26.0
+        },
+        {
+            "length": 793.8895623997772,
+            "source": 2,
+            "target": 31.0
+        },
+        {
+            "length": 1500.0,
+            "source": 2,
+            "target": 36.0
+        },
+        {
+            "length": 760.3967118138279,
+            "source": 3,
+            "target": 21.0
+        },
+        {
+            "length": 508.1861149365545,
+            "source": 3,
+            "target": 22.0
+        },
+        {
+            "length": 1244.055742188373,
+            "source": 3,
+            "target": 30.0
+        },
+        {
+            "length": 474.5629290263091,
+            "source": 4,
+            "target": 9.0
+        },
+        {
+            "length": 486.2164681079691,
+            "source": 4,
+            "target": 31.0
+        },
+        {
+            "length": 551.0721619498521,
+            "source": 4,
+            "target": 36.0
+        },
+        {
+            "length": 539.8567721623151,
+            "source": 5,
+            "target": 10.0
+        },
+        {
+            "length": 379.9950800815279,
+            "source": 5,
+            "target": 15.0
+        },
+        {
+            "length": 757.6386535506992,
+            "source": 5,
+            "target": 24.0
+        },
+        {
+            "length": 420.8979911049674,
+            "source": 5,
+            "target": 28.0
+        },
+        {
+            "length": 774.6461442087643,
+            "source": 5,
+            "target": 35.0
+        },
+        {
+            "length": 609.3320278949963,
+            "source": 6,
+            "target": 14.0
+        },
+        {
+            "length": 238.7977363091017,
+            "source": 6,
+            "target": 19.0
+        },
+        {
+            "length": 833.7142844783104,
+            "source": 7,
+            "target": 21.0
+        },
+        {
+            "length": 757.0555809713325,
+            "source": 7,
+            "target": 22.0
+        },
+        {
+            "length": 747.5017116213392,
+            "source": 7,
+            "target": 27.0
+        },
+        {
+            "length": 263.4745758563398,
+            "source": 8,
+            "target": 12.0
+        },
+        {
+            "length": 392.4792710554075,
+            "source": 8,
+            "target": 27.0
+        },
+        {
+            "length": 435.9301886415584,
+            "source": 9,
+            "target": 17.0
+        },
+        {
+            "length": 667.8119982971642,
+            "source": 9,
+            "target": 28.0
+        },
+        {
+            "length": 720.4908600074742,
+            "source": 10,
+            "target": 25.0
+        },
+        {
+            "length": 776.2740263923121,
+            "source": 10,
+            "target": 32.0
+        },
+        {
+            "length": 462.5816015725619,
+            "source": 11,
+            "target": 14.0
+        },
+        {
+            "length": 689.4418556744857,
+            "source": 11,
+            "target": 19.0
+        },
+        {
+            "length": 274.6626160936054,
+            "source": 12,
+            "target": 13.0
+        },
+        {
+            "length": 591.9943959052813,
+            "source": 13,
+            "target": 15.0
+        },
+        {
+            "length": 456.2237094139668,
+            "source": 13,
+            "target": 24.0
+        },
+        {
+            "length": 271.7320304315402,
+            "source": 13,
+            "target": 33.0
+        },
+        {
+            "length": 1182.486309099843,
+            "source": 16,
+            "target": 25.0
+        },
+        {
+            "length": 597.7929501950997,
+            "source": 16,
+            "target": 32.0
+        },
+        {
+            "length": 1370.746447127423,
+            "source": 16,
+            "target": 35.0
+        },
+        {
+            "length": 383.0241099250181,
+            "source": 17,
+            "target": 35.0
+        },
+        {
+            "length": 1977.150285844333,
+            "source": 18,
+            "target": 19.0
+        },
+        {
+            "length": 750.3016254076838,
+            "source": 18,
+            "target": 21.0
+        },
+        {
+            "length": 470.973510825015,
+            "source": 18,
+            "target": 30.0
+        },
+        {
+            "length": 513.4593301745787,
+            "source": 19,
+            "target": 27.0
+        },
+        {
+            "length": 410.3594835737697,
+            "source": 20,
+            "target": 22.0
+        },
+        {
+            "length": 595.1118221794119,
+            "source": 20,
+            "target": 27.0
+        },
+        {
+            "length": 507.6393041373273,
+            "source": 20,
+            "target": 37.0
+        },
+        {
+            "length": 906.6723231378437,
+            "source": 22,
+            "target": 29.0
+        },
+        {
+            "length": 521.4075026201809,
+            "source": 23,
+            "target": 24.0
+        },
+        {
+            "length": 720.9026371475536,
+            "source": 23,
+            "target": 29.0
+        },
+        {
+            "length": 326.4476765283113,
+            "source": 23,
+            "target": 37.0
+        },
+        {
+            "length": 534.012623777059,
+            "source": 24,
+            "target": 34.0
+        },
+        {
+            "length": 636.4633146922802,
+            "source": 26,
+            "target": 29.0
+        },
+        {
+            "length": 600.37691157053,
+            "source": 27,
+            "target": 33.0
+        },
+        {
+            "length": 375.5220067711124,
+            "source": 28,
+            "target": 34.0
+        },
+        {
+            "length": 782.9414880645511,
+            "source": 29,
+            "target": 36.0
+        },
+        {
+            "length": 218.2728433959167,
+            "source": 33,
+            "target": 37.0
+        },
+        {
+            "length": 400.6139057896578,
+            "source": 34,
+            "target": 36.0
+        }
+    ]
+}

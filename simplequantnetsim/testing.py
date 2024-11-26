@@ -1,31 +1,31 @@
+import json
 import networkx as nx
+import matplotlib.pyplot as plt
+from pathlib import Path
 
-# G = nx.Graph()
-# G.add_edge(1, 2, weight=4.7)
-# G.add_edge(2, 3, weight=6.7)
+# Step 1: 读取 JSON 文件
+filepath = Path(__file__).parent.parent.joinpath('graphs_json', 'TOP_1_ABILENE.json')
+with open(filepath, "r") as f:
+    data = json.load(f)
 
-# # 获取 edges
-# edges = G.edges().values()
-# edges_with_data = G.edges(data= True)
-# print(edges)  # 这是一个 EdgeView 对象
-# print(edges_with_data)
-# #print(list(edges_with_data))
-# #print(list(edges))  # 转换为列表 [(1, 2), (2, 3)]
+# Step 2: 初始化图
+G = nx.Graph()
 
-import networkx as nx
+# Step 3: 添加节点
+pos = {}
+for node in data["nodes"]:
+    node_id = node["id"]
+    x, y = node["latitude"], node["longitude"]
+    G.add_node(node_id, location=node["location"], country=node["country"])  # 添加节点到图
+    pos[node_id] = (y, x)  # 保存节点位置，注意 (longitude, latitude)
 
-# 创建一个简单的图
-G = nx.grid_2d_graph(3, 3)  # 3x3的网格图
+# Step 4: 添加边
+for edge in data["links"]:
+    source = int(edge["source"])
+    target = int(edge["target"])
+    G.add_edge(source, target, length=edge["length"])  # 添加边到图
 
-# 此时，节点没有任何属性
-print(G.nodes(data=True))  # 打印节点和属性
-# 输出: [(0, 0, {}), (0, 1, {}), ..., (2, 2, {})]，所有节点属性为空字典
-
-# 通过 set_node_attributes 动态为节点添加属性
-nx.set_node_attributes(G, False, "entangled")
-nx.set_node_attributes(G, 0, "age")
-
-# 再次查看节点的属性
-print(G.nodes(data=True))
-print(type(G.nodes))
-# 输出: [(0, 0, {'entangled': False, 'age': 0}), ..., (2, 2, {'entangled': False, 'age': 0})]
+# Step 5: 绘制图
+nx.draw(G, pos, with_labels=True, node_color="lightblue", edge_color="gray")
+plt.title("Network Topology of TOP_1_ABILENE")
+plt.show()

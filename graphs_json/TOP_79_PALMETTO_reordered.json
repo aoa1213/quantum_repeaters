@@ -1,0 +1,644 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 34.23,
+            "longitude": -77.94,
+            "location": "Wilmington",
+            "country": "United States of America (the)",
+            "id": 1
+        },
+        {
+            "latitude": 34.92,
+            "longitude": -81.03,
+            "location": "Rock Hill",
+            "country": "United States of America (the)",
+            "id": 2
+        },
+        {
+            "latitude": 35.23,
+            "longitude": -80.84,
+            "location": "Charlotte",
+            "country": "United States of America (the)",
+            "id": 3
+        },
+        {
+            "latitude": 34.41,
+            "longitude": -80.35,
+            "location": "Bishopville",
+            "country": "United States of America (the)",
+            "id": 4
+        },
+        {
+            "latitude": 34.72,
+            "longitude": -80.77,
+            "location": "Lancaster",
+            "country": "United States of America (the)",
+            "id": 5
+        },
+        {
+            "latitude": 36.06,
+            "longitude": -80.62,
+            "location": "Yadkinville",
+            "country": "United States of America (the)",
+            "id": 6
+        },
+        {
+            "latitude": 35.82,
+            "longitude": -80.25,
+            "location": "Lexington",
+            "country": "United States of America (the)",
+            "id": 7
+        },
+        {
+            "latitude": 35.41,
+            "longitude": -80.58,
+            "location": "Concord",
+            "country": "United States of America (the)",
+            "id": 8
+        },
+        {
+            "latitude": 35.64,
+            "longitude": -80.46,
+            "location": "Granite Quarry",
+            "country": "United States of America (the)",
+            "id": 9
+        },
+        {
+            "latitude": 35.96,
+            "longitude": -80.01,
+            "location": "High Point",
+            "country": "United States of America (the)",
+            "id": 10
+        },
+        {
+            "latitude": 35.71,
+            "longitude": -79.81,
+            "location": "Asheboro",
+            "country": "United States of America (the)",
+            "id": 11
+        },
+        {
+            "latitude": 33.49,
+            "longitude": -80.86,
+            "location": "Orangeburg",
+            "country": "United States of America (the)",
+            "id": 12
+        },
+        {
+            "latitude": 33.56,
+            "longitude": -81.72,
+            "location": "Aiken",
+            "country": "United States of America (the)",
+            "id": 13
+        },
+        {
+            "latitude": 34.7,
+            "longitude": -81.21,
+            "location": "Chester",
+            "country": "United States of America (the)",
+            "id": 14
+        },
+        {
+            "latitude": 34.0,
+            "longitude": -81.03,
+            "location": "Columbia",
+            "country": "United States of America (the)",
+            "id": 15
+        },
+        {
+            "latitude": 33.92,
+            "longitude": -80.34,
+            "location": "Sumter",
+            "country": "United States of America (the)",
+            "id": 16
+        },
+        {
+            "latitude": 33.38,
+            "longitude": -79.29,
+            "location": "Georgetown",
+            "country": "United States of America (the)",
+            "id": 17
+        },
+        {
+            "latitude": 33.2,
+            "longitude": -80.01,
+            "location": "Moncks Corner",
+            "country": "United States of America (the)",
+            "id": 18
+        },
+        {
+            "latitude": 32.78,
+            "longitude": -79.93,
+            "location": "Charleston",
+            "country": "United States of America (the)",
+            "id": 19
+        },
+        {
+            "latitude": 33.19,
+            "longitude": -80.58,
+            "location": "Saint George",
+            "country": "United States of America (the)",
+            "id": 20
+        },
+        {
+            "latitude": 32.91,
+            "longitude": -80.67,
+            "location": "Walterboro",
+            "country": "United States of America (the)",
+            "id": 21
+        },
+        {
+            "latitude": 32.69,
+            "longitude": -80.85,
+            "location": "Yemassee",
+            "country": "United States of America (the)",
+            "id": 22
+        },
+        {
+            "latitude": 33.5,
+            "longitude": -81.97,
+            "location": "North Augusta",
+            "country": "United States of America (the)",
+            "id": 23
+        },
+        {
+            "latitude": 32.22,
+            "longitude": -80.75,
+            "location": "Hilton Head Island",
+            "country": "United States of America (the)",
+            "id": 24
+        },
+        {
+            "latitude": 32.43,
+            "longitude": -80.67,
+            "location": "Beaufort",
+            "country": "United States of America (the)",
+            "id": 25
+        },
+        {
+            "latitude": 32.08,
+            "longitude": -81.1,
+            "location": "Savannah",
+            "country": "United States of America (the)",
+            "id": 26
+        },
+        {
+            "latitude": 34.2,
+            "longitude": -82.16,
+            "location": "Greenwood",
+            "country": "United States of America (the)",
+            "id": 27
+        },
+        {
+            "latitude": 34.33,
+            "longitude": -82.39,
+            "location": "Due West",
+            "country": "United States of America (the)",
+            "id": 28
+        },
+        {
+            "latitude": 34.95,
+            "longitude": -81.93,
+            "location": "Spartanburg",
+            "country": "United States of America (the)",
+            "id": 29
+        },
+        {
+            "latitude": 35.6,
+            "longitude": -82.55,
+            "location": "Asheville",
+            "country": "United States of America (the)",
+            "id": 30
+        },
+        {
+            "latitude": 36.22,
+            "longitude": -81.67,
+            "location": "Boone",
+            "country": "United States of America (the)",
+            "id": 31
+        },
+        {
+            "latitude": 35.73,
+            "longitude": -81.34,
+            "location": "Hickory",
+            "country": "United States of America (the)",
+            "id": 32
+        },
+        {
+            "latitude": 34.5,
+            "longitude": -82.65,
+            "location": "Anderson",
+            "country": "United States of America (the)",
+            "id": 33
+        },
+        {
+            "latitude": 34.68,
+            "longitude": -82.84,
+            "location": "Clemson",
+            "country": "United States of America (the)",
+            "id": 34
+        },
+        {
+            "latitude": 34.58,
+            "longitude": -83.33,
+            "location": "Toccoa",
+            "country": "United States of America (the)",
+            "id": 35
+        },
+        {
+            "latitude": 34.85,
+            "longitude": -82.39,
+            "location": "Greenville",
+            "country": "United States of America (the)",
+            "id": 36
+        },
+        {
+            "latitude": 33.69,
+            "longitude": -78.89,
+            "location": "Myrtle Beach",
+            "country": "United States of America (the)",
+            "id": 37
+        },
+        {
+            "latitude": 34.2,
+            "longitude": -79.76,
+            "location": "Florence",
+            "country": "United States of America (the)",
+            "id": 38
+        },
+        {
+            "latitude": 36.35,
+            "longitude": -81.53,
+            "location": "West Jefferson",
+            "country": "United States of America (the)",
+            "id": 39
+        },
+        {
+            "latitude": 36.51,
+            "longitude": -81.12,
+            "location": "Sparta",
+            "country": "United States of America (the)",
+            "id": 40
+        },
+        {
+            "latitude": 36.5,
+            "longitude": -80.61,
+            "location": "Mount Airy",
+            "country": "United States of America (the)",
+            "id": 41
+        },
+        {
+            "latitude": 36.07,
+            "longitude": -79.79,
+            "location": "Greensboro",
+            "country": "United States of America (the)",
+            "id": 42
+        },
+        {
+            "latitude": 35.77,
+            "longitude": -78.64,
+            "location": "Raleigh",
+            "country": "United States of America (the)",
+            "id": 43
+        },
+        {
+            "latitude": 35.92,
+            "longitude": -77.8,
+            "location": "Rocky Mount",
+            "country": "United States of America (the)",
+            "id": 44
+        },
+        {
+            "latitude": 35.05,
+            "longitude": -78.88,
+            "location": "Fayetteville",
+            "country": "United States of America (the)",
+            "id": 45
+        }
+    ],
+    "links": [
+        {
+            "length": 159.324710865685,
+            "source": 1,
+            "target": 37
+        },
+        {
+            "length": 188.0010155027194,
+            "source": 1,
+            "target": 45
+        },
+        {
+            "length": 57.8456794462276,
+            "source": 2,
+            "target": 3
+        },
+        {
+            "length": 48.78769399114051,
+            "source": 2,
+            "target": 5
+        },
+        {
+            "length": 44.20517405986438,
+            "source": 2,
+            "target": 14
+        },
+        {
+            "length": 155.9183698190849,
+            "source": 3,
+            "target": 29
+        },
+        {
+            "length": 46.40446899796566,
+            "source": 3,
+            "target": 8
+        },
+        {
+            "length": 77.46788583760734,
+            "source": 4,
+            "target": 5
+        },
+        {
+            "length": 88.5143211533358,
+            "source": 4,
+            "target": 38
+        },
+        {
+            "length": 81.73992223630958,
+            "source": 4,
+            "target": 16
+        },
+        {
+            "length": 64.02266000077758,
+            "source": 6,
+            "target": 7
+        },
+        {
+            "length": 131.678383729094,
+            "source": 6,
+            "target": 39
+        },
+        {
+            "length": 73.40096750842672,
+            "source": 6,
+            "target": 41
+        },
+        {
+            "length": 39.96226203122897,
+            "source": 7,
+            "target": 10
+        },
+        {
+            "length": 62.31134820273502,
+            "source": 7,
+            "target": 11
+        },
+        {
+            "length": 81.72308477135138,
+            "source": 7,
+            "target": 8
+        },
+        {
+            "length": 41.35008136567951,
+            "source": 7,
+            "target": 9
+        },
+        {
+            "length": 41.6774486117155,
+            "source": 8,
+            "target": 9
+        },
+        {
+            "length": 34.89355825481393,
+            "source": 10,
+            "target": 42
+        },
+        {
+            "length": 49.70012301501819,
+            "source": 10,
+            "target": 11
+        },
+        {
+            "length": 63.45077813921795,
+            "source": 12,
+            "target": 20
+        },
+        {
+            "length": 88.27112675951767,
+            "source": 12,
+            "target": 15
+        },
+        {
+            "length": 36.17133904149614,
+            "source": 13,
+            "target": 23
+        },
+        {
+            "length": 120.565912964303,
+            "source": 13,
+            "target": 15
+        },
+        {
+            "length": 173.5151374075061,
+            "source": 14,
+            "target": 28
+        },
+        {
+            "length": 119.3567093728721,
+            "source": 14,
+            "target": 15
+        },
+        {
+            "length": 154.7538805933429,
+            "source": 15,
+            "target": 23
+        },
+        {
+            "length": 96.38404312073419,
+            "source": 15,
+            "target": 16
+        },
+        {
+            "length": 128.5511611326373,
+            "source": 16,
+            "target": 18
+        },
+        {
+            "length": 92.75821890876946,
+            "source": 16,
+            "target": 38
+        },
+        {
+            "length": 171.363330055081,
+            "source": 16,
+            "target": 17
+        },
+        {
+            "length": 75.9350143287549,
+            "source": 17,
+            "target": 37
+        },
+        {
+            "length": 70.9412038726942,
+            "source": 18,
+            "target": 19
+        },
+        {
+            "length": 201.8938600263337,
+            "source": 19,
+            "target": 26
+        },
+        {
+            "length": 113.7825282525018,
+            "source": 19,
+            "target": 20
+        },
+        {
+            "length": 209.9703883741782,
+            "source": 19,
+            "target": 37
+        },
+        {
+            "length": 48.36714658890315,
+            "source": 20,
+            "target": 21
+        },
+        {
+            "length": 44.53457481985063,
+            "source": 21,
+            "target": 22
+        },
+        {
+            "length": 107.6643852546201,
+            "source": 22,
+            "target": 26
+        },
+        {
+            "length": 79.64578823027867,
+            "source": 22,
+            "target": 24
+        },
+        {
+            "length": 50.20854250711137,
+            "source": 22,
+            "target": 25
+        },
+        {
+            "length": 266.4111090788407,
+            "source": 23,
+            "target": 26
+        },
+        {
+            "length": 191.4692947345362,
+            "source": 23,
+            "target": 33
+        },
+        {
+            "length": 54.66401332962943,
+            "source": 24,
+            "target": 26
+        },
+        {
+            "length": 38.40972645929797,
+            "source": 27,
+            "target": 28
+        },
+        {
+            "length": 45.64943549743599,
+            "source": 28,
+            "target": 33
+        },
+        {
+            "length": 65.09866816416721,
+            "source": 29,
+            "target": 36
+        },
+        {
+            "length": 152.8699077698096,
+            "source": 29,
+            "target": 32
+        },
+        {
+            "length": 126.9795890670027,
+            "source": 30,
+            "target": 36
+        },
+        {
+            "length": 165.3919912696472,
+            "source": 30,
+            "target": 32
+        },
+        {
+            "length": 28.71324056469416,
+            "source": 31,
+            "target": 39
+        },
+        {
+            "length": 39.77413258516774,
+            "source": 33,
+            "target": 34
+        },
+        {
+            "length": 94.37441625531932,
+            "source": 33,
+            "target": 35
+        },
+        {
+            "length": 69.2866558622193,
+            "source": 34,
+            "target": 35
+        },
+        {
+            "length": 67.8659279926212,
+            "source": 34,
+            "target": 36
+        },
+        {
+            "length": 136.5173087355884,
+            "source": 35,
+            "target": 36
+        },
+        {
+            "length": 147.3997522399589,
+            "source": 37,
+            "target": 38
+        },
+        {
+            "length": 186.2448061546731,
+            "source": 38,
+            "target": 45
+        },
+        {
+            "length": 61.15160808897767,
+            "source": 39,
+            "target": 40
+        },
+        {
+            "length": 68.39522015228562,
+            "source": 40,
+            "target": 41
+        },
+        {
+            "length": 163.1948896871107,
+            "source": 42,
+            "target": 43
+        },
+        {
+            "length": 116.2928730877905,
+            "source": 43,
+            "target": 44
+        },
+        {
+            "length": 124.4432845405062,
+            "source": 43,
+            "target": 45
+        },
+        {
+            "length": 206.3252752361255,
+            "source": 44,
+            "target": 45
+        }
+    ]
+}

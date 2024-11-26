@@ -1,0 +1,139 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": -8.0539,
+            "longitude": -34.8808,
+            "location": "Recife",
+            "country": "Brazil",
+            "id": 2
+        },
+        {
+            "latitude": -3.7275,
+            "longitude": -38.5275,
+            "location": "Fortaleza",
+            "country": "Brazil",
+            "id": 1
+        },
+        {
+            "latitude": -12.9831,
+            "longitude": -38.4928,
+            "location": "Salvador, Bahia",
+            "country": "Brazil",
+            "id": 3
+        },
+        {
+            "latitude": -19.9281,
+            "longitude": -43.9419,
+            "location": "Belo Horizonte",
+            "country": "Brazil",
+            "id": 4
+        },
+        {
+            "latitude": -22.9111,
+            "longitude": -43.2056,
+            "location": "Rio de Janeiro",
+            "country": "Brazil",
+            "id": 5
+        },
+        {
+            "latitude": -23.5504,
+            "longitude": -46.6339,
+            "location": "S\u00e3o Paulo",
+            "country": "Brazil",
+            "id": 6
+        },
+        {
+            "latitude": -15.7939,
+            "longitude": -47.8828,
+            "location": "Bras\u00edlia",
+            "country": "Brazil",
+            "id": 7
+        },
+        {
+            "latitude": -25.4297,
+            "longitude": -49.2719,
+            "location": "Curitiba",
+            "country": "Brazil",
+            "id": 8
+        },
+        {
+            "latitude": -27.5933,
+            "longitude": -48.553,
+            "location": "Florian\u00f3polis",
+            "country": "Brazil",
+            "id": 9
+        },
+        {
+            "latitude": -30.0328,
+            "longitude": -51.23,
+            "location": "Porto Alegre",
+            "country": "Brazil",
+            "id": 10
+        }
+    ],
+    "links": [
+        {
+            "length": 941.596919009031,
+            "source": 1,
+            "target": 2.0
+        },
+        {
+            "length": 2368.32822145231,
+            "source": 1,
+            "target": 4.0
+        },
+        {
+            "length": 1013.18861023336,
+            "source": 2,
+            "target": 3.0
+        },
+        {
+            "length": 1513.69036343304,
+            "source": 3,
+            "target": 5.0
+        },
+        {
+            "length": 930.947827468676,
+            "source": 4,
+            "target": 7.0
+        },
+        {
+            "length": 510.504423926675,
+            "source": 4,
+            "target": 5.0
+        },
+        {
+            "length": 536.14854787129,
+            "source": 5,
+            "target": 6.0
+        },
+        {
+            "length": 508.483952770296,
+            "source": 6,
+            "target": 8.0
+        },
+        {
+            "length": 1308.4809813383,
+            "source": 6,
+            "target": 7.0
+        },
+        {
+            "length": 2024.62070937385,
+            "source": 7,
+            "target": 10.0
+        },
+        {
+            "length": 376.48304920594,
+            "source": 8,
+            "target": 9.0
+        },
+        {
+            "length": 564.417052013471,
+            "source": 9,
+            "target": 10.0
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 50.3,
+            "longitude": 18.8,
+            "location": "Zabrze",
+            "country": "Poland",
+            "id": 4
+        },
+        {
+            "latitude": 54.2,
+            "longitude": 18.6,
+            "location": "Legowo",
+            "country": "Poland",
+            "id": 1
+        },
+        {
+            "latitude": 53.1,
+            "longitude": 17.9,
+            "location": "Biale Blota",
+            "country": "Poland",
+            "id": 2
+        },
+        {
+            "latitude": 54.2,
+            "longitude": 16.1,
+            "location": "Mielno",
+            "country": "Poland",
+            "id": 3
+        },
+        {
+            "latitude": 50.0,
+            "longitude": 19.8,
+            "location": "Piekary",
+            "country": "Poland",
+            "id": 5
+        },
+        {
+            "latitude": 53.1,
+            "longitude": 23.1,
+            "location": "Bialystok",
+            "country": "Poland",
+            "id": 6
+        },
+        {
+            "latitude": 51.7,
+            "longitude": 19.4,
+            "location": "Ksawerow",
+            "country": "Poland",
+            "id": 7
+        },
+        {
+            "latitude": 52.4,
+            "longitude": 16.8,
+            "location": "Plewiska",
+            "country": "Poland",
+            "id": 8
+        },
+        {
+            "latitude": 50.0,
+            "longitude": 21.9,
+            "location": "Niechobrz",
+            "country": "Poland",
+            "id": 9
+        },
+        {
+            "latitude": 53.4,
+            "longitude": 14.5,
+            "location": "Przeclaw",
+            "country": "Poland",
+            "id": 10
+        },
+        {
+            "latitude": 52.2,
+            "longitude": 21.0,
+            "location": "Ochota",
+            "country": "Poland",
+            "id": 11
+        },
+        {
+            "latitude": 51.1,
+            "longitude": 16.9,
+            "location": "Smolec",
+            "country": "Poland",
+            "id": 12
+        }
+    ],
+    "links": [
+        {
+            "length": 410.7744042567559,
+            "source": 1,
+            "target": 11.0
+        },
+        {
+            "length": 243.9034925586963,
+            "source": 1,
+            "target": 3.0
+        },
+        {
+            "length": 481.1108566271961,
+            "source": 1,
+            "target": 6.0
+        },
+        {
+            "length": 255.5770705699139,
+            "source": 2,
+            "target": 3.0
+        },
+        {
+            "length": 161.1319834866405,
+            "source": 2,
+            "target": 8.0
+        },
+        {
+            "length": 347.7170275587544,
+            "source": 2,
+            "target": 11.0
+        },
+        {
+            "length": 206.5017098295303,
+            "source": 3,
+            "target": 10.0
+        },
+        {
+            "length": 118.009331406665,
+            "source": 4,
+            "target": 5.0
+        },
+        {
+            "length": 241.8510106704026,
+            "source": 4,
+            "target": 7.0
+        },
+        {
+            "length": 241.0147228136016,
+            "source": 4,
+            "target": 12.0
+        },
+        {
+            "length": 225.1379758967965,
+            "source": 5,
+            "target": 9.0
+        },
+        {
+            "length": 387.8574867354514,
+            "source": 5,
+            "target": 11.0
+        },
+        {
+            "length": 531.804038576357,
+            "source": 6,
+            "target": 9.0
+        },
+        {
+            "length": 260.1554864729655,
+            "source": 6,
+            "target": 11.0
+        },
+        {
+            "length": 184.4117882015071,
+            "source": 7,
+            "target": 11.0
+        },
+        {
+            "length": 278.712944604,
+            "source": 7,
+            "target": 12.0
+        },
+        {
+            "length": 285.227139412663,
+            "source": 8,
+            "target": 10.0
+        },
+        {
+            "length": 217.0757821935017,
+            "source": 8,
+            "target": 12.0
+        }
+    ]
+}

@@ -1,0 +1,284 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 44.65,
+            "longitude": -63.57,
+            "location": "Halifax",
+            "country": "Canada",
+            "id": 1
+        },
+        {
+            "latitude": 40.44,
+            "longitude": -80.0,
+            "location": "Pittsburgh",
+            "country": "United States of America (the)",
+            "id": 2
+        },
+        {
+            "latitude": 39.95,
+            "longitude": -75.16,
+            "location": "Philadelphia",
+            "country": "United States of America (the)",
+            "id": 3
+        },
+        {
+            "latitude": 40.74,
+            "longitude": -74.17,
+            "location": "Newark",
+            "country": "United States of America (the)",
+            "id": 4
+        },
+        {
+            "latitude": 39.04,
+            "longitude": -77.49,
+            "location": "Ashburn",
+            "country": "United States of America (the)",
+            "id": 5
+        },
+        {
+            "latitude": 35.77,
+            "longitude": -78.64,
+            "location": "Raleigh",
+            "country": "United States of America (the)",
+            "id": 6
+        },
+        {
+            "latitude": 35.23,
+            "longitude": -80.84,
+            "location": "Charlotte",
+            "country": "United States of America (the)",
+            "id": 7
+        },
+        {
+            "latitude": 38.93,
+            "longitude": -77.18,
+            "location": "McLean",
+            "country": "United States of America (the)",
+            "id": 8
+        },
+        {
+            "latitude": 37.55,
+            "longitude": -77.46,
+            "location": "Richmond",
+            "country": "United States of America (the)",
+            "id": 9
+        },
+        {
+            "latitude": 33.75,
+            "longitude": -84.39,
+            "location": "Atlanta",
+            "country": "United States of America (the)",
+            "id": 10
+        },
+        {
+            "latitude": 40.71,
+            "longitude": -74.01,
+            "location": "New York City",
+            "country": "United States of America (the)",
+            "id": 11
+        },
+        {
+            "latitude": 41.03,
+            "longitude": -73.76,
+            "location": "White Plains",
+            "country": "United States of America (the)",
+            "id": 12
+        },
+        {
+            "latitude": 41.05,
+            "longitude": -73.54,
+            "location": "Stamford",
+            "country": "United States of America (the)",
+            "id": 13
+        },
+        {
+            "latitude": 41.85,
+            "longitude": -87.65,
+            "location": "Chicago",
+            "country": "United States of America (the)",
+            "id": 14
+        },
+        {
+            "latitude": 41.5,
+            "longitude": -81.7,
+            "location": "Cleveland",
+            "country": "United States of America (the)",
+            "id": 15
+        },
+        {
+            "latitude": 42.89,
+            "longitude": -78.88,
+            "location": "Buffalo",
+            "country": "United States of America (the)",
+            "id": 16
+        },
+        {
+            "latitude": 43.7,
+            "longitude": -79.42,
+            "location": "Toronto",
+            "country": "Canada",
+            "id": 17
+        },
+        {
+            "latitude": 45.51,
+            "longitude": -73.59,
+            "location": "Montreal",
+            "country": "Canada",
+            "id": 18
+        },
+        {
+            "latitude": 42.65,
+            "longitude": -73.76,
+            "location": "Albany",
+            "country": "United States of America (the)",
+            "id": 19
+        },
+        {
+            "latitude": 42.36,
+            "longitude": -71.06,
+            "location": "Boston",
+            "country": "United States of America (the)",
+            "id": 20
+        }
+    ],
+    "links": [
+        {
+            "length": 1187.999858185761,
+            "source": 1,
+            "target": 18
+        },
+        {
+            "length": 982.8418925334275,
+            "source": 1,
+            "target": 20
+        },
+        {
+            "length": 397.6649920225643,
+            "source": 2,
+            "target": 5
+        },
+        {
+            "length": 988.8431894766425,
+            "source": 2,
+            "target": 14
+        },
+        {
+            "length": 277.6478760498783,
+            "source": 2,
+            "target": 15
+        },
+        {
+            "length": 193.5165266446945,
+            "source": 3,
+            "target": 11
+        },
+        {
+            "length": 182.2082908548479,
+            "source": 3,
+            "target": 4
+        },
+        {
+            "length": 336.1009376453503,
+            "source": 3,
+            "target": 5
+        },
+        {
+            "length": 510.74493402578,
+            "source": 4,
+            "target": 5
+        },
+        {
+            "length": 70.79952412600834,
+            "source": 4,
+            "target": 12
+        },
+        {
+            "length": 20.83436718327859,
+            "source": 4,
+            "target": 11
+        },
+        {
+            "length": 44.18098870812758,
+            "source": 5,
+            "target": 8
+        },
+        {
+            "length": 312.0079821457963,
+            "source": 6,
+            "target": 7
+        },
+        {
+            "length": 336.2521540699969,
+            "source": 6,
+            "target": 9
+        },
+        {
+            "length": 546.8613702582421,
+            "source": 7,
+            "target": 10
+        },
+        {
+            "length": 233.0775281483698,
+            "source": 8,
+            "target": 9
+        },
+        {
+            "length": 325.0720000910152,
+            "source": 11,
+            "target": 19
+        },
+        {
+            "length": 82.03035170425309,
+            "source": 11,
+            "target": 13
+        },
+        {
+            "length": 27.87704634020835,
+            "source": 12,
+            "target": 13
+        },
+        {
+            "length": 378.2724731274459,
+            "source": 13,
+            "target": 20
+        },
+        {
+            "length": 743.4071200946746,
+            "source": 14,
+            "target": 15
+        },
+        {
+            "length": 418.5080080999496,
+            "source": 15,
+            "target": 16
+        },
+        {
+            "length": 150.1652468643198,
+            "source": 16,
+            "target": 17
+        },
+        {
+            "length": 628.0712841529555,
+            "source": 16,
+            "target": 19
+        },
+        {
+            "length": 755.0357670265992,
+            "source": 17,
+            "target": 18
+        },
+        {
+            "length": 477.4605770094612,
+            "source": 18,
+            "target": 19
+        },
+        {
+            "length": 335.4884708932951,
+            "source": 19,
+            "target": 20
+        }
+    ]
+}

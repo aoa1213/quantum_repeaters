@@ -15,20 +15,23 @@ from networkx.algorithms.approximation.steinertree import steiner_tree
 
 def SP_protocol(G, users, timesteps, reps, count_fusion=False):
     """
-    Shortest Path protocol taken from [SPsource] The protocol attempts to generate bell pairs between a central node and a set of users.
-    This is done by attmepting entanglement along a set of edge disjoint paths, all connected to the centre node. The protocol
-    requires a graph with only the edges required for SP routing are present. The protocol terminates once an entanglement is shared between
-    the centre and all other users
+    Shortest Path protocol taken from [SPsource] The protocol attempts to generate bell pairs between a central node 
+    and a set of users.
+    This is done by attmepting entanglement along a set of edge disjoint paths, all connected to the centre node. 
+    The protocol requires a graph with only the edges required for SP routing are present. 
+    The protocol terminates once an entanglement is shared between the centre and all other users
 
     Input Pararmeters:
     G         - Networkx graph G(V,E) which defines the topology of the network. see graphs.py for more details
-    users     - List of nodes in G which between which a GHZ should be shared. users[0] is the centre of the star which should be calculated before sending to SP_protocol
+    users     - List of nodes in G which between which a GHZ should be shared. users[0] is the centre of the star，
+    which should be calculated before sending to SP_protocol
     timesteps - number of timesteps the protocol will run for before terminating without a successful GHZ generation,
     reps      - number of repetions the protocol will run for the imput parameters to generate a dataset.
 
     Outputs:
     rate                   -  entanglement rate (ER) (average GHZs generated per timeslot)
-    multipartite_gen_time  -  array (length of reps)  array of timesteps until successful GHZ generated, if no successful GHZ generated value is -1
+    multipartite_gen_time  -  array (length of reps)  array of timesteps until successful GHZ generated, 
+    if no successful GHZ generated value is -1
     avg_links_used         -  number of entanglement links used per repetition for successful GHZ generation
     """
     J = _get_star(
@@ -84,6 +87,9 @@ def _run_protocol(G, users, timesteps, reps, success_protocol, nodes=False, coun
     reset_graph_usage(G)
     multipartite_gen_time = -1 * np.ones((reps))
     links_used = 0
+    #   Keep the stage of graph the same for all simulation
+    #   use array to record whether GHZ generation is sucessed
+    #   initialise the number of link used
     for i in range(reps):
     #   excute the protocol for reps time
         reset_graph_state(G)
@@ -98,7 +104,7 @@ def _run_protocol(G, users, timesteps, reps, success_protocol, nodes=False, coun
             if success:
                 # do fusion (assumed ideal)
                 multipartite_gen_time[i] = t
-                # add usage & used links
+                    # add usage & used links
                 for path in used_nodes:
                     links_used += path["edge_count"]
                     for n in path["nodes"]:
@@ -121,7 +127,8 @@ def _CC_protocol(G, H, users, used_nodes, count_fusion=False):
         H.subgraph(CC), users, weight="length"
     )  # calculate Steiner tree connecting users
 
-    # only nodes that perform entanglement swapping (2 edges) and (optionally) fusion (3 edges or user with 2 edges) is recorded as used
+    # only nodes that perform entanglement swapping (2 edges) and (optionally) fusion (3 edges or user with 2 edges) is
+    # recorded as used
     used_nodes.append(
         {
             "nodes": [node for node in K.nodes if _count_node(K, node, users, count_fusion)],
@@ -159,7 +166,7 @@ def _SD_protocol(G, H, users, used_nodes, count_fusion=False):
         ):
             path = nx.shortest_path(H, source_node, destination_node)
             _create_bell_pair(G, H, path, used_nodes)
-            
+
     return all([G.nodes[x]["entangled"] for x in destination_nodes])
 
 
@@ -213,13 +220,15 @@ def _get_star(G, users):
 
         Input Pararmeters:
         G      - Networkx graph G(V,E) which defines the topology of the network. see graphs.py for more details
-        users  - List of nodes in G which between which a GHZ should be shared. users[0] is the centre of the star which should be calculated before sending to SP_protocol
+        users  - List of nodes in G which between which a GHZ should be shared. users[0] is the centre of the star,
+        which should be calculated before sending to SP_protocol
         Outputs:
         J      - Networkx graph J(V,E') with edges of the star-path connecting each destination user with the source node
 
     Notes:
     non-optimal star found ? #
-    if no edge-disjoint star-route exists, then allow edge sharing (this is none edge disjoint and will give ER = 0 if Qc = 1. If Qc>1 then protocol feasible as time division multiplexing (TDM) allows bell pairs to be generated
+    if no edge-disjoint star-route exists, then allow edge sharing (this is none edge disjoint and will give ER = 0 if Qc = 1. 
+    If Qc>1 then protocol feasible as time division multiplexing (TDM) allows bell pairs to be generated
     TODO redo this function ES - 17/11/2022
     """
 
@@ -232,7 +241,8 @@ def _get_star(G, users):
     T = G.__class__()
     T.add_nodes_from(G.nodes(data=True))
     T.add_edges_from(G.edges(data=True))
-    # Graph H is a deepcopy of G, if an edge is added to J it is removed from H, routing is then performed over H. This enforces edge disjoint routing
+    # Graph H is a deepcopy of G, if an edge is added to J it is removed from H, routing is then performed over H.
+    # This enforces edge disjoint routing
     J = G.__class__()
     J.add_nodes_from(G.nodes(data=True))  # Graph J with nodes from G and no edges (yet!)
     edge_disjoint = True  # G.degree[source_node]>= len(destination_nodes) # can it be edge disjoint

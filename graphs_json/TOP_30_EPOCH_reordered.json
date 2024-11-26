@@ -1,0 +1,86 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 38.9,
+            "longitude": -77.27,
+            "location": "Vienna",
+            "country": "United States of America (the)",
+            "id": 1
+        },
+        {
+            "latitude": 37.44,
+            "longitude": -122.14,
+            "location": "Palo Alto",
+            "country": "United States of America (the)",
+            "id": 2
+        },
+        {
+            "latitude": 34.05,
+            "longitude": -118.24,
+            "location": "Los Angeles",
+            "country": "United States of America (the)",
+            "id": 3
+        },
+        {
+            "latitude": 39.74,
+            "longitude": -104.98,
+            "location": "Denver",
+            "country": "United States of America (the)",
+            "id": 4
+        },
+        {
+            "latitude": 41.85,
+            "longitude": -87.65,
+            "location": "Chicago",
+            "country": "United States of America (the)",
+            "id": 5
+        },
+        {
+            "latitude": 33.75,
+            "longitude": -84.39,
+            "location": "Atlanta",
+            "country": "United States of America (the)",
+            "id": 6
+        }
+    ],
+    "links": [
+        {
+            "length": 4857.418818853637,
+            "source": 1,
+            "target": 2
+        },
+        {
+            "length": 1406.590956106817,
+            "source": 1,
+            "target": 5
+        },
+        {
+            "length": 1285.010042656808,
+            "source": 1,
+            "target": 6
+        },
+        {
+            "length": 773.4325645850809,
+            "source": 2,
+            "target": 3
+        },
+        {
+            "length": 1888.454439970209,
+            "source": 2,
+            "target": 4
+        },
+        {
+            "length": 3887.291603216945,
+            "source": 3,
+            "target": 6
+        },
+        {
+            "length": 1843.716434385458,
+            "source": 4,
+            "target": 5
+        }
+    ]
+}

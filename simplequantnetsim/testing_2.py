@@ -1,43 +1,95 @@
+import pandas as pd
 import networkx as nx
 import matplotlib.pyplot as plt
+import json
+import numpy as np
+from pathlib import Path
 
-# Function to create an approximate Steiner tree using MST
-def steiner_tree_approximation(graph, terminal_nodes):
-    # Create a subgraph from the original graph containing only the terminal nodes
-    subgraph = graph.subgraph(terminal_nodes)
+def convert_type(df):
+    for col in df.select_dtypes(include=["int64", "float64"]).columns:
+        if df[col].dtype == 'int64':
+            df[col] = df[col].astype(int)  # 转换为 Python 的 int 类型
+        else:
+            df[col] = df[col].astype(float)  # 转换为 Python 的 float 类型
+    return df
+
+input_folder = Path(__file__).parent.parent.joinpath('real_topologies')
+output_folder = input_folder.parent / 'graphs_json'
+output_folder.mkdir(exist_ok=True)
+
+for file_path in input_folder.glob('*.xlsx'):
+    # Load the Excel file
+    nodes_sheet_name = f'Nodes_{file_path.stem.split("_")[-1]}'
+    edge_sheet_name = f'Edges_{file_path.stem.split("_")[-1]}'
     
-    # Compute the Minimum Spanning Tree (MST) for the subgraph
-    mst = nx.minimum_spanning_tree(subgraph)
+    # 读取节点和边的数据
+    nodes_df = pd.read_excel(file_path, sheet_name=nodes_sheet_name)
+    edges_df = pd.read_excel(file_path, sheet_name=edge_sheet_name)
     
-    return mst
+    # 转换数据类型
+    nodes_df = convert_type(nodes_df)
+    edges_df = convert_type(edges_df)
 
-# Create a sample graph (can be customized)
-G = nx.Graph()
+    # 创建 Graph 对象
+    G = nx.Graph()
 
-# Add nodes and edges with weights (edges can represent distances, costs, etc.)
-edges = [
-    (0, 1, 2), (0, 2, 3), (1, 2, 1), (1, 3, 4), (2, 4, 5), (3, 4, 1),
-    (3, 5, 2), (4, 5, 3), (0, 6, 6), (6, 5, 4), (6, 3, 5), (6, 2, 3)
-]
-G.add_weighted_edges_from(edges)
+    # Step 1: 添加节点及其属性
+    distances = {}
+    for _, row in nodes_df.iterrows():
+        node_id = row['Node_ID']
+        latitude = row['Latitude']
+        longitude = row['Longitude']
+        
+        # 计算节点与原点 (0, 0) 的欧几里得距离
+        distance = np.sqrt(latitude**2 + longitude**2)
+        distances[node_id] = distance
 
-# Define the terminal nodes (the nodes that must be connected by the Steiner tree)
-terminal_nodes = [0, 3, 5]  # Example terminal nodes
+        # 添加节点到图
+        G.add_node(
+            node_id,
+            latitude=latitude,
+            longitude=longitude,
+            location=row['Location Name'],
+            country=row['Country']
+        )
 
-# Compute the approximate Steiner tree (using MST approximation)
-steiner_tree = steiner_tree_approximation(G, terminal_nodes)
+    # Step 2: 找到距离原点 (0, 0) 最短的节点作为中心节点
+    center_node = min(distances, key=distances.get)
 
-# Draw the original graph with all edges
-plt.figure(figsize=(8, 8))
-pos = nx.spring_layout(G)  # Layout for positioning nodes
-nx.draw(G, pos, with_labels=True, node_color='lightblue', node_size=600, font_size=10)
-nx.draw_networkx_edge_labels(G, pos, edge_labels={(u, v): d['weight'] for u, v, d in G.edges(data=True)})
+    # Step 3: 添加边及其属性
+    for _, row in edges_df.iterrows():
+        G.add_edge(
+            row['Source'],
+            row['Destination'],
+            length=row['Computed Length (km)']
+        )
 
-# Highlight the Steiner tree
-nx.draw(steiner_tree, pos, with_labels=True, node_color='green', node_size=700, font_size=10, edge_color='red', width=2)
+    # Step 4: 重新编号节点ID，确保中心节点的ID为1，其他节点依次增加
+    new_graph = nx.Graph()
+    node_mapping = {}
 
-# Set the title and display the graph
-plt.title('Steiner Tree Approximation with MST for Terminal Nodes', size=15)
-plt.show()
+    # 先添加中心节点，设为ID为1
+    new_node_id = 1
+    node_mapping[center_node] = new_node_id
+    new_graph.add_node(new_node_id, **G.nodes[center_node])
 
+    # 处理其他节点，ID依次递增
+    new_node_id += 1
+    for old_node_id in G.nodes:
+        if old_node_id == center_node:
+            continue
+        node_mapping[old_node_id] = new_node_id
+        new_graph.add_node(new_node_id, **G.nodes[old_node_id])
+        new_node_id += 1
 
+    # 添加边，使用新的节点ID
+    for source, target, edge_data in G.edges(data=True):
+        new_graph.add_edge(node_mapping[source], node_mapping[target], **edge_data)
+
+    # Step 5: 将图保存为 JSON 格式
+    json_data = nx.node_link_data(new_graph)
+
+    # 保存 JSON 文件
+    json_path = output_folder / f"{file_path.stem}_reordered.json"
+    with open(json_path, "w") as json_file:
+        json.dump(json_data, json_file, indent=4)

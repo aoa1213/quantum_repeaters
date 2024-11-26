@@ -1,0 +1,430 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 42.36,
+            "longitude": -71.06,
+            "location": "Boston",
+            "country": "United States of America (the)",
+            "id": 23
+        },
+        {
+            "latitude": 33.45,
+            "longitude": -112.07,
+            "location": "Phoenix",
+            "country": "United States of America (the)",
+            "id": 1
+        },
+        {
+            "latitude": 35.08,
+            "longitude": -106.65,
+            "location": "Albuquerque",
+            "country": "United States of America (the)",
+            "id": 2
+        },
+        {
+            "latitude": 33.84,
+            "longitude": -117.91,
+            "location": "Anaheim",
+            "country": "United States of America (the)",
+            "id": 3
+        },
+        {
+            "latitude": 32.72,
+            "longitude": -117.16,
+            "location": "San Diego",
+            "country": "United States of America (the)",
+            "id": 4
+        },
+        {
+            "latitude": 29.42,
+            "longitude": -98.49,
+            "location": "San Antonio",
+            "country": "United States of America (the)",
+            "id": 5
+        },
+        {
+            "latitude": 29.76,
+            "longitude": -95.36,
+            "location": "Houston",
+            "country": "United States of America (the)",
+            "id": 6
+        },
+        {
+            "latitude": 32.78,
+            "longitude": -96.81,
+            "location": "Dallas",
+            "country": "United States of America (the)",
+            "id": 7
+        },
+        {
+            "latitude": 30.27,
+            "longitude": -97.74,
+            "location": "Austin",
+            "country": "United States of America (the)",
+            "id": 8
+        },
+        {
+            "latitude": 33.75,
+            "longitude": -84.39,
+            "location": "Atlanta",
+            "country": "United States of America (the)",
+            "id": 9
+        },
+        {
+            "latitude": 35.77,
+            "longitude": -78.64,
+            "location": "Raleigh",
+            "country": "United States of America (the)",
+            "id": 10
+        },
+        {
+            "latitude": 39.11,
+            "longitude": -94.63,
+            "location": "Kansas City",
+            "country": "United States of America (the)",
+            "id": 11
+        },
+        {
+            "latitude": 39.74,
+            "longitude": -104.98,
+            "location": "Denver",
+            "country": "United States of America (the)",
+            "id": 12
+        },
+        {
+            "latitude": 27.95,
+            "longitude": -82.46,
+            "location": "Tampa",
+            "country": "United States of America (the)",
+            "id": 13
+        },
+        {
+            "latitude": 38.63,
+            "longitude": -90.2,
+            "location": "St. Louis",
+            "country": "United States of America (the)",
+            "id": 14
+        },
+        {
+            "latitude": 40.44,
+            "longitude": -80.0,
+            "location": "Pittsburgh",
+            "country": "United States of America (the)",
+            "id": 15
+        },
+        {
+            "latitude": 40.71,
+            "longitude": -74.01,
+            "location": "New York City",
+            "country": "United States of America (the)",
+            "id": 16
+        },
+        {
+            "latitude": 39.95,
+            "longitude": -75.16,
+            "location": "Philadelphia",
+            "country": "United States of America (the)",
+            "id": 17
+        },
+        {
+            "latitude": 39.29,
+            "longitude": -76.61,
+            "location": "Baltimore",
+            "country": "United States of America (the)",
+            "id": 18
+        },
+        {
+            "latitude": 38.9,
+            "longitude": -77.04,
+            "location": "Washington, D.C.",
+            "country": "United States of America (the)",
+            "id": 19
+        },
+        {
+            "latitude": 41.85,
+            "longitude": -87.65,
+            "location": "Chicago",
+            "country": "United States of America (the)",
+            "id": 20
+        },
+        {
+            "latitude": 42.33,
+            "longitude": -83.05,
+            "location": "Detroit",
+            "country": "United States of America (the)",
+            "id": 21
+        },
+        {
+            "latitude": 41.5,
+            "longitude": -81.7,
+            "location": "Cleveland",
+            "country": "United States of America (the)",
+            "id": 22
+        },
+        {
+            "latitude": 37.34,
+            "longitude": -121.89,
+            "location": "San Jose",
+            "country": "United States of America (the)",
+            "id": 24
+        },
+        {
+            "latitude": 34.05,
+            "longitude": -118.24,
+            "location": "Los Angeles",
+            "country": "United States of America (the)",
+            "id": 25
+        },
+        {
+            "latitude": 47.61,
+            "longitude": -122.33,
+            "location": "Seattle",
+            "country": "United States of America (the)",
+            "id": 26
+        },
+        {
+            "latitude": 45.52,
+            "longitude": -122.68,
+            "location": "Portland",
+            "country": "United States of America (the)",
+            "id": 27
+        },
+        {
+            "latitude": 38.44,
+            "longitude": -122.71,
+            "location": "Santa Rosa",
+            "country": "United States of America (the)",
+            "id": 28
+        },
+        {
+            "latitude": 38.58,
+            "longitude": -121.49,
+            "location": "Sacramento",
+            "country": "United States of America (the)",
+            "id": 29
+        },
+        {
+            "latitude": 37.96,
+            "longitude": -121.29,
+            "location": "Stockton",
+            "country": "United States of America (the)",
+            "id": 30
+        },
+        {
+            "latitude": 43.21,
+            "longitude": -71.54,
+            "location": "Concord",
+            "country": "United States of America (the)",
+            "id": 31
+        },
+        {
+            "latitude": 37.97,
+            "longitude": -122.53,
+            "location": "San Rafael",
+            "country": "United States of America (the)",
+            "id": 32
+        },
+        {
+            "latitude": 37.77,
+            "longitude": -122.42,
+            "location": "San Francisco",
+            "country": "United States of America (the)",
+            "id": 33
+        }
+    ],
+    "links": [
+        {
+            "length": 794.9053687405473,
+            "source": 1,
+            "target": 2.0
+        },
+        {
+            "length": 721.5882097187069,
+            "source": 1,
+            "target": 4.0
+        },
+        {
+            "length": 1414.060458882298,
+            "source": 2,
+            "target": 7.0
+        },
+        {
+            "length": 57.54795592014905,
+            "source": 3,
+            "target": 25.0
+        },
+        {
+            "length": 214.0861789294347,
+            "source": 3,
+            "target": 4.0
+        },
+        {
+            "length": 457.4870157403198,
+            "source": 5,
+            "target": 6.0
+        },
+        {
+            "length": 178.528161273931,
+            "source": 5,
+            "target": 8.0
+        },
+        {
+            "length": 544.4600499700148,
+            "source": 6,
+            "target": 7.0
+        },
+        {
+            "length": 1500.0,
+            "source": 7,
+            "target": 9.0
+        },
+        {
+            "length": 1323.434150934681,
+            "source": 7,
+            "target": 14.0
+        },
+        {
+            "length": 439.0260901564217,
+            "source": 7,
+            "target": 8.0
+        },
+        {
+            "length": 856.7329203000172,
+            "source": 9,
+            "target": 10.0
+        },
+        {
+            "length": 1006.029022461507,
+            "source": 9,
+            "target": 13.0
+        },
+        {
+            "length": 563.5055664441111,
+            "source": 10,
+            "target": 19.0
+        },
+        {
+            "length": 1336.875843009606,
+            "source": 11,
+            "target": 12.0
+        },
+        {
+            "length": 580.7625411994072,
+            "source": 11,
+            "target": 14.0
+        },
+        {
+            "length": 1906.958816527235,
+            "source": 12,
+            "target": 33.0
+        },
+        {
+            "length": 627.5025611615271,
+            "source": 14,
+            "target": 20.0
+        },
+        {
+            "length": 458.6437394496578,
+            "source": 15,
+            "target": 19.0
+        },
+        {
+            "length": 277.6478760498783,
+            "source": 15,
+            "target": 22.0
+        },
+        {
+            "length": 193.5165266446945,
+            "source": 16,
+            "target": 17.0
+        },
+        {
+            "length": 459.728758316418,
+            "source": 16,
+            "target": 23.0
+        },
+        {
+            "length": 216.3834396565364,
+            "source": 17,
+            "target": 18.0
+        },
+        {
+            "length": 85.61340860642284,
+            "source": 18,
+            "target": 19.0
+        },
+        {
+            "length": 3485.643998403856,
+            "source": 20,
+            "target": 26.0
+        },
+        {
+            "length": 574.8944829350417,
+            "source": 20,
+            "target": 21.0
+        },
+        {
+            "length": 217.3432784660523,
+            "source": 21,
+            "target": 22.0
+        },
+        {
+            "length": 1327.170812389139,
+            "source": 22,
+            "target": 23.0
+        },
+        {
+            "length": 738.4958532321912,
+            "source": 24,
+            "target": 25.0
+        },
+        {
+            "length": 100.2750862366293,
+            "source": 24,
+            "target": 33.0
+        },
+        {
+            "length": 350.8979570264834,
+            "source": 26,
+            "target": 27.0
+        },
+        {
+            "length": 1180.895953716089,
+            "source": 27,
+            "target": 28.0
+        },
+        {
+            "length": 160.9300921413741,
+            "source": 28,
+            "target": 29.0
+        },
+        {
+            "length": 81.86537296101017,
+            "source": 28,
+            "target": 32.0
+        },
+        {
+            "length": 106.676040609737,
+            "source": 29,
+            "target": 30.0
+        },
+        {
+            "length": 5224.086131262762,
+            "source": 30,
+            "target": 31.0
+        },
+        {
+            "length": 5347.898728593499,
+            "source": 31,
+            "target": 33.0
+        },
+        {
+            "length": 36.36694868522626,
+            "source": 32,
+            "target": 33.0
+        }
+    ]
+}

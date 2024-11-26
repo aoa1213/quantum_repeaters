@@ -1,0 +1,516 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 29.6542054,
+            "longitude": 91.1173015,
+            "location": "Lasa, Tibet, China",
+            "country": "China",
+            "id": 1
+        },
+        {
+            "latitude": 43.419754,
+            "longitude": 87.319461,
+            "location": "Urumchi, Xinjiang, China",
+            "country": "China",
+            "id": 2
+        },
+        {
+            "latitude": 36.617331,
+            "longitude": 101.7761976,
+            "location": "Xining, Qinghai, China",
+            "country": "China",
+            "id": 3
+        },
+        {
+            "latitude": 36.474436,
+            "longitude": 103.733224,
+            "location": "Lanzhou, Gansu, China",
+            "country": "China",
+            "id": 4
+        },
+        {
+            "latitude": 38.4852037,
+            "longitude": 106.2261926,
+            "location": "Yinchuan, Ningxia, China",
+            "country": "China",
+            "id": 5
+        },
+        {
+            "latitude": 34.261004,
+            "longitude": 108.9423363,
+            "location": "Xi'an, Shaanxi, China",
+            "country": "China",
+            "id": 6
+        },
+        {
+            "latitude": 30.7001324,
+            "longitude": 104.0708278,
+            "location": "Chengdu, Sichuan, China",
+            "country": "China",
+            "id": 7
+        },
+        {
+            "latitude": 25.0363006,
+            "longitude": 102.7086139,
+            "location": "Kunming, Yunnan, China",
+            "country": "China",
+            "id": 8
+        },
+        {
+            "latitude": 26.559901,
+            "longitude": 106.6987409,
+            "location": "Guiyang, Guizhou, China",
+            "country": "China",
+            "id": 9
+        },
+        {
+            "latitude": 29.436043,
+            "longitude": 106.360341,
+            "location": "Jiulongpo District, Chongqing, China",
+            "country": "China",
+            "id": 10
+        },
+        {
+            "latitude": 30.5951051,
+            "longitude": 114.2999353,
+            "location": "Wuhan, Hubei, China",
+            "country": "China",
+            "id": 11
+        },
+        {
+            "latitude": 34.7533392,
+            "longitude": 113.6599983,
+            "location": "Zhengzhou, Henan, China",
+            "country": "China",
+            "id": 12
+        },
+        {
+            "latitude": 37.870009,
+            "longitude": 112.5452739,
+            "location": "Taiyuan, Shanxi, China",
+            "country": "China",
+            "id": 13
+        },
+        {
+            "latitude": 40.8340827,
+            "longitude": 111.6730521,
+            "location": "Hohhot, Inner Mongolia, China",
+            "country": "China",
+            "id": 14
+        },
+        {
+            "latitude": 39.9057136,
+            "longitude": 116.3912972,
+            "location": "Beijing, Beijing, China",
+            "country": "China",
+            "id": 15
+        },
+        {
+            "latitude": 38.0429742,
+            "longitude": 114.5088385,
+            "location": "Shijiazhuang, Hebei, China",
+            "country": "China",
+            "id": 16
+        },
+        {
+            "latitude": 36.4441808,
+            "longitude": 115.9642007,
+            "location": "Liaocheng, Shandong, China",
+            "country": "China",
+            "id": 17
+        },
+        {
+            "latitude": 39.1175488,
+            "longitude": 117.1913008,
+            "location": "Tianjin, Tianjin, China",
+            "country": "China",
+            "id": 18
+        },
+        {
+            "latitude": 36.0668862,
+            "longitude": 120.3775232,
+            "location": "Quingdao, Shandong, China",
+            "country": "China",
+            "id": 19
+        },
+        {
+            "latitude": 39.740278,
+            "longitude": 122.255833,
+            "location": "Dalian, Liaoning, China",
+            "country": "China",
+            "id": 20
+        },
+        {
+            "latitude": 41.8026095,
+            "longitude": 123.4279105,
+            "location": "Shenyang, Liaoning, China",
+            "country": "China",
+            "id": 21
+        },
+        {
+            "latitude": 43.8844201,
+            "longitude": 125.3180998,
+            "location": "Changchun, Jilin, China",
+            "country": "China",
+            "id": 22
+        },
+        {
+            "latitude": 45.7593633,
+            "longitude": 126.6276177,
+            "location": "Harbin, Heilongjiang, China",
+            "country": "China",
+            "id": 23
+        },
+        {
+            "latitude": 32.0438284,
+            "longitude": 118.7788631,
+            "location": "Nanjing, Jiangsu, China",
+            "country": "China",
+            "id": 24
+        },
+        {
+            "latitude": 31.2323437,
+            "longitude": 121.4691024,
+            "location": "Shanghai, Shanghai, China",
+            "country": "China",
+            "id": 25
+        },
+        {
+            "latitude": 31.8665676,
+            "longitude": 117.281428,
+            "location": "Hefei, Anhui, China",
+            "country": "China",
+            "id": 26
+        },
+        {
+            "latitude": 30.2489634,
+            "longitude": 120.2052342,
+            "location": "Hangzhou, Zhejiang, China",
+            "country": "China",
+            "id": 27
+        },
+        {
+            "latitude": 26.0774954,
+            "longitude": 119.2918215,
+            "location": "Fuzhou, Fujian, China",
+            "country": "China",
+            "id": 28
+        },
+        {
+            "latitude": 28.687547,
+            "longitude": 115.8540042,
+            "location": "Nanchang, Jiangxi, China",
+            "country": "China",
+            "id": 29
+        },
+        {
+            "latitude": 24.5438732,
+            "longitude": 118.0768065,
+            "location": "Xiamen, Fujian, China",
+            "country": "China",
+            "id": 30
+        },
+        {
+            "latitude": 22.5445741,
+            "longitude": 114.0545429,
+            "location": "Shenzhen, Guangdong, China",
+            "country": "China",
+            "id": 31
+        },
+        {
+            "latitude": 23.1301964,
+            "longitude": 113.2592945,
+            "location": "Guangzhou, Guangdong, China",
+            "country": "China",
+            "id": 32
+        },
+        {
+            "latitude": 25.238704,
+            "longitude": 110.1750728,
+            "location": "Guilin, Guangxi, China",
+            "country": "China",
+            "id": 33
+        },
+        {
+            "latitude": 22.8193063,
+            "longitude": 108.3627211,
+            "location": "Nanning, Guangxi, China",
+            "country": "China",
+            "id": 34
+        },
+        {
+            "latitude": 20.0462328,
+            "longitude": 110.1956502,
+            "location": "Haikou, Hainan, China",
+            "country": "China",
+            "id": 35
+        },
+        {
+            "latitude": 28.1450774,
+            "longitude": 113.2384362,
+            "location": "Changsha, Hunan, China",
+            "country": "China",
+            "id": 36
+        }
+    ],
+    "links": [
+        {
+            "length": 3202.58557800185,
+            "source": 1,
+            "target": 15
+        },
+        {
+            "length": 2094.34168268123,
+            "source": 2,
+            "target": 5
+        },
+        {
+            "length": 2653.36044009308,
+            "source": 2,
+            "target": 6
+        },
+        {
+            "length": 263.313602402066,
+            "source": 3,
+            "target": 4
+        },
+        {
+            "length": 1049.7745352058,
+            "source": 3,
+            "target": 6
+        },
+        {
+            "length": 798.74706231149,
+            "source": 4,
+            "target": 6
+        },
+        {
+            "length": 793.285476513977,
+            "source": 5,
+            "target": 6
+        },
+        {
+            "length": 1366.07232517015,
+            "source": 6,
+            "target": 15
+        },
+        {
+            "length": 906.723358734583,
+            "source": 6,
+            "target": 7
+        },
+        {
+            "length": 1467.42023084922,
+            "source": 7,
+            "target": 11
+        },
+        {
+            "length": 391.997297413786,
+            "source": 7,
+            "target": 10
+        },
+        {
+            "length": 790.416413763038,
+            "source": 7,
+            "target": 9
+        },
+        {
+            "length": 965.77069785526,
+            "source": 7,
+            "target": 8
+        },
+        {
+            "length": 650.806095933155,
+            "source": 8,
+            "target": 9
+        },
+        {
+            "length": 1162.58495310106,
+            "source": 10,
+            "target": 11
+        },
+        {
+            "length": 699.352328613808,
+            "source": 11,
+            "target": 12
+        },
+        {
+            "length": 436.796722279845,
+            "source": 11,
+            "target": 36
+        },
+        {
+            "length": 1254.65891694402,
+            "source": 11,
+            "target": 32
+        },
+        {
+            "length": 475.147018279846,
+            "source": 11,
+            "target": 26
+        },
+        {
+            "length": 682.332052979926,
+            "source": 11,
+            "target": 24
+        },
+        {
+            "length": 1500.0,
+            "source": 11,
+            "target": 15
+        },
+        {
+            "length": 932.469478454375,
+            "source": 12,
+            "target": 15
+        },
+        {
+            "length": 603.732641895246,
+            "source": 13,
+            "target": 15
+        },
+        {
+            "length": 507.014369909737,
+            "source": 13,
+            "target": 14
+        },
+        {
+            "length": 619.157844101786,
+            "source": 14,
+            "target": 15
+        },
+        {
+            "length": 942.072737131327,
+            "source": 15,
+            "target": 21
+        },
+        {
+            "length": 166.969139537671,
+            "source": 15,
+            "target": 18
+        },
+        {
+            "length": 1560.46690955439,
+            "source": 15,
+            "target": 29
+        },
+        {
+            "length": 395.088143669199,
+            "source": 15,
+            "target": 16
+        },
+        {
+            "length": 474.319459416771,
+            "source": 17,
+            "target": 18
+        },
+        {
+            "length": 596.862220458692,
+            "source": 17,
+            "target": 19
+        },
+        {
+            "length": 830.119654932441,
+            "source": 17,
+            "target": 24
+        },
+        {
+            "length": 706.411736590529,
+            "source": 19,
+            "target": 24
+        },
+        {
+            "length": 374.479212522896,
+            "source": 20,
+            "target": 21
+        },
+        {
+            "length": 764.050237310479,
+            "source": 21,
+            "target": 23
+        },
+        {
+            "length": 417.11002211996,
+            "source": 21,
+            "target": 22
+        },
+        {
+            "length": 1500.0,
+            "source": 24,
+            "target": 25
+        },
+        {
+            "length": 405.276570051923,
+            "source": 24,
+            "target": 26
+        },
+        {
+            "length": 213.963568133817,
+            "source": 25,
+            "target": 29
+        },
+        {
+            "length": 915.531509312355,
+            "source": 25,
+            "target": 32
+        },
+        {
+            "length": 1514.98530198401,
+            "source": 25,
+            "target": 27
+        },
+        {
+            "length": 244.393755929873,
+            "source": 25,
+            "target": 28
+        },
+        {
+            "length": 314.628559248792,
+            "source": 28,
+            "target": 30
+        },
+        {
+            "length": 771.817852161434,
+            "source": 30,
+            "target": 32
+        },
+        {
+            "length": 156.474286476724,
+            "source": 31,
+            "target": 32
+        },
+        {
+            "length": 730.183107570015,
+            "source": 31,
+            "target": 35
+        },
+        {
+            "length": 836.451016971608,
+            "source": 32,
+            "target": 36
+        },
+        {
+            "length": 586.388506361272,
+            "source": 32,
+            "target": 33
+        },
+        {
+            "length": 753.677830665536,
+            "source": 32,
+            "target": 34
+        },
+        {
+            "length": 700.19113736972,
+            "source": 32,
+            "target": 35
+        },
+        {
+            "length": 488.926895672324,
+            "source": 33,
+            "target": 34
+        }
+    ]
+}

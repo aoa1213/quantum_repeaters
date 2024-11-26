@@ -1,0 +1,188 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 48.974722222222,
+            "longitude": 14.474722222222,
+            "location": "\u010cesk\u00e9 Bud\u011bjovice",
+            "country": "Czech Republic",
+            "id": 1
+        },
+        {
+            "latitude": 50.5,
+            "longitude": 13.85,
+            "location": "Chomutov",
+            "country": "Czech Republic",
+            "id": 2
+        },
+        {
+            "latitude": 50.76,
+            "longitude": 15.05,
+            "location": "Liberec",
+            "country": "Czech Republic",
+            "id": 3
+        },
+        {
+            "latitude": 50.09,
+            "longitude": 14.42,
+            "location": "Prague",
+            "country": "Czech Republic",
+            "id": 4
+        },
+        {
+            "latitude": 50.29,
+            "longitude": 15.83,
+            "location": "Hradec Kr\u00e1lov\u00e9",
+            "country": "Czech Republic",
+            "id": 5
+        },
+        {
+            "latitude": 50.03,
+            "longitude": 15.77,
+            "location": "Pardubice",
+            "country": "Czech Republic",
+            "id": 6
+        },
+        {
+            "latitude": 49.75,
+            "longitude": 13.37,
+            "location": "Plze\u0148",
+            "country": "Czech Republic",
+            "id": 7
+        },
+        {
+            "latitude": 49.400277777778,
+            "longitude": 15.590555555556,
+            "location": "Jihlava",
+            "country": "Czech Republic",
+            "id": 8
+        },
+        {
+            "latitude": 49.195277777778,
+            "longitude": 16.608333333333,
+            "location": "Brno",
+            "country": "Czech Republic",
+            "id": 9
+        },
+        {
+            "latitude": 49.23,
+            "longitude": 17.66,
+            "location": "Krom\u011b\u0159\u00ed\u017e",
+            "country": "Czech Republic",
+            "id": 10
+        },
+        {
+            "latitude": 49.835555555556,
+            "longitude": 18.2925,
+            "location": "Ostrava",
+            "country": "Czech Republic",
+            "id": 11
+        },
+        {
+            "latitude": 49.59,
+            "longitude": 17.25,
+            "location": "Olomouc",
+            "country": "Czech Republic",
+            "id": 12
+        }
+    ],
+    "links": [
+        {
+            "length": 126.22,
+            "source": 1,
+            "target": 4
+        },
+        {
+            "length": 186.12,
+            "source": 1,
+            "target": 7
+        },
+        {
+            "length": 74.73,
+            "source": 1,
+            "target": 9
+        },
+        {
+            "length": 119.66,
+            "source": 1,
+            "target": 8
+        },
+        {
+            "length": 134.16,
+            "source": 2,
+            "target": 3
+        },
+        {
+            "length": 91.46,
+            "source": 2,
+            "target": 4
+        },
+        {
+            "length": 130.27,
+            "source": 3,
+            "target": 4
+        },
+        {
+            "length": 154.22,
+            "source": 3,
+            "target": 5
+        },
+        {
+            "length": 113.96,
+            "source": 4,
+            "target": 7
+        },
+        {
+            "length": 144.9,
+            "source": 4,
+            "target": 5
+        },
+        {
+            "length": 176.41,
+            "source": 4,
+            "target": 6
+        },
+        {
+            "length": 43.84,
+            "source": 5,
+            "target": 6
+        },
+        {
+            "length": 192.0,
+            "source": 5,
+            "target": 12
+        },
+        {
+            "length": 211.34,
+            "source": 8,
+            "target": 9
+        },
+        {
+            "length": 235.95,
+            "source": 9,
+            "target": 12
+        },
+        {
+            "length": 95.85,
+            "source": 9,
+            "target": 10
+        },
+        {
+            "length": 114.74,
+            "source": 9,
+            "target": 11
+        },
+        {
+            "length": 140.84,
+            "source": 10,
+            "target": 12
+        },
+        {
+            "length": 115.85,
+            "source": 11,
+            "target": 12
+        }
+    ]
+}

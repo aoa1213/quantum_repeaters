@@ -1,0 +1,226 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 50.12,
+            "longitude": 8.68,
+            "location": "Frankfurt am Main",
+            "country": "Germany",
+            "id": 15
+        },
+        {
+            "latitude": 47.61,
+            "longitude": -122.33,
+            "location": "Seattle",
+            "country": "United States of America (the)",
+            "id": 1
+        },
+        {
+            "latitude": 27.95,
+            "longitude": -82.46,
+            "location": "Tampa",
+            "country": "United States of America (the)",
+            "id": 2
+        },
+        {
+            "latitude": 41.85,
+            "longitude": -87.65,
+            "location": "Chicago",
+            "country": "United States of America (the)",
+            "id": 3
+        },
+        {
+            "latitude": 49.25,
+            "longitude": -123.12,
+            "location": "Vancouver",
+            "country": "Canada",
+            "id": 4
+        },
+        {
+            "latitude": 25.77,
+            "longitude": -80.19,
+            "location": "Miami",
+            "country": "United States of America (the)",
+            "id": 5
+        },
+        {
+            "latitude": 30.27,
+            "longitude": -97.74,
+            "location": "Austin",
+            "country": "United States of America (the)",
+            "id": 6
+        },
+        {
+            "latitude": 40.71,
+            "longitude": -74.01,
+            "location": "New York City",
+            "country": "United States of America (the)",
+            "id": 7
+        },
+        {
+            "latitude": 33.75,
+            "longitude": -84.39,
+            "location": "Atlanta",
+            "country": "United States of America (the)",
+            "id": 8
+        },
+        {
+            "latitude": 44.43,
+            "longitude": 26.11,
+            "location": "Bucharest",
+            "country": "Romania",
+            "id": 9
+        },
+        {
+            "latitude": 37.57,
+            "longitude": 126.98,
+            "location": "Seoul",
+            "country": "Korea (the Republic of)",
+            "id": 10
+        },
+        {
+            "latitude": -33.87,
+            "longitude": 151.21,
+            "location": "Sydney",
+            "country": "Australia",
+            "id": 11
+        },
+        {
+            "latitude": 52.37,
+            "longitude": 9.73,
+            "location": "Hannover",
+            "country": "Germany",
+            "id": 12
+        },
+        {
+            "latitude": 52.37,
+            "longitude": 4.89,
+            "location": "Amsterdam",
+            "country": "Netherlands (Kingdom of the)",
+            "id": 13
+        },
+        {
+            "latitude": 51.22,
+            "longitude": 4.42,
+            "location": "Antwerpen",
+            "country": "Belgium",
+            "id": 14
+        },
+        {
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "location": "London",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "id": 16
+        }
+    ],
+    "links": [
+        {
+            "length": 3485.643998403856,
+            "source": 1,
+            "target": 3.0
+        },
+        {
+            "length": 287.1681018437656,
+            "source": 1,
+            "target": 4.0
+        },
+        {
+            "length": 3559.806322172083,
+            "source": 1,
+            "target": 6.0
+        },
+        {
+            "length": 496.2580235875224,
+            "source": 2,
+            "target": 5.0
+        },
+        {
+            "length": 1006.029022461507,
+            "source": 2,
+            "target": 8.0
+        },
+        {
+            "length": 1965.575314978632,
+            "source": 3,
+            "target": 6.0
+        },
+        {
+            "length": 1417.377937950516,
+            "source": 3,
+            "target": 8.0
+        },
+        {
+            "length": 18783.10176773076,
+            "source": 5,
+            "target": 11.0
+        },
+        {
+            "length": 2195.769639674104,
+            "source": 5,
+            "target": 7.0
+        },
+        {
+            "length": 1462.933348688248,
+            "source": 5,
+            "target": 8.0
+        },
+        {
+            "length": 19985.49230622196,
+            "source": 7,
+            "target": 11.0
+        },
+        {
+            "length": 1500.0,
+            "source": 7,
+            "target": 8.0
+        },
+        {
+            "length": 6963.055714635429,
+            "source": 7,
+            "target": 16.0
+        },
+        {
+            "length": 9914.597335339473,
+            "source": 9,
+            "target": 10.0
+        },
+        {
+            "length": 1818.246624112978,
+            "source": 9,
+            "target": 15.0
+        },
+        {
+            "length": 10412.13123737522,
+            "source": 10,
+            "target": 11.0
+        },
+        {
+            "length": 492.7979258364858,
+            "source": 12,
+            "target": 13.0
+        },
+        {
+            "length": 390.956886368611,
+            "source": 12,
+            "target": 15.0
+        },
+        {
+            "length": 197.8428042192446,
+            "source": 13,
+            "target": 14.0
+        },
+        {
+            "length": 535.6163051270169,
+            "source": 13,
+            "target": 16.0
+        },
+        {
+            "length": 486.1756023156619,
+            "source": 14,
+            "target": 15.0
+        }
+    ]
+}

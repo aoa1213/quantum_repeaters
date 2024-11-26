@@ -1,0 +1,237 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 46.14,
+            "longitude": -60.18,
+            "location": "Sydney",
+            "country": "Canada",
+            "id": 8
+        },
+        {
+            "latitude": 45.51,
+            "longitude": -73.59,
+            "location": "Montreal",
+            "country": "Canada",
+            "id": 1
+        },
+        {
+            "latitude": 46.81,
+            "longitude": -71.21,
+            "location": "Quebec",
+            "country": "Canada",
+            "id": 2
+        },
+        {
+            "latitude": 42.98,
+            "longitude": -81.23,
+            "location": "London",
+            "country": "Canada",
+            "id": 3
+        },
+        {
+            "latitude": 46.12,
+            "longitude": -64.8,
+            "location": "Moncton",
+            "country": "Canada",
+            "id": 4
+        },
+        {
+            "latitude": 44.65,
+            "longitude": -63.57,
+            "location": "Halifax",
+            "country": "Canada",
+            "id": 5
+        },
+        {
+            "latitude": 45.4,
+            "longitude": -71.9,
+            "location": "Sherbrooke",
+            "country": "Canada",
+            "id": 6
+        },
+        {
+            "latitude": 45.27,
+            "longitude": -66.07,
+            "location": "Saint John",
+            "country": "Canada",
+            "id": 7
+        },
+        {
+            "latitude": 43.83,
+            "longitude": -66.12,
+            "location": "Yarmouth",
+            "country": "Canada",
+            "id": 9
+        },
+        {
+            "latitude": 48.43,
+            "longitude": -123.37,
+            "location": "Victoria",
+            "country": "Canada",
+            "id": 10
+        },
+        {
+            "latitude": 43.7,
+            "longitude": -79.42,
+            "location": "Toronto",
+            "country": "Canada",
+            "id": 11
+        },
+        {
+            "latitude": 43.23,
+            "longitude": -79.95,
+            "location": "Ancaster",
+            "country": "Canada",
+            "id": 12
+        },
+        {
+            "latitude": 49.25,
+            "longitude": -123.12,
+            "location": "Vancouver",
+            "country": "Canada",
+            "id": 13
+        },
+        {
+            "latitude": 51.05,
+            "longitude": -114.09,
+            "location": "Calgary",
+            "country": "Canada",
+            "id": 14
+        },
+        {
+            "latitude": 53.55,
+            "longitude": -113.47,
+            "location": "Edmonton",
+            "country": "Canada",
+            "id": 15
+        },
+        {
+            "latitude": 49.7,
+            "longitude": -112.82,
+            "location": "Lethbridge",
+            "country": "Canada",
+            "id": 16
+        },
+        {
+            "latitude": 49.88,
+            "longitude": -97.15,
+            "location": "Winnipeg",
+            "country": "Canada",
+            "id": 17
+        },
+        {
+            "latitude": 45.41,
+            "longitude": -75.7,
+            "location": "Ottawa",
+            "country": "Canada",
+            "id": 18
+        },
+        {
+            "latitude": 43.45,
+            "longitude": -80.48,
+            "location": "Kitchener",
+            "country": "Canada",
+            "id": 19
+        }
+    ],
+    "links": [
+        {
+            "length": 350.1389724135474,
+            "source": 1,
+            "target": 2.0
+        },
+        {
+            "length": 1026.361517307967,
+            "source": 1,
+            "target": 4.0
+        },
+        {
+            "length": 755.0357670265992,
+            "source": 1,
+            "target": 11.0
+        },
+        {
+            "length": 198.5751791544305,
+            "source": 1,
+            "target": 6.0
+        },
+        {
+            "length": 247.4032001412376,
+            "source": 1,
+            "target": 18.0
+        },
+        {
+            "length": 250.2531794080375,
+            "source": 3,
+            "target": 11.0
+        },
+        {
+            "length": 284.3799353856231,
+            "source": 4,
+            "target": 5.0
+        },
+        {
+            "length": 204.9111545304429,
+            "source": 4,
+            "target": 7.0
+        },
+        {
+            "length": 468.3506272246442,
+            "source": 5,
+            "target": 8.0
+        },
+        {
+            "length": 333.9767249411377,
+            "source": 5,
+            "target": 9.0
+        },
+        {
+            "length": 139.4958300540092,
+            "source": 10,
+            "target": 13.0
+        },
+        {
+            "length": 101.3005820479409,
+            "source": 11,
+            "target": 12.0
+        },
+        {
+            "length": 526.0580396293944,
+            "source": 11,
+            "target": 18.0
+        },
+        {
+            "length": 134.7019718699122,
+            "source": 11,
+            "target": 19.0
+        },
+        {
+            "length": 1009.95690485004,
+            "source": 13,
+            "target": 14.0
+        },
+        {
+            "length": 4424.968959600237,
+            "source": 13,
+            "target": 18.0
+        },
+        {
+            "length": 421.7445112294374,
+            "source": 14,
+            "target": 15.0
+        },
+        {
+            "length": 262.5774509897452,
+            "source": 14,
+            "target": 16.0
+        },
+        {
+            "length": 2094.139590166251,
+            "source": 17,
+            "target": 18.0
+        }
+    ]
+}

@@ -1,0 +1,267 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 44.8,
+            "longitude": -68.78,
+            "location": "Bangor",
+            "country": "United States of America (the)",
+            "id": 11
+        },
+        {
+            "latitude": 43.07,
+            "longitude": -70.76,
+            "location": "Portsmouth",
+            "country": "United States of America (the)",
+            "id": 1
+        },
+        {
+            "latitude": 43.2,
+            "longitude": -70.87,
+            "location": "Dover",
+            "country": "United States of America (the)",
+            "id": 2
+        },
+        {
+            "latitude": 43.49,
+            "longitude": -70.45,
+            "location": "Biddeford",
+            "country": "United States of America (the)",
+            "id": 3
+        },
+        {
+            "latitude": 43.44,
+            "longitude": -70.77,
+            "location": "Sanford (historical)",
+            "country": "United States of America (the)",
+            "id": 4
+        },
+        {
+            "latitude": 42.36,
+            "longitude": -71.06,
+            "location": "Boston",
+            "country": "United States of America (the)",
+            "id": 5
+        },
+        {
+            "latitude": 42.28,
+            "longitude": -71.42,
+            "location": "Framingham",
+            "country": "United States of America (the)",
+            "id": 6
+        },
+        {
+            "latitude": 43.0,
+            "longitude": -71.45,
+            "location": "Manchester",
+            "country": "United States of America (the)",
+            "id": 7
+        },
+        {
+            "latitude": 42.93,
+            "longitude": -72.28,
+            "location": "Keene",
+            "country": "United States of America (the)",
+            "id": 8
+        },
+        {
+            "latitude": 42.26,
+            "longitude": -71.8,
+            "location": "Worcester",
+            "country": "United States of America (the)",
+            "id": 9
+        },
+        {
+            "latitude": 42.1,
+            "longitude": -72.59,
+            "location": "Springfield",
+            "country": "United States of America (the)",
+            "id": 10
+        },
+        {
+            "latitude": 43.66,
+            "longitude": -70.26,
+            "location": "Portland",
+            "country": "United States of America (the)",
+            "id": 12
+        },
+        {
+            "latitude": 44.26,
+            "longitude": -70.26,
+            "location": "Turner",
+            "country": "United States of America (the)",
+            "id": 13
+        },
+        {
+            "latitude": 44.4,
+            "longitude": -70.79,
+            "location": "Bethel",
+            "country": "United States of America (the)",
+            "id": 14
+        },
+        {
+            "latitude": 44.21,
+            "longitude": -70.54,
+            "location": "Norway",
+            "country": "United States of America (the)",
+            "id": 15
+        },
+        {
+            "latitude": 43.74,
+            "longitude": -70.55,
+            "location": "Buxton",
+            "country": "United States of America (the)",
+            "id": 16
+        },
+        {
+            "latitude": 44.29,
+            "longitude": -70.37,
+            "location": "Buckfield",
+            "country": "United States of America (the)",
+            "id": 17
+        },
+        {
+            "latitude": 44.31,
+            "longitude": -69.78,
+            "location": "Augusta",
+            "country": "United States of America (the)",
+            "id": 18
+        },
+        {
+            "latitude": 44.1,
+            "longitude": -70.21,
+            "location": "Lewiston",
+            "country": "United States of America (the)",
+            "id": 19
+        }
+    ],
+    "links": [
+        {
+            "length": 115.5842950114381,
+            "source": 1,
+            "target": 12.0
+        },
+        {
+            "length": 61.72513877291561,
+            "source": 1,
+            "target": 4.0
+        },
+        {
+            "length": 84.92727922577953,
+            "source": 1,
+            "target": 7.0
+        },
+        {
+            "length": 106.5170591971861,
+            "source": 2,
+            "target": 12.0
+        },
+        {
+            "length": 177.6169985687207,
+            "source": 2,
+            "target": 8.0
+        },
+        {
+            "length": 36.48425251511242,
+            "source": 3,
+            "target": 12.0
+        },
+        {
+            "length": 39.62573932255859,
+            "source": 3,
+            "target": 4.0
+        },
+        {
+            "length": 46.35899387981959,
+            "source": 5,
+            "target": 6.0
+        },
+        {
+            "length": 116.9687891029035,
+            "source": 5,
+            "target": 7.0
+        },
+        {
+            "length": 47.01940919936226,
+            "source": 6,
+            "target": 9.0
+        },
+        {
+            "length": 143.587760082976,
+            "source": 8,
+            "target": 10.0
+        },
+        {
+            "length": 101.2244765261993,
+            "source": 9,
+            "target": 10.0
+        },
+        {
+            "length": 206.4456940218038,
+            "source": 11,
+            "target": 19.0
+        },
+        {
+            "length": 144.2390619276744,
+            "source": 11,
+            "target": 18.0
+        },
+        {
+            "length": 73.6344166653572,
+            "source": 12,
+            "target": 19.0
+        },
+        {
+            "length": 37.42898611293066,
+            "source": 12,
+            "target": 16.0
+        },
+        {
+            "length": 57.91672625596681,
+            "source": 13,
+            "target": 18.0
+        },
+        {
+            "length": 67.40841461515036,
+            "source": 13,
+            "target": 14.0
+        },
+        {
+            "length": 43.52863261777786,
+            "source": 14,
+            "target": 15.0
+        },
+        {
+            "length": 24.30150946072797,
+            "source": 15,
+            "target": 17.0
+        },
+        {
+            "length": 78.40161184957121,
+            "source": 15,
+            "target": 16.0
+        },
+        {
+            "length": 94.24233482276554,
+            "source": 16,
+            "target": 17.0
+        },
+        {
+            "length": 70.50834274957555,
+            "source": 17,
+            "target": 18.0
+        },
+        {
+            "length": 62.21034204625666,
+            "source": 18,
+            "target": 19.0
+        },
+        {
+            "length": 0.0,
+            "source": 18,
+            "target": 18.0
+        }
+    ]
+}

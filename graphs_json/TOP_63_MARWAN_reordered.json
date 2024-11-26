@@ -1,0 +1,81 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 30.42,
+            "longitude": -9.6,
+            "location": "Agadir",
+            "country": "Morocco",
+            "id": 1
+        },
+        {
+            "latitude": 31.63,
+            "longitude": -8.01,
+            "location": "Marrakesh",
+            "country": "Morocco",
+            "id": 2
+        },
+        {
+            "latitude": 34.04,
+            "longitude": -5.0,
+            "location": "Fes",
+            "country": "Morocco",
+            "id": 3
+        },
+        {
+            "latitude": 34.01,
+            "longitude": -6.83,
+            "location": "Rabat",
+            "country": "Morocco",
+            "id": 4
+        },
+        {
+            "latitude": 35.78,
+            "longitude": -5.81,
+            "location": "Tangier",
+            "country": "Morocco",
+            "id": 5
+        },
+        {
+            "latitude": 33.59,
+            "longitude": -7.62,
+            "location": "Casablanca",
+            "country": "Morocco",
+            "id": 6
+        }
+    ],
+    "links": [
+        {
+            "length": 303.9301435674128,
+            "source": 1,
+            "target": 2
+        },
+        {
+            "length": 714.9962255186151,
+            "source": 1,
+            "target": 4
+        },
+        {
+            "length": 582.627043544287,
+            "source": 2,
+            "target": 3
+        },
+        {
+            "length": 310.6430120065281,
+            "source": 3,
+            "target": 5
+        },
+        {
+            "length": 129.9864336338506,
+            "source": 4,
+            "target": 6
+        },
+        {
+            "length": 441.6242356589813,
+            "source": 5,
+            "target": 6
+        }
+    ]
+}

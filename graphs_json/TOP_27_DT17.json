@@ -1,0 +1,217 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 48.397053,
+            "longitude": 9.968956,
+            "location": "Ulm",
+            "country": "Germany",
+            "id": 14
+        },
+        {
+            "latitude": 52.516667,
+            "longitude": 13.4,
+            "location": "Berlin",
+            "country": "Germany",
+            "id": 1
+        },
+        {
+            "latitude": 53.073789,
+            "longitude": 8.826754,
+            "location": "Bremen",
+            "country": "Germany",
+            "id": 2
+        },
+        {
+            "latitude": 51.514942,
+            "longitude": 7.465997,
+            "location": "Dortmund",
+            "country": "Germany",
+            "id": 3
+        },
+        {
+            "latitude": 51.228304,
+            "longitude": 6.793849,
+            "location": "Dusseldorf",
+            "country": "Germany",
+            "id": 4
+        },
+        {
+            "latitude": 51.45657,
+            "longitude": 7.012282,
+            "location": "Essen",
+            "country": "Germany",
+            "id": 5
+        },
+        {
+            "latitude": 50.11552,
+            "longitude": 8.684167,
+            "location": "Frankfurt",
+            "country": "Germany",
+            "id": 6
+        },
+        {
+            "latitude": 53.575323,
+            "longitude": 10.01534,
+            "location": "Hamburg",
+            "country": "Germany",
+            "id": 7
+        },
+        {
+            "latitude": 52.38497,
+            "longitude": 9.737141,
+            "location": "Hanover",
+            "country": "Germany",
+            "id": 8
+        },
+        {
+            "latitude": 50.933333,
+            "longitude": 6.95,
+            "location": "Cologne",
+            "country": "Germany",
+            "id": 9
+        },
+        {
+            "latitude": 51.34419,
+            "longitude": 12.386504,
+            "location": "Leipzig",
+            "country": "Germany",
+            "id": 10
+        },
+        {
+            "latitude": 48.15,
+            "longitude": 11.583333,
+            "location": "Munich",
+            "country": "Germany",
+            "id": 11
+        },
+        {
+            "latitude": 49.447778,
+            "longitude": 11.068333,
+            "location": "Nuremberg",
+            "country": "Germany",
+            "id": 12
+        },
+        {
+            "latitude": 48.782343,
+            "longitude": 9.180819,
+            "location": "Stuttgart",
+            "country": "Germany",
+            "id": 13
+        }
+    ],
+    "links": [
+        {
+            "length": 306.3,
+            "source": 1,
+            "target": 7.0
+        },
+        {
+            "length": 294.9,
+            "source": 1,
+            "target": 8.0
+        },
+        {
+            "length": 173.3,
+            "source": 1,
+            "target": 10.0
+        },
+        {
+            "length": 114.7,
+            "source": 2,
+            "target": 7.0
+        },
+        {
+            "length": 121.3,
+            "source": 2,
+            "target": 8.0
+        },
+        {
+            "length": 278.5,
+            "source": 2,
+            "target": 5.0
+        },
+        {
+            "length": 37.4,
+            "source": 3,
+            "target": 5.0
+        },
+        {
+            "length": 230.4,
+            "source": 3,
+            "target": 8.0
+        },
+        {
+            "length": 84.3,
+            "source": 3,
+            "target": 9.0
+        },
+        {
+            "length": 36.9,
+            "source": 4,
+            "target": 5.0
+        },
+        {
+            "length": 40.9,
+            "source": 4,
+            "target": 9.0
+        },
+        {
+            "length": 313.9,
+            "source": 6,
+            "target": 8.0
+        },
+        {
+            "length": 182.0,
+            "source": 6,
+            "target": 9.0
+        },
+        {
+            "length": 352.6,
+            "source": 6,
+            "target": 10.0
+        },
+        {
+            "length": 207.4,
+            "source": 6,
+            "target": 13.0
+        },
+        {
+            "length": 224.1,
+            "source": 6,
+            "target": 12.0
+        },
+        {
+            "length": 257.2,
+            "source": 8,
+            "target": 10.0
+        },
+        {
+            "length": 274.4,
+            "source": 10,
+            "target": 12.0
+        },
+        {
+            "length": 180.8,
+            "source": 11,
+            "target": 12.0
+        },
+        {
+            "length": 145.6,
+            "source": 11,
+            "target": 14.0
+        },
+        {
+            "length": 188.7,
+            "source": 12,
+            "target": 13.0
+        },
+        {
+            "length": 37.1,
+            "source": 13,
+            "target": 14.0
+        }
+    ]
+}

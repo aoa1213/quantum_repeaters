@@ -1,0 +1,165 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 51.46,
+            "longitude": -0.97,
+            "location": "Reading",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "id": 1
+        },
+        {
+            "latitude": 51.51,
+            "longitude": -0.13,
+            "location": "London",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "id": 2
+        },
+        {
+            "latitude": 53.65,
+            "longitude": -3.01,
+            "location": "Southport",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "id": 3
+        },
+        {
+            "latitude": 53.48,
+            "longitude": -2.24,
+            "location": "Manchester",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "id": 4
+        },
+        {
+            "latitude": 52.57,
+            "longitude": -0.25,
+            "location": "Peterborough",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "id": 5
+        },
+        {
+            "latitude": 52.2,
+            "longitude": 0.12,
+            "location": "Cambridge",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "id": 6
+        },
+        {
+            "latitude": 53.38,
+            "longitude": -1.47,
+            "location": "Sheffield",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "id": 7
+        },
+        {
+            "latitude": 52.63,
+            "longitude": -1.13,
+            "location": "Leicester",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "id": 8
+        },
+        {
+            "latitude": 53.93,
+            "longitude": -2.21,
+            "location": "Barnoldswick",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "id": 9
+        },
+        {
+            "latitude": 53.8,
+            "longitude": -1.55,
+            "location": "Leeds",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "id": 10
+        },
+        {
+            "latitude": 52.47,
+            "longitude": -1.92,
+            "location": "Birmingham",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "id": 11
+        },
+        {
+            "latitude": 53.41,
+            "longitude": -2.98,
+            "location": "Liverpool",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "id": 12
+        },
+        {
+            "latitude": 51.45,
+            "longitude": -2.58,
+            "location": "Bristol",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "id": 13
+        }
+    ],
+    "links": [
+        {
+            "length": 87.64367488816515,
+            "source": 1,
+            "target": 2
+        },
+        {
+            "length": 167.3373835976718,
+            "source": 1,
+            "target": 13
+        },
+        {
+            "length": 117.9331652049437,
+            "source": 2,
+            "target": 6
+        },
+        {
+            "length": 91.62093159452056,
+            "source": 3,
+            "target": 9
+        },
+        {
+            "length": 40.14051422646284,
+            "source": 3,
+            "target": 12
+        },
+        {
+            "length": 171.4982865912685,
+            "source": 4,
+            "target": 11
+        },
+        {
+            "length": 74.43306683453827,
+            "source": 4,
+            "target": 12
+        },
+        {
+            "length": 89.7083602174358,
+            "source": 5,
+            "target": 8
+        },
+        {
+            "length": 72.29987564362703,
+            "source": 5,
+            "target": 6
+        },
+        {
+            "length": 129.6648190008794,
+            "source": 7,
+            "target": 8
+        },
+        {
+            "length": 70.49908780911265,
+            "source": 7,
+            "target": 10
+        },
+        {
+            "length": 68.44007076148796,
+            "source": 9,
+            "target": 10
+        },
+        {
+            "length": 183.1512309474041,
+            "source": 11,
+            "target": 13
+        }
+    ]
+}
