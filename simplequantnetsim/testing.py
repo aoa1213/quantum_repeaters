@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from pathlib import Path
 
 # Step 1: 读取 JSON 文件
-filepath = Path(__file__).parent.parent.joinpath('graphs_json', 'TOP_1_ABILENE.json')
+filepath = Path(__file__).parent.parent.joinpath('graphs_json', 'TOP_1_ABILENE_reordered.json')
 with open(filepath, "r") as f:
     data = json.load(f)
 

@@ -42,7 +42,7 @@ def SP_protocol(G, users, timesteps, reps, count_fusion=False):
         J, users, timesteps, reps, _SD_protocol, nodes=True, count_fusion=count_fusion
     )
     update_usage_from_subgraph(G, J)
-    return er, multipartite_gen_time, avg_links_used
+    return er, multipartite_gen_time, avg_links_used,J
 
 
 def MPG_protocol(G, users, timesteps, reps, count_fusion=False):
@@ -118,7 +118,6 @@ def _run_protocol(G, users, timesteps, reps, success_protocol, nodes=False, coun
 # for MPC
 def _CC_protocol(G, H, users, used_nodes, count_fusion=False):
     CC = nx.node_connected_component(H, users[0])
-
     # can check a set is within a set with operators
     if not (set(users) <= CC):
         return False  # unsuccessful, all users not in same connected component which is needed for tree between them to exist
@@ -135,7 +134,6 @@ def _CC_protocol(G, H, users, used_nodes, count_fusion=False):
             "edge_count": K.number_of_edges(),
         }
     )
-
     return True
 
 

@@ -25,7 +25,7 @@ for file_path in input_folder.glob('*.xlsx'):
     # 读取节点和边的数据
     nodes_df = pd.read_excel(file_path, sheet_name=nodes_sheet_name)
     edges_df = pd.read_excel(file_path, sheet_name=edge_sheet_name)
-    
+
     # 转换数据类型
     nodes_df = convert_type(nodes_df)
     edges_df = convert_type(edges_df)
@@ -55,7 +55,7 @@ for file_path in input_folder.glob('*.xlsx'):
 
     # Step 2: 找到距离原点 (0, 0) 最短的节点作为中心节点
     center_node = min(distances, key=distances.get)
-
+    print(1)
     # Step 3: 添加边及其属性
     for _, row in edges_df.iterrows():
         G.add_edge(
