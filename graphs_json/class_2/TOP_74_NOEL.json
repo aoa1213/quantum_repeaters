@@ -1,0 +1,286 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 47.42,
+            "longitude": -120.31,
+            "location": "Wenatchee",
+            "country": "United States of America (the)",
+            "center_distance": 0.22645344650701313,
+            "id": 3
+        },
+        {
+            "latitude": 47.0,
+            "longitude": -120.55,
+            "location": "Ellensburg",
+            "country": "United States of America (the)",
+            "center_distance": 0.30230187990284685,
+            "id": 11
+        },
+        {
+            "latitude": 46.6,
+            "longitude": -120.51,
+            "location": "Yakima",
+            "country": "United States of America (the)",
+            "center_distance": 0.6239914854877561,
+            "id": 10
+        },
+        {
+            "latitude": 46.83,
+            "longitude": -119.18,
+            "location": "Othello",
+            "country": "United States of America (the)",
+            "center_distance": 1.1946006182482496,
+            "id": 4
+        },
+        {
+            "latitude": 46.21,
+            "longitude": -119.14,
+            "location": "Kennewick",
+            "country": "United States of America (the)",
+            "center_distance": 1.5346239399667625,
+            "id": 9
+        },
+        {
+            "latitude": 46.24,
+            "longitude": -119.1,
+            "location": "Pasco",
+            "country": "United States of America (the)",
+            "center_distance": 1.546861714386555,
+            "id": 6
+        },
+        {
+            "latitude": 47.98,
+            "longitude": -122.2,
+            "location": "Everett",
+            "country": "United States of America (the)",
+            "center_distance": 2.0397580107410476,
+            "id": 15
+        },
+        {
+            "latitude": 47.61,
+            "longitude": -122.34,
+            "location": "Seattle",
+            "country": "United States of America (the)",
+            "center_distance": 2.064516537074956,
+            "id": 16
+        },
+        {
+            "latitude": 47.25,
+            "longitude": -122.44,
+            "location": "Tacoma",
+            "country": "United States of America (the)",
+            "center_distance": 2.122852377360816,
+            "id": 17
+        },
+        {
+            "latitude": 46.06,
+            "longitude": -118.34,
+            "location": "Walla Walla",
+            "country": "United States of America (the)",
+            "center_distance": 2.2797603995210456,
+            "id": 5
+        },
+        {
+            "latitude": 48.42,
+            "longitude": -122.33,
+            "location": "Mount Vernon",
+            "country": "United States of America (the)",
+            "center_distance": 2.356356935088605,
+            "id": 14
+        },
+        {
+            "latitude": 47.04,
+            "longitude": -122.9,
+            "location": "Olympia",
+            "country": "United States of America (the)",
+            "center_distance": 2.5866747817599376,
+            "id": 18
+        },
+        {
+            "latitude": 48.76,
+            "longitude": -122.49,
+            "location": "Bellingham",
+            "country": "United States of America (the)",
+            "center_distance": 2.6779444405350854,
+            "id": 13
+        },
+        {
+            "latitude": 45.52,
+            "longitude": -122.68,
+            "location": "Portland",
+            "country": "United States of America (the)",
+            "center_distance": 2.8949542502090315,
+            "id": 19
+        },
+        {
+            "latitude": 47.66,
+            "longitude": -117.43,
+            "location": "Spokane",
+            "country": "United States of America (the)",
+            "center_distance": 2.925301083066966,
+            "id": 1
+        },
+        {
+            "latitude": 46.73,
+            "longitude": -117.18,
+            "location": "Pullman",
+            "country": "United States of America (the)",
+            "center_distance": 3.1719688564979265,
+            "id": 7
+        },
+        {
+            "latitude": 46.42,
+            "longitude": -117.02,
+            "location": "Lewiston",
+            "country": "United States of America (the)",
+            "center_distance": 3.38743220639301,
+            "id": 8
+        },
+        {
+            "latitude": 49.25,
+            "longitude": -123.12,
+            "location": "Vancouver",
+            "country": "Canada",
+            "center_distance": 3.4756623155674924,
+            "id": 12
+        },
+        {
+            "latitude": 47.68,
+            "longitude": -116.78,
+            "location": "Coeur d'Alene",
+            "country": "United States of America (the)",
+            "center_distance": 3.571162586058843,
+            "id": 2
+        }
+    ],
+    "links": [
+        {
+            "length": 326.7224503254238,
+            "source": 3,
+            "target": 1
+        },
+        {
+            "length": 75.14546248417876,
+            "source": 3,
+            "target": 11
+        },
+        {
+            "length": 230.8602144919846,
+            "source": 3,
+            "target": 16
+        },
+        {
+            "length": 66.87308990199159,
+            "source": 11,
+            "target": 10
+        },
+        {
+            "length": 156.8566505681249,
+            "source": 10,
+            "target": 4
+        },
+        {
+            "length": 172.8824903246685,
+            "source": 10,
+            "target": 6
+        },
+        {
+            "length": 170.4636330891594,
+            "source": 10,
+            "target": 9
+        },
+        {
+            "length": 267.4600221751385,
+            "source": 10,
+            "target": 16
+        },
+        {
+            "length": 241.7112063035856,
+            "source": 4,
+            "target": 1
+        },
+        {
+            "length": 95.78907487116305,
+            "source": 9,
+            "target": 5
+        },
+        {
+            "length": 6.80750400672969,
+            "source": 9,
+            "target": 6
+        },
+        {
+            "length": 426.9179729563697,
+            "source": 9,
+            "target": 19
+        },
+        {
+            "length": 92.80716702310214,
+            "source": 6,
+            "target": 5
+        },
+        {
+            "length": 74.79814172574787,
+            "source": 15,
+            "target": 14
+        },
+        {
+            "length": 63.67565608224866,
+            "source": 15,
+            "target": 16
+        },
+        {
+            "length": 286.8332012043319,
+            "source": 16,
+            "target": 12
+        },
+        {
+            "length": 61.09619682834861,
+            "source": 16,
+            "target": 17
+        },
+        {
+            "length": 350.7687027868379,
+            "source": 16,
+            "target": 19
+        },
+        {
+            "length": 62.84884443637591,
+            "source": 17,
+            "target": 18
+        },
+        {
+            "length": 59.39308239786348,
+            "source": 14,
+            "target": 13
+        },
+        {
+            "length": 254.7894079178984,
+            "source": 18,
+            "target": 19
+        },
+        {
+            "length": 106.9151766804321,
+            "source": 13,
+            "target": 12
+        },
+        {
+            "length": 73.08261974195123,
+            "source": 1,
+            "target": 2
+        },
+        {
+            "length": 157.6832261384525,
+            "source": 1,
+            "target": 7
+        },
+        {
+            "length": 54.86341642985107,
+            "source": 7,
+            "target": 8
+        }
+    ]
+}

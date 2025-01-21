@@ -1,0 +1,342 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 50.03,
+            "longitude": 15.2,
+            "location": "Kolin",
+            "country": "Czechia",
+            "center_distance": 0.2801988410621067,
+            "id": 11
+        },
+        {
+            "latitude": 49.61,
+            "longitude": 15.58,
+            "location": "Havlickuv Brod",
+            "country": "Czechia",
+            "center_distance": 0.3205821719841611,
+            "id": 6
+        },
+        {
+            "latitude": 49.14,
+            "longitude": 15.0,
+            "location": "Jindrichuv Hradec",
+            "country": "Czechia",
+            "center_distance": 0.6974044228380502,
+            "id": 5
+        },
+        {
+            "latitude": 49.41,
+            "longitude": 14.66,
+            "location": "Tabor",
+            "country": "Czechia",
+            "center_distance": 0.7350796961985208,
+            "id": 8
+        },
+        {
+            "latitude": 50.41,
+            "longitude": 14.9,
+            "location": "Mlada Boleslav",
+            "country": "Czechia",
+            "center_distance": 0.7565126506097208,
+            "id": 26
+        },
+        {
+            "latitude": 49.03,
+            "longitude": 15.5,
+            "location": "Jemnice",
+            "country": "Czechia",
+            "center_distance": 0.7650363529282552,
+            "id": 14
+        },
+        {
+            "latitude": 50.6,
+            "longitude": 15.34,
+            "location": "Semily",
+            "country": "Czechia",
+            "center_distance": 0.8320432716614994,
+            "id": 23
+        },
+        {
+            "latitude": 50.09,
+            "longitude": 14.42,
+            "location": "Prague",
+            "country": "Czechia",
+            "center_distance": 0.9382163141147188,
+            "id": 25
+        },
+        {
+            "latitude": 50.77,
+            "longitude": 15.06,
+            "location": "Liberec",
+            "country": "Czechia",
+            "center_distance": 1.029878561807664,
+            "id": 22
+        },
+        {
+            "latitude": 49.9,
+            "longitude": 16.44,
+            "location": "Ceska Trebova",
+            "country": "Czechia",
+            "center_distance": 1.1459912765449691,
+            "id": 21
+        },
+        {
+            "latitude": 48.97,
+            "longitude": 14.47,
+            "location": "Ceske Budejovice",
+            "country": "Czechia",
+            "center_distance": 1.153087763586334,
+            "id": 7
+        },
+        {
+            "latitude": 49.31,
+            "longitude": 14.15,
+            "location": "Pisek",
+            "country": "Czechia",
+            "center_distance": 1.2395888920532334,
+            "id": 2
+        },
+        {
+            "latitude": 49.96,
+            "longitude": 14.07,
+            "location": "Beroun",
+            "country": "Czechia",
+            "center_distance": 1.246285190134235,
+            "id": 17
+        },
+        {
+            "latitude": 50.15,
+            "longitude": 14.1,
+            "location": "Kladno",
+            "country": "Czechia",
+            "center_distance": 1.2605446953575596,
+            "id": 24
+        },
+        {
+            "latitude": 49.2,
+            "longitude": 16.61,
+            "location": "Brno",
+            "country": "Czechia",
+            "center_distance": 1.4267647123400171,
+            "id": 9
+        },
+        {
+            "latitude": 50.66,
+            "longitude": 14.03,
+            "location": "Usti nad Labem",
+            "country": "Czechia",
+            "center_distance": 1.5527283203079643,
+            "id": 10
+        },
+        {
+            "latitude": 49.47,
+            "longitude": 17.11,
+            "location": "Prostejov",
+            "country": "Czechia",
+            "center_distance": 1.8329872230223851,
+            "id": 16
+        },
+        {
+            "latitude": 49.75,
+            "longitude": 13.38,
+            "location": "Pilsen",
+            "country": "Czechia",
+            "center_distance": 1.9216308794059227,
+            "id": 4
+        },
+        {
+            "latitude": 49.6,
+            "longitude": 17.25,
+            "location": "Olomouc",
+            "country": "Czechia",
+            "center_distance": 1.9557636336051831,
+            "id": 20
+        },
+        {
+            "latitude": 50.46,
+            "longitude": 13.42,
+            "location": "Chomutov",
+            "country": "Czechia",
+            "center_distance": 2.0044651708876806,
+            "id": 3
+        },
+        {
+            "latitude": 49.4,
+            "longitude": 13.3,
+            "location": "Klatovy",
+            "country": "Czechia",
+            "center_distance": 2.0352404521885954,
+            "id": 1
+        },
+        {
+            "latitude": 48.85,
+            "longitude": 17.13,
+            "location": "Hodonin",
+            "country": "Czechia",
+            "center_distance": 2.046350373731487,
+            "id": 15
+        },
+        {
+            "latitude": 49.22,
+            "longitude": 17.67,
+            "location": "Zlin",
+            "country": "Czechia",
+            "center_distance": 2.431222359177236,
+            "id": 13
+        },
+        {
+            "latitude": 50.23,
+            "longitude": 12.87,
+            "location": "Karlovy Vary",
+            "country": "Czechia",
+            "center_distance": 2.474882251696697,
+            "id": 18
+        },
+        {
+            "latitude": 49.94,
+            "longitude": 17.9,
+            "location": "Opava",
+            "country": "Czechia",
+            "center_distance": 2.6040921654037446,
+            "id": 19
+        },
+        {
+            "latitude": 49.83,
+            "longitude": 18.28,
+            "location": "Ostrava",
+            "country": "Czechia",
+            "center_distance": 2.979089278453081,
+            "id": 12
+        }
+    ],
+    "links": [
+        {
+            "length": 84.11803537378353,
+            "source": 11,
+            "target": 25
+        },
+        {
+            "length": 100.5618534474931,
+            "source": 6,
+            "target": 5
+        },
+        {
+            "length": 131.0451677159967,
+            "source": 6,
+            "target": 9
+        },
+        {
+            "length": 64.4982574068788,
+            "source": 5,
+            "target": 7
+        },
+        {
+            "length": 76.25514690688053,
+            "source": 8,
+            "target": 7
+        },
+        {
+            "length": 73.95598548369489,
+            "source": 26,
+            "target": 25
+        },
+        {
+            "length": 238.9592328689168,
+            "source": 14,
+            "target": 13
+        },
+        {
+            "length": 181.0809673157038,
+            "source": 14,
+            "target": 15
+        },
+        {
+            "length": 40.98201015679786,
+            "source": 23,
+            "target": 22
+        },
+        {
+            "length": 186.8858670613935,
+            "source": 25,
+            "target": 7
+        },
+        {
+            "length": 43.32148031128548,
+            "source": 25,
+            "target": 17
+        },
+        {
+            "length": 35.65535993070064,
+            "source": 25,
+            "target": 24
+        },
+        {
+            "length": 110.3130666224108,
+            "source": 22,
+            "target": 10
+        },
+        {
+            "length": 100.6160808488183,
+            "source": 21,
+            "target": 20
+        },
+        {
+            "length": 66.59716207899825,
+            "source": 7,
+            "target": 2
+        },
+        {
+            "length": 82.0505994522759,
+            "source": 17,
+            "target": 4
+        },
+        {
+            "length": 81.50069339341765,
+            "source": 9,
+            "target": 15
+        },
+        {
+            "length": 72.73484848207556,
+            "source": 10,
+            "target": 3
+        },
+        {
+            "length": 26.4538710748345,
+            "source": 16,
+            "target": 20
+        },
+        {
+            "length": 59.01507299542541,
+            "source": 4,
+            "target": 1
+        },
+        {
+            "length": 96.95617952126375,
+            "source": 4,
+            "target": 18
+        },
+        {
+            "length": 117.5181952711605,
+            "source": 20,
+            "target": 12
+        },
+        {
+            "length": 69.99170242282302,
+            "source": 3,
+            "target": 18
+        },
+        {
+            "length": 121.2979327333021,
+            "source": 13,
+            "target": 12
+        },
+        {
+            "length": 44.76998048270598,
+            "source": 19,
+            "target": 12
+        }
+    ]
+}

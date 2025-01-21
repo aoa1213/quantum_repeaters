@@ -1,0 +1,167 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 38.961694,
+            "longitude": -96.596704,
+            "location": "Ogden",
+            "country": "United States of America (the)",
+            "center_distance": 0.7306263088923118,
+            "id": 6
+        },
+        {
+            "latitude": 40.75,
+            "longitude": -105.0,
+            "location": "Wellington",
+            "country": "United States of America (the)",
+            "center_distance": 8.147697537744952,
+            "id": 3
+        },
+        {
+            "latitude": 29.770031,
+            "longitude": -95.517364,
+            "location": "Hedwig Village",
+            "country": "United States of America (the)",
+            "center_distance": 8.890095747081071,
+            "id": 4
+        },
+        {
+            "latitude": 41.8333,
+            "longitude": -87.6167,
+            "location": "Chicago",
+            "country": "United States of America (the)",
+            "center_distance": 10.113922572677785,
+            "id": 2
+        },
+        {
+            "latitude": 39.780622,
+            "longitude": -86.159535,
+            "location": "Indianapolis",
+            "country": "United States of America (the)",
+            "center_distance": 11.081571732739164,
+            "id": 5
+        },
+        {
+            "latitude": 33.75,
+            "longitude": -84.3833,
+            "location": "Atlanta",
+            "country": "United States of America (the)",
+            "center_distance": 13.640097273604535,
+            "id": 1
+        },
+        {
+            "latitude": 38.897303,
+            "longitude": -77.026842,
+            "location": "Washington, D.C.",
+            "country": "United States of America (the)",
+            "center_distance": 20.144481831667356,
+            "id": 11
+        },
+        {
+            "latitude": 34.05,
+            "longitude": -118.25,
+            "location": "Los Angeles",
+            "country": "United States of America (the)",
+            "center_distance": 21.548174652354966,
+            "id": 7
+        },
+        {
+            "latitude": 40.7833,
+            "longitude": -73.9667,
+            "location": "Manhattan",
+            "country": "United States of America (the)",
+            "center_distance": 23.312348883970046,
+            "id": 8
+        },
+        {
+            "latitude": 37.38575,
+            "longitude": -122.02553,
+            "location": "Sunnyvale",
+            "country": "United States of America (the)",
+            "center_distance": 24.883227483815137,
+            "id": 9
+        },
+        {
+            "latitude": 47.6,
+            "longitude": -122.3,
+            "location": "Seattle",
+            "country": "United States of America (the)",
+            "center_distance": 26.727311995975406,
+            "id": 10
+        }
+    ],
+    "links": [
+        {
+            "length": 1116.022139449131,
+            "source": 6,
+            "target": 3
+        },
+        {
+            "length": 1500.0,
+            "source": 6,
+            "target": 4
+        },
+        {
+            "length": 1351.895189767641,
+            "source": 6,
+            "target": 5
+        },
+        {
+            "length": 1892.498311036556,
+            "source": 3,
+            "target": 9
+        },
+        {
+            "length": 1963.718340246905,
+            "source": 3,
+            "target": 10
+        },
+        {
+            "length": 1500.0,
+            "source": 4,
+            "target": 1
+        },
+        {
+            "length": 2741.202050417932,
+            "source": 4,
+            "target": 7
+        },
+        {
+            "length": 388.6491313578985,
+            "source": 2,
+            "target": 5
+        },
+        {
+            "length": 1500.0,
+            "source": 2,
+            "target": 8
+        },
+        {
+            "length": 885.1138413916553,
+            "source": 5,
+            "target": 1
+        },
+        {
+            "length": 1348.854429653284,
+            "source": 1,
+            "target": 11
+        },
+        {
+            "length": 502.4825029191594,
+            "source": 11,
+            "target": 8
+        },
+        {
+            "length": 755.4741126799757,
+            "source": 7,
+            "target": 9
+        },
+        {
+            "length": 1500.0,
+            "source": 9,
+            "target": 10
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 43.0756647759984,
+            "longitude": 25.6181872309471,
+            "location": "Trnovo",
+            "country": "Bulgaria",
+            "center_distance": 0.1825462362812383,
+            "id": 5
+        },
+        {
+            "latitude": 42.8838819691562,
+            "longitude": 25.3149737976083,
+            "location": "Gabrovo",
+            "country": "Bulgaria",
+            "center_distance": 0.4153653372574979,
+            "id": 6
+        },
+        {
+            "latitude": 42.4272119485047,
+            "longitude": 25.632925398511,
+            "location": "StaraZagora",
+            "country": "Bulgaria",
+            "center_distance": 0.5113624921138289,
+            "id": 7
+        },
+        {
+            "latitude": 43.835571,
+            "longitude": 25.965654,
+            "location": "Ruse",
+            "country": "Bulgaria",
+            "center_distance": 0.936580510433538,
+            "id": 1
+        },
+        {
+            "latitude": 43.27,
+            "longitude": 26.93,
+            "location": "Choumen",
+            "country": "Bulgaria",
+            "center_distance": 1.249432035750075,
+            "id": 2
+        },
+        {
+            "latitude": 42.1355852008223,
+            "longitude": 24.7470533705177,
+            "location": "Plovdiv",
+            "country": "Bulgaria",
+            "center_distance": 1.261936734375952,
+            "id": 10
+        },
+        {
+            "latitude": 43.25,
+            "longitude": 24.37,
+            "location": "Pleven",
+            "country": "Bulgaria",
+            "center_distance": 1.3950731973538504,
+            "id": 8
+        },
+        {
+            "latitude": 42.504791,
+            "longitude": 27.462637,
+            "location": "Burgas",
+            "country": "Bulgaria",
+            "center_distance": 1.786109208714376,
+            "id": 4
+        },
+        {
+            "latitude": 43.21405,
+            "longitude": 27.914734,
+            "location": "Varna",
+            "country": "Bulgaria",
+            "center_distance": 2.2053382001174775,
+            "id": 3
+        },
+        {
+            "latitude": 42.700196738745,
+            "longitude": 23.3218840373449,
+            "location": "Sofia",
+            "country": "Bulgaria",
+            "center_distance": 2.4168418836806,
+            "id": 9
+        }
+    ],
+    "links": [
+        {
+            "length": 133.545,
+            "source": 5,
+            "target": 1
+        },
+        {
+            "length": 48.915,
+            "source": 5,
+            "target": 6
+        },
+        {
+            "length": 135.795,
+            "source": 5,
+            "target": 8
+        },
+        {
+            "length": 85.57499999999999,
+            "source": 6,
+            "target": 7
+        },
+        {
+            "length": 225.45,
+            "source": 7,
+            "target": 4
+        },
+        {
+            "length": 119.655,
+            "source": 7,
+            "target": 10
+        },
+        {
+            "length": 345.3,
+            "source": 1,
+            "target": 2
+        },
+        {
+            "length": 251.85,
+            "source": 2,
+            "target": 3
+        },
+        {
+            "length": 199.2,
+            "source": 10,
+            "target": 9
+        },
+        {
+            "length": 197.1,
+            "source": 8,
+            "target": 9
+        },
+        {
+            "length": 130.575,
+            "source": 4,
+            "target": 3
+        }
+    ]
+}

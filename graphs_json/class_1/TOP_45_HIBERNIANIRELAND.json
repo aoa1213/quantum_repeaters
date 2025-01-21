@@ -1,0 +1,209 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 54.41,
+            "longitude": -6.45,
+            "location": "Portadown",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "center_distance": 0.0593670316290406,
+            "id": 3
+        },
+        {
+            "latitude": 54.35,
+            "longitude": -6.67,
+            "location": "Armagh",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "center_distance": 0.16971872154964318,
+            "id": 8
+        },
+        {
+            "latitude": 54.12,
+            "longitude": -6.73,
+            "location": "Castleblayney",
+            "country": "Ireland",
+            "center_distance": 0.34853662329486657,
+            "id": 4
+        },
+        {
+            "latitude": 54.0,
+            "longitude": -6.42,
+            "location": "Dundalk",
+            "country": "Ireland",
+            "center_distance": 0.39438278078256706,
+            "id": 6
+        },
+        {
+            "latitude": 54.25,
+            "longitude": -6.97,
+            "location": "Monaghan",
+            "country": "Ireland",
+            "center_distance": 0.4852536564634159,
+            "id": 5
+        },
+        {
+            "latitude": 54.86,
+            "longitude": -6.28,
+            "location": "Ballymena",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "center_distance": 0.5248661204959114,
+            "id": 9
+        },
+        {
+            "latitude": 54.58,
+            "longitude": -5.93,
+            "location": "Belfast",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "center_distance": 0.6061114675627784,
+            "id": 10
+        },
+        {
+            "latitude": 53.72,
+            "longitude": -6.35,
+            "location": "Drogheda",
+            "country": "Ireland",
+            "center_distance": 0.6829234543083638,
+            "id": 1
+        },
+        {
+            "latitude": 55.13,
+            "longitude": -6.67,
+            "location": "Coleraine",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "center_distance": 0.7629445880563175,
+            "id": 15
+        },
+        {
+            "latitude": 54.6,
+            "longitude": -7.3,
+            "location": "Omagh",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "center_distance": 0.8244378556190699,
+            "id": 11
+        },
+        {
+            "latitude": 55.0,
+            "longitude": -7.31,
+            "location": "Derry",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "center_distance": 1.013632631238305,
+            "id": 14
+        },
+        {
+            "latitude": 54.82,
+            "longitude": -7.47,
+            "location": "Strabane",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "center_distance": 1.0592880208475388,
+            "id": 12
+        },
+        {
+            "latitude": 53.34,
+            "longitude": -6.27,
+            "location": "Rathmines",
+            "country": "Ireland",
+            "center_distance": 1.0712038917861553,
+            "id": 7
+        },
+        {
+            "latitude": 54.95,
+            "longitude": -7.73,
+            "location": "Letterkenny",
+            "country": "Ireland",
+            "center_distance": 1.3497868144430918,
+            "id": 13
+        },
+        {
+            "latitude": 53.65,
+            "longitude": -3.01,
+            "location": "Southport",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "center_distance": 3.5705393305649418,
+            "id": 2
+        }
+    ],
+    "links": [
+        {
+            "length": 57.80376021398889,
+            "source": 3,
+            "target": 10
+        },
+        {
+            "length": 23.59811242401456,
+            "source": 3,
+            "target": 8
+        },
+        {
+            "length": 33.62707158090586,
+            "source": 8,
+            "target": 5
+        },
+        {
+            "length": 73.93671887572668,
+            "source": 8,
+            "target": 11
+        },
+        {
+            "length": 31.91952361094761,
+            "source": 4,
+            "target": 5
+        },
+        {
+            "length": 36.35382448093984,
+            "source": 4,
+            "target": 6
+        },
+        {
+            "length": 47.20674945464725,
+            "source": 6,
+            "target": 1
+        },
+        {
+            "length": 57.60115468007915,
+            "source": 9,
+            "target": 10
+        },
+        {
+            "length": 58.48471218608654,
+            "source": 9,
+            "target": 15
+        },
+        {
+            "length": 63.8754214064265,
+            "source": 1,
+            "target": 7
+        },
+        {
+            "length": 64.85982213364663,
+            "source": 15,
+            "target": 14
+        },
+        {
+            "length": 40.18465425949147,
+            "source": 11,
+            "target": 12
+        },
+        {
+            "length": 33.71513252579204,
+            "source": 14,
+            "target": 12
+        },
+        {
+            "length": 41.0614143104585,
+            "source": 14,
+            "target": 13
+        },
+        {
+            "length": 33.05150935102041,
+            "source": 12,
+            "target": 13
+        },
+        {
+            "length": 327.5450566295908,
+            "source": 7,
+            "target": 2
+        }
+    ]
+}

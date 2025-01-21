@@ -1,0 +1,393 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": -7.47,
+            "longitude": 110.22,
+            "location": "Magelang",
+            "country": "Indonesia",
+            "center_distance": 0.22948839506473365,
+            "id": 7
+        },
+        {
+            "latitude": -6.99,
+            "longitude": 110.42,
+            "location": "Semarang",
+            "country": "Indonesia",
+            "center_distance": 0.32681459669399093,
+            "id": 6
+        },
+        {
+            "latitude": -7.78,
+            "longitude": 110.36,
+            "location": "Yogyakarta",
+            "country": "Indonesia",
+            "center_distance": 0.5596624574924922,
+            "id": 8
+        },
+        {
+            "latitude": -6.89,
+            "longitude": 109.68,
+            "location": "Pekalongan",
+            "country": "Indonesia",
+            "center_distance": 0.6358295441261309,
+            "id": 5
+        },
+        {
+            "latitude": -7.56,
+            "longitude": 110.83,
+            "location": "Surakarta",
+            "country": "Indonesia",
+            "center_distance": 0.6970657341708362,
+            "id": 10
+        },
+        {
+            "latitude": -6.8,
+            "longitude": 110.84,
+            "location": "Kudus",
+            "country": "Indonesia",
+            "center_distance": 0.768556575135304,
+            "id": 9
+        },
+        {
+            "latitude": -7.42,
+            "longitude": 109.23,
+            "location": "Purwokerto",
+            "country": "Indonesia",
+            "center_distance": 0.996616021794706,
+            "id": 2
+        },
+        {
+            "latitude": -6.87,
+            "longitude": 109.14,
+            "location": "Tegal",
+            "country": "Indonesia",
+            "center_distance": 1.132737169381278,
+            "id": 21
+        },
+        {
+            "latitude": -7.73,
+            "longitude": 109.01,
+            "location": "Karangbadar Kidul",
+            "country": "Indonesia",
+            "center_distance": 1.2962475768973212,
+            "id": 1
+        },
+        {
+            "latitude": -7.63,
+            "longitude": 111.52,
+            "location": "Madiun",
+            "country": "Indonesia",
+            "center_distance": 1.3662751482085491,
+            "id": 14
+        },
+        {
+            "latitude": -6.71,
+            "longitude": 108.56,
+            "location": "Cirebon",
+            "country": "Indonesia",
+            "center_distance": 1.7335905952792705,
+            "id": 22
+        },
+        {
+            "latitude": -6.9,
+            "longitude": 112.05,
+            "location": "Merik",
+            "country": "Indonesia",
+            "center_distance": 1.8709281296529283,
+            "id": 15
+        },
+        {
+            "latitude": -7.82,
+            "longitude": 112.02,
+            "location": "Kediri",
+            "country": "Indonesia",
+            "center_distance": 1.9000997892699583,
+            "id": 13
+        },
+        {
+            "latitude": -7.33,
+            "longitude": 108.2,
+            "location": "Cilingga",
+            "country": "Indonesia",
+            "center_distance": 2.0123388831437268,
+            "id": 4
+        },
+        {
+            "latitude": -7.98,
+            "longitude": 112.63,
+            "location": "Malang",
+            "country": "Indonesia",
+            "center_distance": 2.530062237074312,
+            "id": 19
+        },
+        {
+            "latitude": -7.25,
+            "longitude": 112.75,
+            "location": "Surabaya",
+            "country": "Indonesia",
+            "center_distance": 2.539659832797819,
+            "id": 12
+        },
+        {
+            "latitude": -6.9,
+            "longitude": 107.62,
+            "location": "Bandung",
+            "country": "Indonesia",
+            "center_distance": 2.6126684351522056,
+            "id": 23
+        },
+        {
+            "latitude": -6.3,
+            "longitude": 107.31,
+            "location": "Rengasdengklok",
+            "country": "Indonesia",
+            "center_distance": 3.04910067453819,
+            "id": 24
+        },
+        {
+            "latitude": -7.75,
+            "longitude": 113.22,
+            "location": "Probolinggo",
+            "country": "Indonesia",
+            "center_distance": 3.052428879814673,
+            "id": 18
+        },
+        {
+            "latitude": -6.92,
+            "longitude": 106.93,
+            "location": "Sukabumi",
+            "country": "Indonesia",
+            "center_distance": 3.2959976695615105,
+            "id": 3
+        },
+        {
+            "latitude": -6.59,
+            "longitude": 106.79,
+            "location": "Bogor",
+            "country": "Indonesia",
+            "center_distance": 3.4817053388140606,
+            "id": 26
+        },
+        {
+            "latitude": -6.21,
+            "longitude": 106.85,
+            "location": "Jakarta",
+            "country": "Indonesia",
+            "center_distance": 3.514878670214154,
+            "id": 25
+        },
+        {
+            "latitude": -8.17,
+            "longitude": 113.7,
+            "location": "Jember",
+            "country": "Indonesia",
+            "center_distance": 3.611257289253128,
+            "id": 17
+        },
+        {
+            "latitude": -6.11,
+            "longitude": 106.15,
+            "location": "Serang",
+            "country": "Indonesia",
+            "center_distance": 4.214856453483221,
+            "id": 27
+        },
+        {
+            "latitude": -8.22,
+            "longitude": 114.36,
+            "location": "Banyuwangi",
+            "country": "Indonesia",
+            "center_distance": 4.263629481092488,
+            "id": 16
+        },
+        {
+            "latitude": -6.77,
+            "longitude": 105.85,
+            "location": "Umbulan",
+            "country": "Indonesia",
+            "center_distance": 4.38569109172553,
+            "id": 20
+        },
+        {
+            "latitude": -6.07,
+            "longitude": 105.88,
+            "location": "Ciparay",
+            "country": "Indonesia",
+            "center_distance": 4.485818200002005,
+            "id": 28
+        },
+        {
+            "latitude": -9.6,
+            "longitude": 123.77,
+            "location": "Naisano Dua",
+            "country": "Indonesia",
+            "center_distance": 13.763362361534279,
+            "id": 11
+        }
+    ],
+    "links": [
+        {
+            "length": 163.9446271563576,
+            "source": 7,
+            "target": 2
+        },
+        {
+            "length": 56.64925352090003,
+            "source": 7,
+            "target": 8
+        },
+        {
+            "length": 123.6521053737185,
+            "source": 6,
+            "target": 5
+        },
+        {
+            "length": 76.42614712443529,
+            "source": 6,
+            "target": 9
+        },
+        {
+            "length": 116.7907626137179,
+            "source": 6,
+            "target": 10
+        },
+        {
+            "length": 85.92069867134964,
+            "source": 8,
+            "target": 10
+        },
+        {
+            "length": 89.48152741734025,
+            "source": 5,
+            "target": 21
+        },
+        {
+            "length": 114.6730015583044,
+            "source": 10,
+            "target": 14
+        },
+        {
+            "length": 201.071071999294,
+            "source": 9,
+            "target": 15
+        },
+        {
+            "length": 63.21823334353002,
+            "source": 2,
+            "target": 1
+        },
+        {
+            "length": 99.6990781272909,
+            "source": 21,
+            "target": 22
+        },
+        {
+            "length": 149.6333136910914,
+            "source": 1,
+            "target": 4
+        },
+        {
+            "length": 88.50731681378437,
+            "source": 14,
+            "target": 13
+        },
+        {
+            "length": 158.872980020918,
+            "source": 22,
+            "target": 23
+        },
+        {
+            "length": 129.7409812648952,
+            "source": 15,
+            "target": 12
+        },
+        {
+            "length": 153.6511759437691,
+            "source": 13,
+            "target": 12
+        },
+        {
+            "length": 104.2512936616901,
+            "source": 13,
+            "target": 19
+        },
+        {
+            "length": 119.8281628854474,
+            "source": 4,
+            "target": 23
+        },
+        {
+            "length": 179.51755359469,
+            "source": 19,
+            "target": 17
+        },
+        {
+            "length": 113.9980579802777,
+            "source": 12,
+            "target": 18
+        },
+        {
+            "length": 114.2994786309474,
+            "source": 23,
+            "target": 3
+        },
+        {
+            "length": 112.4865439733617,
+            "source": 23,
+            "target": 24
+        },
+        {
+            "length": 77.7309912823988,
+            "source": 24,
+            "target": 25
+        },
+        {
+            "length": 105.8021963542024,
+            "source": 18,
+            "target": 17
+        },
+        {
+            "length": 59.72676188400029,
+            "source": 3,
+            "target": 26
+        },
+        {
+            "length": 158.5881433532389,
+            "source": 26,
+            "target": 20
+        },
+        {
+            "length": 64.15661318995707,
+            "source": 26,
+            "target": 25
+        },
+        {
+            "length": 117.272693215779,
+            "source": 25,
+            "target": 27
+        },
+        {
+            "length": 109.2775559320207,
+            "source": 17,
+            "target": 16
+        },
+        {
+            "length": 45.27407036269294,
+            "source": 27,
+            "target": 28
+        },
+        {
+            "length": 1500.0,
+            "source": 16,
+            "target": 11
+        },
+        {
+            "length": 116.8605067280724,
+            "source": 20,
+            "target": 28
+        }
+    ]
+}

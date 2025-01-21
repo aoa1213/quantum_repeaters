@@ -1,0 +1,478 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 52.4796992,
+            "longitude": -1.9026911,
+            "location": "Birmingham",
+            "country": "United Kingdom",
+            "center_distance": 0.28166348050950957,
+            "id": 20
+        },
+        {
+            "latitude": 53.0162014,
+            "longitude": -2.1812607,
+            "location": "Stoke-on-Trent",
+            "country": "United Kingdom",
+            "center_distance": 0.4343986571774159,
+            "id": 22
+        },
+        {
+            "latitude": 52.4081812,
+            "longitude": -1.510477,
+            "location": "Coventry",
+            "country": "United Kingdom",
+            "center_distance": 0.4740263919560302,
+            "id": 16
+        },
+        {
+            "latitude": 52.1911849,
+            "longitude": -2.2206585,
+            "location": "Worcester",
+            "country": "United Kingdom",
+            "center_distance": 0.6813530183499084,
+            "id": 21
+        },
+        {
+            "latitude": 52.4552224,
+            "longitude": -1.1997815,
+            "location": "Lutterworth",
+            "country": "United Kingdom",
+            "center_distance": 0.7021040220756064,
+            "id": 17
+        },
+        {
+            "latitude": 52.6362,
+            "longitude": -1.1331969,
+            "location": "Leicester",
+            "country": "United Kingdom",
+            "center_distance": 0.7119893908745195,
+            "id": 18
+        },
+        {
+            "latitude": 53.3806626,
+            "longitude": -1.4702278,
+            "location": "Sheffield",
+            "country": "United Kingdom",
+            "center_distance": 0.7260130803167034,
+            "id": 19
+        },
+        {
+            "latitude": 53.4794892,
+            "longitude": -2.2451148,
+            "location": "Manchester",
+            "country": "United Kingdom",
+            "center_distance": 0.8338062052557584,
+            "id": 23
+        },
+        {
+            "latitude": 53.7944229,
+            "longitude": -1.7519186,
+            "location": "Bradford",
+            "country": "United Kingdom",
+            "center_distance": 1.0445408651706611,
+            "id": 26
+        },
+        {
+            "latitude": 52.23433665,
+            "longitude": -0.902807276818582,
+            "location": "Northampton",
+            "country": "United Kingdom",
+            "center_distance": 1.0673197447519323,
+            "id": 14
+        },
+        {
+            "latitude": 53.7974185,
+            "longitude": -1.5437941,
+            "location": "Leeds",
+            "country": "United Kingdom",
+            "center_distance": 1.084167841657177,
+            "id": 27
+        },
+        {
+            "latitude": 53.7593363,
+            "longitude": -2.6992717,
+            "location": "Preston",
+            "country": "United Kingdom",
+            "center_distance": 1.3260259403861239,
+            "id": 25
+        },
+        {
+            "latitude": 53.4071991,
+            "longitude": -2.99168,
+            "location": "Liverpool",
+            "country": "United Kingdom",
+            "center_distance": 1.3283151105270201,
+            "id": 24
+        },
+        {
+            "latitude": 52.1386636948156,
+            "longitude": -0.463515128822325,
+            "location": "Bedford",
+            "country": "United Kingdom",
+            "center_distance": 1.5033435175241021,
+            "id": 13
+        },
+        {
+            "latitude": 51.4538022,
+            "longitude": -2.5972985,
+            "location": "Bristol",
+            "country": "United Kingdom",
+            "center_distance": 1.5062703881988169,
+            "id": 4
+        },
+        {
+            "latitude": 51.4564242,
+            "longitude": -0.9700664,
+            "location": "Reading",
+            "country": "United Kingdom",
+            "center_distance": 1.5590664350295067,
+            "id": 9
+        },
+        {
+            "latitude": 52.5725769,
+            "longitude": -0.2427336,
+            "location": "Peterborough",
+            "country": "United Kingdom",
+            "center_distance": 1.602980787340818,
+            "id": 15
+        },
+        {
+            "latitude": 51.4816546,
+            "longitude": -3.1791934,
+            "location": "Cardiff",
+            "country": "United Kingdom",
+            "center_distance": 1.8499768678228805,
+            "id": 8
+        },
+        {
+            "latitude": 50.9025349,
+            "longitude": -1.404189,
+            "location": "Southampton",
+            "country": "United Kingdom",
+            "center_distance": 1.9002918270198417,
+            "id": 5
+        },
+        {
+            "latitude": 54.5760419,
+            "longitude": -1.2344047,
+            "location": "Middlesbrough",
+            "country": "United Kingdom",
+            "center_distance": 1.919363327843856,
+            "id": 28
+        },
+        {
+            "latitude": 51.5074456,
+            "longitude": -0.1277653,
+            "location": "London",
+            "country": "United Kingdom",
+            "center_distance": 2.113846589628879,
+            "id": 12
+        },
+        {
+            "latitude": 51.0147895,
+            "longitude": -3.1029086,
+            "location": "Taunton",
+            "country": "United Kingdom",
+            "center_distance": 2.1513949312239165,
+            "id": 3
+        },
+        {
+            "latitude": 54.9058512,
+            "longitude": -1.3828727,
+            "location": "Sunderland",
+            "country": "United Kingdom",
+            "center_distance": 2.199691950541584,
+            "id": 29
+        },
+        {
+            "latitude": 54.9738474,
+            "longitude": -1.6131572,
+            "location": "Newcastle",
+            "country": "United Kingdom",
+            "center_distance": 2.231719512315578,
+            "id": 30
+        },
+        {
+            "latitude": 51.6195955,
+            "longitude": -3.9459248,
+            "location": "Swansea",
+            "country": "United Kingdom",
+            "center_distance": 2.3956241193613828,
+            "id": 7
+        },
+        {
+            "latitude": 50.8214626,
+            "longitude": -0.1400561,
+            "location": "Brighton",
+            "country": "United Kingdom",
+            "center_distance": 2.5702661748472972,
+            "id": 6
+        },
+        {
+            "latitude": 50.6190962,
+            "longitude": -3.4146801,
+            "location": "Exmouth",
+            "country": "United Kingdom",
+            "center_distance": 2.6548704371416485,
+            "id": 2
+        },
+        {
+            "latitude": 51.8896903,
+            "longitude": 0.8994651,
+            "location": "Colchester",
+            "country": "United Kingdom",
+            "center_distance": 2.868056614622507,
+            "id": 10
+        },
+        {
+            "latitude": 55.0691397,
+            "longitude": -3.6107936,
+            "location": "Dumfries",
+            "country": "United Kingdom",
+            "center_distance": 2.918062830803389,
+            "id": 31
+        },
+        {
+            "latitude": 52.6285576,
+            "longitude": 1.2923954,
+            "location": "Norwich",
+            "country": "United Kingdom",
+            "center_distance": 3.130381124752373,
+            "id": 11
+        },
+        {
+            "latitude": 50.3714122,
+            "longitude": -4.1424451,
+            "location": "Plymouth",
+            "country": "United Kingdom",
+            "center_distance": 3.3158784204756055,
+            "id": 1
+        },
+        {
+            "latitude": 55.9533456,
+            "longitude": -3.1883749,
+            "location": "Edinburgh",
+            "country": "United Kingdom",
+            "center_distance": 3.4743337362024995,
+            "id": 32
+        },
+        {
+            "latitude": 55.861155,
+            "longitude": -4.2501687,
+            "location": "Glasgow",
+            "country": "United Kingdom",
+            "center_distance": 3.935708735800115,
+            "id": 33
+        }
+    ],
+    "links": [
+        {
+            "length": 41.625,
+            "source": 20,
+            "target": 16
+        },
+        {
+            "length": 58.02,
+            "source": 20,
+            "target": 21
+        },
+        {
+            "length": 93.795,
+            "source": 20,
+            "target": 22
+        },
+        {
+            "length": 77.535,
+            "source": 22,
+            "target": 23
+        },
+        {
+            "length": 68.4,
+            "source": 16,
+            "target": 14
+        },
+        {
+            "length": 32.55,
+            "source": 16,
+            "target": 17
+        },
+        {
+            "length": 128.97,
+            "source": 21,
+            "target": 4
+        },
+        {
+            "length": 201.51,
+            "source": 21,
+            "target": 7
+        },
+        {
+            "length": 154.155,
+            "source": 21,
+            "target": 8
+        },
+        {
+            "length": 177.87,
+            "source": 21,
+            "target": 9
+        },
+        {
+            "length": 30.93,
+            "source": 17,
+            "target": 18
+        },
+        {
+            "length": 128.7,
+            "source": 18,
+            "target": 19
+        },
+        {
+            "length": 69.885,
+            "source": 19,
+            "target": 27
+        },
+        {
+            "length": 75.135,
+            "source": 23,
+            "target": 24
+        },
+        {
+            "length": 71.685,
+            "source": 23,
+            "target": 26
+        },
+        {
+            "length": 64.785,
+            "source": 23,
+            "target": 25
+        },
+        {
+            "length": 20.505,
+            "source": 26,
+            "target": 27
+        },
+        {
+            "length": 139.815,
+            "source": 26,
+            "target": 28
+        },
+        {
+            "length": 7295.175,
+            "source": 14,
+            "target": 13
+        },
+        {
+            "length": 65.475,
+            "source": 25,
+            "target": 24
+        },
+        {
+            "length": 235.695,
+            "source": 25,
+            "target": 31
+        },
+        {
+            "length": 7392.174999999999,
+            "source": 13,
+            "target": 12
+        },
+        {
+            "length": 7332.212500000001,
+            "source": 13,
+            "target": 15
+        },
+        {
+            "length": 90.27,
+            "source": 4,
+            "target": 3
+        },
+        {
+            "length": 169.125,
+            "source": 4,
+            "target": 9
+        },
+        {
+            "length": 87.9,
+            "source": 9,
+            "target": 12
+        },
+        {
+            "length": 155.79,
+            "source": 15,
+            "target": 11
+        },
+        {
+            "length": 82.785,
+            "source": 8,
+            "target": 7
+        },
+        {
+            "length": 302.895,
+            "source": 5,
+            "target": 1
+        },
+        {
+            "length": 133.77,
+            "source": 5,
+            "target": 6
+        },
+        {
+            "length": 56.835,
+            "source": 28,
+            "target": 29
+        },
+        {
+            "length": 114.42,
+            "source": 12,
+            "target": 6
+        },
+        {
+            "length": 123.855,
+            "source": 12,
+            "target": 10
+        },
+        {
+            "length": 73.725,
+            "source": 3,
+            "target": 2
+        },
+        {
+            "length": 24.81,
+            "source": 29,
+            "target": 30
+        },
+        {
+            "length": 191.655,
+            "source": 30,
+            "target": 31
+        },
+        {
+            "length": 221.07,
+            "source": 30,
+            "target": 32
+        },
+        {
+            "length": 87.57000000000001,
+            "source": 2,
+            "target": 1
+        },
+        {
+            "length": 129.6,
+            "source": 10,
+            "target": 11
+        },
+        {
+            "length": 145.275,
+            "source": 31,
+            "target": 33
+        },
+        {
+            "length": 100.455,
+            "source": 32,
+            "target": 33
+        }
+    ]
+}

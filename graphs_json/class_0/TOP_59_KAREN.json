@@ -1,0 +1,310 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": -41.13,
+            "longitude": 174.85,
+            "location": "Porirua",
+            "country": "New Zealand",
+            "center_distance": 0.9894301933122845,
+            "id": 19
+        },
+        {
+            "latitude": -41.29,
+            "longitude": 174.78,
+            "location": "Wellington",
+            "country": "New Zealand",
+            "center_distance": 1.0391295825142197,
+            "id": 1
+        },
+        {
+            "latitude": -41.28,
+            "longitude": 173.28,
+            "location": "Nelson",
+            "country": "New Zealand",
+            "center_distance": 1.05108572359591,
+            "id": 10
+        },
+        {
+            "latitude": -41.2,
+            "longitude": 174.92,
+            "location": "Lower Hutt",
+            "country": "New Zealand",
+            "center_distance": 1.0871561392340725,
+            "id": 3
+        },
+        {
+            "latitude": -39.93,
+            "longitude": 175.05,
+            "location": "Wanganui",
+            "country": "New Zealand",
+            "center_distance": 1.1862351898421406,
+            "id": 13
+        },
+        {
+            "latitude": -39.07,
+            "longitude": 174.08,
+            "location": "New Plymouth",
+            "country": "New Zealand",
+            "center_distance": 1.4877283837453814,
+            "id": 12
+        },
+        {
+            "latitude": -40.35,
+            "longitude": 175.62,
+            "location": "Palmerston North",
+            "country": "New Zealand",
+            "center_distance": 1.5903828350379754,
+            "id": 4
+        },
+        {
+            "latitude": -37.78,
+            "longitude": 175.28,
+            "location": "Hamilton",
+            "country": "New Zealand",
+            "center_distance": 3.0402241720848258,
+            "id": 22
+        },
+        {
+            "latitude": -39.48,
+            "longitude": 176.92,
+            "location": "Napier",
+            "country": "New Zealand",
+            "center_distance": 3.07190484555839,
+            "id": 20
+        },
+        {
+            "latitude": -38.14,
+            "longitude": 176.25,
+            "location": "Rotorua",
+            "country": "New Zealand",
+            "center_distance": 3.2731107414231713,
+            "id": 21
+        },
+        {
+            "latitude": -43.53,
+            "longitude": 172.63,
+            "location": "Christchurch",
+            "country": "New Zealand",
+            "center_distance": 3.2915331213974257,
+            "id": 6
+        },
+        {
+            "latitude": -43.65,
+            "longitude": 172.48,
+            "location": "Lincoln",
+            "country": "New Zealand",
+            "center_distance": 3.4653281778448317,
+            "id": 5
+        },
+        {
+            "latitude": -37.69,
+            "longitude": 176.17,
+            "location": "Tauranga",
+            "country": "New Zealand",
+            "center_distance": 3.5699591693847497,
+            "id": 17
+        },
+        {
+            "latitude": -36.88,
+            "longitude": 174.72,
+            "location": "Auckland",
+            "country": "New Zealand",
+            "center_distance": 3.7390396577173943,
+            "id": 11
+        },
+        {
+            "latitude": -36.87,
+            "longitude": 174.77,
+            "location": "Auckland",
+            "country": "New Zealand",
+            "center_distance": 3.7582236275547434,
+            "id": 23
+        },
+        {
+            "latitude": -36.8,
+            "longitude": 174.75,
+            "location": "North Shore",
+            "country": "New Zealand",
+            "center_distance": 3.823178035254986,
+            "id": 15
+        },
+        {
+            "latitude": -36.4,
+            "longitude": 174.67,
+            "location": "Warkworth",
+            "country": "New Zealand",
+            "center_distance": 4.204261833185871,
+            "id": 16
+        },
+        {
+            "latitude": -38.65,
+            "longitude": 178.0,
+            "location": "Gisborne",
+            "country": "New Zealand",
+            "center_distance": 4.392504909520893,
+            "id": 18
+        },
+        {
+            "latitude": -44.02,
+            "longitude": 170.5,
+            "location": "Pleasant Point",
+            "country": "New Zealand",
+            "center_distance": 4.954252472571784,
+            "id": 9
+        },
+        {
+            "latitude": -45.87,
+            "longitude": 170.5,
+            "location": "Dunedin",
+            "country": "New Zealand",
+            "center_distance": 6.385860041613385,
+            "id": 2
+        },
+        {
+            "latitude": -45.85,
+            "longitude": 170.38,
+            "location": "Dunedin",
+            "country": "New Zealand",
+            "center_distance": 6.436758735305303,
+            "id": 7
+        },
+        {
+            "latitude": -46.4,
+            "longitude": 168.35,
+            "location": "Invercargill",
+            "country": "New Zealand",
+            "center_distance": 8.157804925244742,
+            "id": 8
+        }
+    ],
+    "links": [
+        {
+            "length": 9.74274107995738,
+            "source": 19,
+            "target": 3
+        },
+        {
+            "length": 614.781641403894,
+            "source": 1,
+            "target": 2
+        },
+        {
+            "length": 15.3999536042299,
+            "source": 1,
+            "target": 3
+        },
+        {
+            "length": 126.17883352813,
+            "source": 1,
+            "target": 4
+        },
+        {
+            "length": 305.255550267054,
+            "source": 1,
+            "target": 6
+        },
+        {
+            "length": 125.33750260084,
+            "source": 1,
+            "target": 10
+        },
+        {
+            "length": 255.815262392997,
+            "source": 10,
+            "target": 6
+        },
+        {
+            "length": 111.388596625543,
+            "source": 3,
+            "target": 4
+        },
+        {
+            "length": 67.2958723800112,
+            "source": 13,
+            "target": 4
+        },
+        {
+            "length": 193.929734344231,
+            "source": 12,
+            "target": 4
+        },
+        {
+            "length": 393.937712789154,
+            "source": 4,
+            "target": 23
+        },
+        {
+            "length": 147.140310196596,
+            "source": 4,
+            "target": 20
+        },
+        {
+            "length": 93.9903461694591,
+            "source": 22,
+            "target": 21
+        },
+        {
+            "length": 110.781011480136,
+            "source": 22,
+            "target": 23
+        },
+        {
+            "length": 131.192034484418,
+            "source": 20,
+            "target": 18
+        },
+        {
+            "length": 159.90970109753,
+            "source": 20,
+            "target": 21
+        },
+        {
+            "length": 50.5275266785433,
+            "source": 21,
+            "target": 17
+        },
+        {
+            "length": 17.9996855140066,
+            "source": 6,
+            "target": 5
+        },
+        {
+            "length": 179.480575722029,
+            "source": 6,
+            "target": 9
+        },
+        {
+            "length": 292.169111482926,
+            "source": 5,
+            "target": 2
+        },
+        {
+            "length": 4.58440233038022,
+            "source": 11,
+            "target": 23
+        },
+        {
+            "length": 7.98457622942175,
+            "source": 23,
+            "target": 15
+        },
+        {
+            "length": 45.0477135708785,
+            "source": 15,
+            "target": 16
+        },
+        {
+            "length": 9.55494431497362,
+            "source": 2,
+            "target": 7
+        },
+        {
+            "length": 175.828993217971,
+            "source": 2,
+            "target": 8
+        }
+    ]
+}

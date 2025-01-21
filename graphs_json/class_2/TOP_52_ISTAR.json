@@ -1,0 +1,256 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 42.98,
+            "longitude": -81.23,
+            "location": "London",
+            "country": "Canada",
+            "center_distance": 5.314023807856991,
+            "id": 3
+        },
+        {
+            "latitude": 43.45,
+            "longitude": -80.48,
+            "location": "Kitchener",
+            "country": "Canada",
+            "center_distance": 5.619758992673442,
+            "id": 19
+        },
+        {
+            "latitude": 43.23,
+            "longitude": -79.95,
+            "location": "Ancaster",
+            "country": "Canada",
+            "center_distance": 6.1842432697901355,
+            "id": 12
+        },
+        {
+            "latitude": 43.7,
+            "longitude": -79.42,
+            "location": "Toronto",
+            "country": "Canada",
+            "center_distance": 6.415923577027734,
+            "id": 11
+        },
+        {
+            "latitude": 45.41,
+            "longitude": -75.7,
+            "location": "Ottawa",
+            "country": "Canada",
+            "center_distance": 9.538327481048972,
+            "id": 18
+        },
+        {
+            "latitude": 45.51,
+            "longitude": -73.59,
+            "location": "Montreal",
+            "country": "Canada",
+            "center_distance": 11.62670888759096,
+            "id": 1
+        },
+        {
+            "latitude": 49.88,
+            "longitude": -97.15,
+            "location": "Winnipeg",
+            "country": "Canada",
+            "center_distance": 12.434961180349012,
+            "id": 17
+        },
+        {
+            "latitude": 45.4,
+            "longitude": -71.9,
+            "location": "Sherbrooke",
+            "country": "Canada",
+            "center_distance": 13.319853467620874,
+            "id": 6
+        },
+        {
+            "latitude": 46.81,
+            "longitude": -71.21,
+            "location": "Quebec",
+            "country": "Canada",
+            "center_distance": 13.963036224597372,
+            "id": 2
+        },
+        {
+            "latitude": 45.27,
+            "longitude": -66.07,
+            "location": "Saint John",
+            "country": "Canada",
+            "center_distance": 19.143051001918426,
+            "id": 7
+        },
+        {
+            "latitude": 43.83,
+            "longitude": -66.12,
+            "location": "Yarmouth",
+            "country": "Canada",
+            "center_distance": 19.24305607031294,
+            "id": 9
+        },
+        {
+            "latitude": 46.12,
+            "longitude": -64.8,
+            "location": "Moncton",
+            "country": "Canada",
+            "center_distance": 20.374964813116467,
+            "id": 4
+        },
+        {
+            "latitude": 44.65,
+            "longitude": -63.57,
+            "location": "Halifax",
+            "country": "Canada",
+            "center_distance": 21.683513542707665,
+            "id": 5
+        },
+        {
+            "latitude": 46.14,
+            "longitude": -60.18,
+            "location": "Sydney",
+            "country": "Canada",
+            "center_distance": 24.993812109546496,
+            "id": 8
+        },
+        {
+            "latitude": 49.7,
+            "longitude": -112.82,
+            "location": "Lethbridge",
+            "country": "Canada",
+            "center_distance": 27.82886558156452,
+            "id": 16
+        },
+        {
+            "latitude": 53.55,
+            "longitude": -113.47,
+            "location": "Edmonton",
+            "country": "Canada",
+            "center_distance": 29.15349977327715,
+            "id": 15
+        },
+        {
+            "latitude": 51.05,
+            "longitude": -114.09,
+            "location": "Calgary",
+            "country": "Canada",
+            "center_distance": 29.2682184662539,
+            "id": 14
+        },
+        {
+            "latitude": 49.25,
+            "longitude": -123.12,
+            "location": "Vancouver",
+            "country": "Canada",
+            "center_distance": 38.04573766262956,
+            "id": 13
+        },
+        {
+            "latitude": 48.43,
+            "longitude": -123.37,
+            "location": "Victoria",
+            "country": "Canada",
+            "center_distance": 38.24594125805615,
+            "id": 10
+        }
+    ],
+    "links": [
+        {
+            "length": 250.2531794080375,
+            "source": 3,
+            "target": 11
+        },
+        {
+            "length": 134.7019718699122,
+            "source": 19,
+            "target": 11
+        },
+        {
+            "length": 101.3005820479409,
+            "source": 12,
+            "target": 11
+        },
+        {
+            "length": 755.0357670265992,
+            "source": 11,
+            "target": 1
+        },
+        {
+            "length": 526.0580396293944,
+            "source": 11,
+            "target": 18
+        },
+        {
+            "length": 247.4032001412376,
+            "source": 18,
+            "target": 1
+        },
+        {
+            "length": 4424.968959600237,
+            "source": 18,
+            "target": 13
+        },
+        {
+            "length": 2094.139590166251,
+            "source": 18,
+            "target": 17
+        },
+        {
+            "length": 350.1389724135474,
+            "source": 1,
+            "target": 2
+        },
+        {
+            "length": 1026.361517307967,
+            "source": 1,
+            "target": 4
+        },
+        {
+            "length": 198.5751791544305,
+            "source": 1,
+            "target": 6
+        },
+        {
+            "length": 204.9111545304429,
+            "source": 7,
+            "target": 4
+        },
+        {
+            "length": 333.9767249411377,
+            "source": 9,
+            "target": 5
+        },
+        {
+            "length": 284.3799353856231,
+            "source": 4,
+            "target": 5
+        },
+        {
+            "length": 468.3506272246442,
+            "source": 5,
+            "target": 8
+        },
+        {
+            "length": 262.5774509897452,
+            "source": 16,
+            "target": 14
+        },
+        {
+            "length": 421.7445112294374,
+            "source": 15,
+            "target": 14
+        },
+        {
+            "length": 1009.95690485004,
+            "source": 14,
+            "target": 13
+        },
+        {
+            "length": 139.4958300540092,
+            "source": 13,
+            "target": 10
+        }
+    ]
+}

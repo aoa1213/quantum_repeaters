@@ -1,0 +1,87 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 33.59,
+            "longitude": -7.62,
+            "location": "Casablanca",
+            "country": "Morocco",
+            "center_distance": 0.5870689908349782,
+            "id": 6
+        },
+        {
+            "latitude": 34.01,
+            "longitude": -6.83,
+            "location": "Rabat",
+            "country": "Morocco",
+            "center_distance": 0.8273149339882544,
+            "id": 3
+        },
+        {
+            "latitude": 31.63,
+            "longitude": -8.01,
+            "location": "Marrakesh",
+            "country": "Morocco",
+            "center_distance": 1.8320616801843814,
+            "id": 1
+        },
+        {
+            "latitude": 34.04,
+            "longitude": -5.0,
+            "location": "Fes",
+            "country": "Morocco",
+            "center_distance": 2.287586063954751,
+            "id": 2
+        },
+        {
+            "latitude": 35.78,
+            "longitude": -5.81,
+            "location": "Tangier",
+            "country": "Morocco",
+            "center_distance": 2.8650392667466154,
+            "id": 5
+        },
+        {
+            "latitude": 30.42,
+            "longitude": -9.6,
+            "location": "Agadir",
+            "country": "Morocco",
+            "center_distance": 3.7426795214124353,
+            "id": 4
+        }
+    ],
+    "links": [
+        {
+            "length": 129.9864336338506,
+            "source": 6,
+            "target": 3
+        },
+        {
+            "length": 441.6242356589813,
+            "source": 6,
+            "target": 5
+        },
+        {
+            "length": 714.9962255186151,
+            "source": 3,
+            "target": 4
+        },
+        {
+            "length": 582.627043544287,
+            "source": 1,
+            "target": 2
+        },
+        {
+            "length": 303.9301435674128,
+            "source": 1,
+            "target": 4
+        },
+        {
+            "length": 310.6430120065281,
+            "source": 2,
+            "target": 5
+        }
+    ]
+}

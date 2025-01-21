@@ -1,0 +1,87 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 53.03,
+            "longitude": -7.3,
+            "location": "Portlaoise",
+            "country": "Ireland",
+            "center_distance": 0.5835927994377178,
+            "id": 6
+        },
+        {
+            "latitude": 52.66,
+            "longitude": -8.62,
+            "location": "Luimneach",
+            "country": "Ireland",
+            "center_distance": 0.8159333442274702,
+            "id": 3
+        },
+        {
+            "latitude": 52.26,
+            "longitude": -7.11,
+            "location": "Waterford",
+            "country": "Ireland",
+            "center_distance": 0.849282376807362,
+            "id": 5
+        },
+        {
+            "latitude": 51.9,
+            "longitude": -8.5,
+            "location": "Cork",
+            "country": "Ireland",
+            "center_distance": 1.0906942233682648,
+            "id": 4
+        },
+        {
+            "latitude": 53.27,
+            "longitude": -9.05,
+            "location": "Gaillimh",
+            "country": "Ireland",
+            "center_distance": 1.3487453017115163,
+            "id": 2
+        },
+        {
+            "latitude": 53.34,
+            "longitude": -6.27,
+            "location": "Rathmines",
+            "country": "Ireland",
+            "center_distance": 1.6499941077335858,
+            "id": 1
+        }
+    ],
+    "links": [
+        {
+            "length": 115.1998170443601,
+            "source": 6,
+            "target": 1
+        },
+        {
+            "length": 146.5940649422001,
+            "source": 6,
+            "target": 3
+        },
+        {
+            "length": 110.5333742112452,
+            "source": 3,
+            "target": 2
+        },
+        {
+            "length": 127.3522417022157,
+            "source": 3,
+            "target": 4
+        },
+        {
+            "length": 199.0550131750707,
+            "source": 5,
+            "target": 1
+        },
+        {
+            "length": 154.6128695737805,
+            "source": 5,
+            "target": 4
+        }
+    ]
+}

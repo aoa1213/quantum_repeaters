@@ -1,0 +1,385 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 51.75,
+            "longitude": 19.47,
+            "location": "Lodz",
+            "country": "Poland",
+            "center_distance": 0.2975169301588348,
+            "id": 5
+        },
+        {
+            "latitude": 52.23,
+            "longitude": 20.24,
+            "location": "Sochaczew",
+            "country": "Poland",
+            "center_distance": 0.865602781640047,
+            "id": 11
+        },
+        {
+            "latitude": 53.01,
+            "longitude": 18.6,
+            "location": "Torun",
+            "country": "Poland",
+            "center_distance": 1.256182352013001,
+            "id": 27
+        },
+        {
+            "latitude": 50.8,
+            "longitude": 19.12,
+            "location": "Czestochowa",
+            "country": "Poland",
+            "center_distance": 1.2685211678804453,
+            "id": 15
+        },
+        {
+            "latitude": 52.23,
+            "longitude": 21.01,
+            "location": "Warsaw",
+            "country": "Poland",
+            "center_distance": 1.6254360183215666,
+            "id": 1
+        },
+        {
+            "latitude": 50.87,
+            "longitude": 20.63,
+            "location": "Kielce",
+            "country": "Poland",
+            "center_distance": 1.6992671703777862,
+            "id": 8
+        },
+        {
+            "latitude": 53.12,
+            "longitude": 18.01,
+            "location": "Bydgoszcz",
+            "country": "Poland",
+            "center_distance": 1.758179200624587,
+            "id": 26
+        },
+        {
+            "latitude": 51.4,
+            "longitude": 21.15,
+            "location": "Radom",
+            "country": "Poland",
+            "center_distance": 1.8665500037030145,
+            "id": 2
+        },
+        {
+            "latitude": 50.28,
+            "longitude": 18.67,
+            "location": "Gliwice",
+            "country": "Poland",
+            "center_distance": 1.9021181248198444,
+            "id": 19
+        },
+        {
+            "latitude": 50.67,
+            "longitude": 17.95,
+            "location": "Opole",
+            "country": "Poland",
+            "center_distance": 1.9906107451096373,
+            "id": 18
+        },
+        {
+            "latitude": 50.08,
+            "longitude": 19.92,
+            "location": "Krakow",
+            "country": "Poland",
+            "center_distance": 2.0270663050854107,
+            "id": 16
+        },
+        {
+            "latitude": 53.78,
+            "longitude": 20.48,
+            "location": "Olsztyn",
+            "country": "Poland",
+            "center_distance": 2.0516492078031514,
+            "id": 20
+        },
+        {
+            "latitude": 54.15,
+            "longitude": 19.41,
+            "location": "Elblag",
+            "country": "Poland",
+            "center_distance": 2.111898748456266,
+            "id": 9
+        },
+        {
+            "latitude": 49.82,
+            "longitude": 19.05,
+            "location": "Bielsko-Biala",
+            "country": "Poland",
+            "center_distance": 2.244960122888769,
+            "id": 13
+        },
+        {
+            "latitude": 54.35,
+            "longitude": 18.65,
+            "location": "Gdansk",
+            "country": "Poland",
+            "center_distance": 2.4292106684845813,
+            "id": 21
+        },
+        {
+            "latitude": 52.42,
+            "longitude": 16.97,
+            "location": "Poznan",
+            "country": "Poland",
+            "center_distance": 2.4557946646334785,
+            "id": 25
+        },
+        {
+            "latitude": 51.1,
+            "longitude": 17.03,
+            "location": "Wroclaw",
+            "country": "Poland",
+            "center_distance": 2.5451379991745515,
+            "id": 17
+        },
+        {
+            "latitude": 51.42,
+            "longitude": 21.97,
+            "location": "Pulawy",
+            "country": "Poland",
+            "center_distance": 2.64725602688506,
+            "id": 6
+        },
+        {
+            "latitude": 51.25,
+            "longitude": 22.57,
+            "location": "Lublin",
+            "country": "Poland",
+            "center_distance": 3.2704623115300597,
+            "id": 4
+        },
+        {
+            "latitude": 50.04,
+            "longitude": 22.0,
+            "location": "Rzeszow",
+            "country": "Poland",
+            "center_distance": 3.282346387146337,
+            "id": 7
+        },
+        {
+            "latitude": 54.19,
+            "longitude": 16.17,
+            "location": "Koszalin",
+            "country": "Poland",
+            "center_distance": 3.877765396704561,
+            "id": 22
+        },
+        {
+            "latitude": 51.94,
+            "longitude": 15.51,
+            "location": "Zielona Gora",
+            "country": "Poland",
+            "center_distance": 3.8871652088338333,
+            "id": 24
+        },
+        {
+            "latitude": 53.13,
+            "longitude": 23.15,
+            "location": "Bialystok",
+            "country": "Poland",
+            "center_distance": 3.9096307523892118,
+            "id": 3
+        },
+        {
+            "latitude": 50.72,
+            "longitude": 23.25,
+            "location": "Zamosc",
+            "country": "Poland",
+            "center_distance": 4.0732544124957775,
+            "id": 14
+        },
+        {
+            "latitude": 54.11,
+            "longitude": 22.93,
+            "location": "Suwalki",
+            "country": "Poland",
+            "center_distance": 4.096614414008777,
+            "id": 10
+        },
+        {
+            "latitude": 52.74,
+            "longitude": 15.23,
+            "location": "Gorzow Wielkopolski",
+            "country": "Poland",
+            "center_distance": 4.224634285029849,
+            "id": 12
+        },
+        {
+            "latitude": 53.43,
+            "longitude": 14.55,
+            "location": "Szczecin",
+            "country": "Poland",
+            "center_distance": 5.041849824921848,
+            "id": 23
+        }
+    ],
+    "links": [
+        {
+            "length": 177.2765341606382,
+            "source": 5,
+            "target": 1
+        },
+        {
+            "length": 112.5351594181881,
+            "source": 5,
+            "target": 11
+        },
+        {
+            "length": 279.5207502149059,
+            "source": 5,
+            "target": 25
+        },
+        {
+            "length": 162.6062920330432,
+            "source": 5,
+            "target": 15
+        },
+        {
+            "length": 334.8191775924115,
+            "source": 11,
+            "target": 25
+        },
+        {
+            "length": 223.5563625169812,
+            "source": 27,
+            "target": 21
+        },
+        {
+            "length": 61.91455731777963,
+            "source": 27,
+            "target": 26
+        },
+        {
+            "length": 98.9837355030138,
+            "source": 15,
+            "target": 19
+        },
+        {
+            "length": 139.1882096147356,
+            "source": 1,
+            "target": 2
+        },
+        {
+            "length": 413.0025180279077,
+            "source": 1,
+            "target": 25
+        },
+        {
+            "length": 263.3489639066166,
+            "source": 1,
+            "target": 3
+        },
+        {
+            "length": 103.8090366128347,
+            "source": 8,
+            "target": 2
+        },
+        {
+            "length": 151.7951398283662,
+            "source": 8,
+            "target": 16
+        },
+        {
+            "length": 156.986668574074,
+            "source": 26,
+            "target": 25
+        },
+        {
+            "length": 85.3739547448099,
+            "source": 2,
+            "target": 6
+        },
+        {
+            "length": 86.85011346655239,
+            "source": 19,
+            "target": 13
+        },
+        {
+            "length": 100.3611222375359,
+            "source": 19,
+            "target": 18
+        },
+        {
+            "length": 120.4791984364237,
+            "source": 18,
+            "target": 17
+        },
+        {
+            "length": 222.8153948007431,
+            "source": 16,
+            "target": 7
+        },
+        {
+            "length": 102.9498356633842,
+            "source": 16,
+            "target": 13
+        },
+        {
+            "length": 121.7814953135299,
+            "source": 20,
+            "target": 9
+        },
+        {
+            "length": 246.7145911780555,
+            "source": 20,
+            "target": 10
+        },
+        {
+            "length": 81.22620749412314,
+            "source": 9,
+            "target": 21
+        },
+        {
+            "length": 243.011643971792,
+            "source": 21,
+            "target": 22
+        },
+        {
+            "length": 184.2467880845705,
+            "source": 25,
+            "target": 12
+        },
+        {
+            "length": 210.9792892346443,
+            "source": 17,
+            "target": 24
+        },
+        {
+            "length": 68.65249769807909,
+            "source": 6,
+            "target": 4
+        },
+        {
+            "length": 113.6321014438478,
+            "source": 4,
+            "target": 14
+        },
+        {
+            "length": 174.7534644807546,
+            "source": 7,
+            "target": 14
+        },
+        {
+            "length": 203.7644228347264,
+            "source": 22,
+            "target": 23
+        },
+        {
+            "length": 164.8989742731337,
+            "source": 3,
+            "target": 10
+        },
+        {
+            "length": 133.7358325604599,
+            "source": 12,
+            "target": 23
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 39.74,
+            "longitude": -104.98,
+            "location": "Denver",
+            "country": "United States of America (the)",
+            "center_distance": 6.238964034374803,
+            "id": 3
+        },
+        {
+            "latitude": 41.85,
+            "longitude": -87.65,
+            "location": "Chicago",
+            "country": "United States of America (the)",
+            "center_distance": 12.216734651925425,
+            "id": 4
+        },
+        {
+            "latitude": 33.75,
+            "longitude": -84.39,
+            "location": "Atlanta",
+            "country": "United States of America (the)",
+            "center_distance": 15.222262388430378,
+            "id": 6
+        },
+        {
+            "latitude": 34.05,
+            "longitude": -118.24,
+            "location": "Los Angeles",
+            "country": "United States of America (the)",
+            "center_distance": 19.45892954118722,
+            "id": 2
+        },
+        {
+            "latitude": 38.9,
+            "longitude": -77.27,
+            "location": "Vienna",
+            "country": "United States of America (the)",
+            "center_distance": 21.87904337234352,
+            "id": 5
+        },
+        {
+            "latitude": 37.44,
+            "longitude": -122.14,
+            "location": "Palo Alto",
+            "country": "United States of America (the)",
+            "center_distance": 23.029049891145945,
+            "id": 1
+        }
+    ],
+    "links": [
+        {
+            "length": 1888.454439970209,
+            "source": 3,
+            "target": 1
+        },
+        {
+            "length": 1843.716434385458,
+            "source": 3,
+            "target": 4
+        },
+        {
+            "length": 1406.590956106817,
+            "source": 4,
+            "target": 5
+        },
+        {
+            "length": 3887.291603216945,
+            "source": 6,
+            "target": 2
+        },
+        {
+            "length": 1285.010042656808,
+            "source": 6,
+            "target": 5
+        },
+        {
+            "length": 773.4325645850809,
+            "source": 2,
+            "target": 1
+        },
+        {
+            "length": 4857.418818853637,
+            "source": 5,
+            "target": 1
+        }
+    ]
+}

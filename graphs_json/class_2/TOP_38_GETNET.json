@@ -1,0 +1,105 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 32.22,
+            "longitude": -110.93,
+            "location": "Tucson",
+            "country": "United States of America (the)",
+            "center_distance": 12.472224896847834,
+            "id": 4
+        },
+        {
+            "latitude": 33.45,
+            "longitude": -112.07,
+            "location": "Phoenix",
+            "country": "United States of America (the)",
+            "center_distance": 12.94676273460366,
+            "id": 3
+        },
+        {
+            "latitude": 40.44,
+            "longitude": -80.0,
+            "location": "Pittsburgh",
+            "country": "United States of America (the)",
+            "center_distance": 20.230849347126355,
+            "id": 7
+        },
+        {
+            "latitude": 37.35,
+            "longitude": -121.96,
+            "location": "Santa Clara",
+            "country": "United States of America (the)",
+            "center_distance": 21.85421292220287,
+            "id": 2
+        },
+        {
+            "latitude": 38.9,
+            "longitude": -77.04,
+            "location": "Washington, D.C.",
+            "country": "United States of America (the)",
+            "center_distance": 23.09836870289099,
+            "id": 5
+        },
+        {
+            "latitude": 39.29,
+            "longitude": -76.61,
+            "location": "Baltimore",
+            "country": "United States of America (the)",
+            "center_distance": 23.53872267787959,
+            "id": 6
+        },
+        {
+            "latitude": 47.61,
+            "longitude": -122.33,
+            "location": "Seattle",
+            "country": "United States of America (the)",
+            "center_distance": 24.005576307965416,
+            "id": 1
+        }
+    ],
+    "links": [
+        {
+            "length": 260.0209332979543,
+            "source": 4,
+            "target": 3
+        },
+        {
+            "length": 1492.603044009537,
+            "source": 3,
+            "target": 2
+        },
+        {
+            "length": 3977.389262103784,
+            "source": 3,
+            "target": 5
+        },
+        {
+            "length": 4516.783096637158,
+            "source": 7,
+            "target": 2
+        },
+        {
+            "length": 474.4497917256419,
+            "source": 7,
+            "target": 6
+        },
+        {
+            "length": 1500.0,
+            "source": 2,
+            "target": 1
+        },
+        {
+            "length": 4866.289572772755,
+            "source": 2,
+            "target": 5
+        },
+        {
+            "length": 85.61340860642284,
+            "source": 5,
+            "target": 6
+        }
+    ]
+}

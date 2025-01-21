@@ -1,0 +1,139 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 43.7,
+            "longitude": -79.42,
+            "location": "Toronto",
+            "country": "Canada",
+            "center_distance": 3.224635173163001,
+            "id": 6
+        },
+        {
+            "latitude": 43.08,
+            "longitude": -79.07,
+            "location": "Niagara Falls",
+            "country": "United States of America (the)",
+            "center_distance": 3.854624754758888,
+            "id": 1
+        },
+        {
+            "latitude": 45.51,
+            "longitude": -73.59,
+            "location": "Montreal",
+            "country": "Canada",
+            "center_distance": 5.936846974615404,
+            "id": 5
+        },
+        {
+            "latitude": 46.81,
+            "longitude": -71.21,
+            "location": "Quebec",
+            "country": "Canada",
+            "center_distance": 8.146797653065912,
+            "id": 4
+        },
+        {
+            "latitude": 47.37,
+            "longitude": -68.33,
+            "location": "Edmundston",
+            "country": "Canada",
+            "center_distance": 11.035016628895502,
+            "id": 3
+        },
+        {
+            "latitude": 46.12,
+            "longitude": -64.8,
+            "location": "Moncton",
+            "country": "Canada",
+            "center_distance": 14.5781875416665,
+            "id": 2
+        },
+        {
+            "latitude": 46.28,
+            "longitude": -63.65,
+            "location": "Kensington",
+            "country": "Canada",
+            "center_distance": 15.719197562216728,
+            "id": 8
+        },
+        {
+            "latitude": 44.65,
+            "longitude": -63.57,
+            "location": "Halifax",
+            "country": "Canada",
+            "center_distance": 15.948945795882569,
+            "id": 10
+        },
+        {
+            "latitude": 55.85,
+            "longitude": -108.48,
+            "location": "Meadow Lake",
+            "country": "Canada",
+            "center_distance": 30.46113674832244,
+            "id": 7
+        },
+        {
+            "latitude": 49.87,
+            "longitude": -121.44,
+            "location": "Hope",
+            "country": "Canada",
+            "center_distance": 42.18698818356199,
+            "id": 9
+        }
+    ],
+    "links": [
+        {
+            "length": 755.0357670265992,
+            "source": 6,
+            "target": 5
+        },
+        {
+            "length": 3072.183247999704,
+            "source": 6,
+            "target": 7
+        },
+        {
+            "length": 1584.610892758787,
+            "source": 1,
+            "target": 8
+        },
+        {
+            "length": 4105.62024092363,
+            "source": 1,
+            "target": 9
+        },
+        {
+            "length": 350.1389724135474,
+            "source": 5,
+            "target": 4
+        },
+        {
+            "length": 1160.215825681341,
+            "source": 5,
+            "target": 8
+        },
+        {
+            "length": 340.1067851508351,
+            "source": 4,
+            "target": 3
+        },
+        {
+            "length": 454.0821377745199,
+            "source": 3,
+            "target": 2
+        },
+        {
+            "length": 284.3799353856231,
+            "source": 2,
+            "target": 10
+        },
+        {
+            "length": 4053.089425176728,
+            "source": 8,
+            "target": 7
+        }
+    ]
+}

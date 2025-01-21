@@ -1,0 +1,226 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 40.47,
+            "longitude": -96.42,
+            "location": "Tecumseh",
+            "country": "United States of America (the)",
+            "center_distance": 2.0089254920611417,
+            "id": 8
+        },
+        {
+            "latitude": 40.06,
+            "longitude": -88.14,
+            "location": "Philo",
+            "country": "United States of America (the)",
+            "center_distance": 7.160522441320395,
+            "id": 6
+        },
+        {
+            "latitude": 29.45,
+            "longitude": -95.21,
+            "location": "Alvin",
+            "country": "United States of America (the)",
+            "center_distance": 9.422861041322934,
+            "id": 12
+        },
+        {
+            "latitude": 40.0,
+            "longitude": -105.16,
+            "location": "Louisville",
+            "country": "United States of America (the)",
+            "center_distance": 10.02215525315625,
+            "id": 3
+        },
+        {
+            "latitude": 42.16,
+            "longitude": -83.43,
+            "location": "Romulus",
+            "country": "United States of America (the)",
+            "center_distance": 12.22177723473595,
+            "id": 7
+        },
+        {
+            "latitude": 33.44,
+            "longitude": -84.23,
+            "location": "Hampton",
+            "country": "United States of America (the)",
+            "center_distance": 12.242882897122426,
+            "id": 5
+        },
+        {
+            "latitude": 40.26,
+            "longitude": -79.58,
+            "location": "Youngwood",
+            "country": "United States of America (the)",
+            "center_distance": 15.6828950107551,
+            "id": 11
+        },
+        {
+            "latitude": 40.39,
+            "longitude": -111.55,
+            "location": "Midway",
+            "country": "United States of America (the)",
+            "center_distance": 16.41881573695502,
+            "id": 13
+        },
+        {
+            "latitude": 38.52,
+            "longitude": -77.02,
+            "location": "La Plata",
+            "country": "United States of America (the)",
+            "center_distance": 18.184852296931762,
+            "id": 4
+        },
+        {
+            "latitude": 42.26,
+            "longitude": -76.3,
+            "location": "Owego",
+            "country": "United States of America (the)",
+            "center_distance": 19.20251907369213,
+            "id": 10
+        },
+        {
+            "latitude": 40.21,
+            "longitude": -74.39,
+            "location": "Vista Center",
+            "country": "United States of America (the)",
+            "center_distance": 20.85434032052036,
+            "id": 9
+        },
+        {
+            "latitude": 32.42,
+            "longitude": -117.08,
+            "location": "Quinta del Cedro",
+            "country": "Mexico",
+            "center_distance": 22.810332155872363,
+            "id": 2
+        },
+        {
+            "latitude": 37.25,
+            "longitude": -122.07,
+            "location": "Saratoga",
+            "country": "United States of America (the)",
+            "center_distance": 26.91753695861431,
+            "id": 1
+        },
+        {
+            "latitude": 47.33,
+            "longitude": -122.24,
+            "location": "Auburn",
+            "country": "United States of America (the)",
+            "center_distance": 28.330330216996796,
+            "id": 14
+        }
+    ],
+    "links": [
+        {
+            "length": 1115.158750919603,
+            "source": 8,
+            "target": 3
+        },
+        {
+            "length": 1055.648414012252,
+            "source": 8,
+            "target": 6
+        },
+        {
+            "length": 1091.2330992435,
+            "source": 6,
+            "target": 11
+        },
+        {
+            "length": 3540.969936943001,
+            "source": 6,
+            "target": 14
+        },
+        {
+            "length": 2635.085279772903,
+            "source": 12,
+            "target": 2
+        },
+        {
+            "length": 1852.650421404539,
+            "source": 12,
+            "target": 3
+        },
+        {
+            "length": 2439.452629208644,
+            "source": 12,
+            "target": 4
+        },
+        {
+            "length": 1500.0,
+            "source": 12,
+            "target": 5
+        },
+        {
+            "length": 816.5308090688554,
+            "source": 3,
+            "target": 13
+        },
+        {
+            "length": 1179.779991047546,
+            "source": 7,
+            "target": 9
+        },
+        {
+            "length": 880.7482376207395,
+            "source": 7,
+            "target": 10
+        },
+        {
+            "length": 2934.397003868838,
+            "source": 7,
+            "target": 13
+        },
+        {
+            "length": 1295.315980516705,
+            "source": 5,
+            "target": 11
+        },
+        {
+            "length": 660.7987631283457,
+            "source": 11,
+            "target": 9
+        },
+        {
+            "length": 529.4627293090167,
+            "source": 11,
+            "target": 10
+        },
+        {
+            "length": 1462.79606747934,
+            "source": 13,
+            "target": 1
+        },
+        {
+            "length": 440.9521122322281,
+            "source": 4,
+            "target": 9
+        },
+        {
+            "length": 630.4661909807334,
+            "source": 4,
+            "target": 10
+        },
+        {
+            "length": 1055.897111740372,
+            "source": 2,
+            "target": 1
+        },
+        {
+            "length": 2142.985362652671,
+            "source": 2,
+            "target": 14
+        },
+        {
+            "length": 1500.0,
+            "source": 1,
+            "target": 14
+        }
+    ]
+}

@@ -1,0 +1,652 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 48.7383895,
+            "longitude": 19.1585805,
+            "location": "Bansk\u00e1 Bystrica",
+            "country": "Slovakia",
+            "center_distance": 0.23905797032378762,
+            "id": 18
+        },
+        {
+            "latitude": 48.5782517,
+            "longitude": 19.1247135,
+            "location": "Zvolen",
+            "country": "Slovakia",
+            "center_distance": 0.31382797564294623,
+            "id": 14
+        },
+        {
+            "latitude": 49.0815718,
+            "longitude": 19.3034168,
+            "location": "Ru\u017eomberok",
+            "country": "Slovakia",
+            "center_distance": 0.3608091505683705,
+            "id": 16
+        },
+        {
+            "latitude": 49.0835785,
+            "longitude": 19.612785,
+            "location": "Liptovsk\u00fd Mikul\u00e1\u0161",
+            "country": "Slovakia",
+            "center_distance": 0.4111318701758481,
+            "id": 17
+        },
+        {
+            "latitude": 49.0371787,
+            "longitude": 19.7217331,
+            "location": "Liptovsk\u00fd Hr\u00e1dok",
+            "country": "Slovakia",
+            "center_distance": 0.44433646742009664,
+            "id": 45
+        },
+        {
+            "latitude": 48.3303886,
+            "longitude": 19.6634149,
+            "location": "Lu\u010denec",
+            "country": "Slovakia",
+            "center_distance": 0.48267765964660203,
+            "id": 38
+        },
+        {
+            "latitude": 49.0724921,
+            "longitude": 18.929193,
+            "location": "Martin",
+            "country": "Slovakia",
+            "center_distance": 0.5783278056224377,
+            "id": 15
+        },
+        {
+            "latitude": 48.6833333,
+            "longitude": 20.1166667,
+            "location": "Rev\u00faca",
+            "country": "Slovakia",
+            "center_distance": 0.7208147767093062,
+            "id": 37
+        },
+        {
+            "latitude": 48.7718361,
+            "longitude": 18.6234916,
+            "location": "Prievidza",
+            "country": "Slovakia",
+            "center_distance": 0.7750522229209451,
+            "id": 12
+        },
+        {
+            "latitude": 49.2234674,
+            "longitude": 18.7393139,
+            "location": "\u017dilina",
+            "country": "Slovakia",
+            "center_distance": 0.8207404540708974,
+            "id": 20
+        },
+        {
+            "latitude": 49.2999184,
+            "longitude": 18.7865084,
+            "location": "Kysuck\u00e9 Nov\u00e9 Mesto",
+            "country": "Slovakia",
+            "center_distance": 0.83337031997109,
+            "id": 21
+        },
+        {
+            "latitude": 48.2163194,
+            "longitude": 18.6000869,
+            "location": "Levice",
+            "country": "Slovakia",
+            "center_distance": 0.9503874760639369,
+            "id": 8
+        },
+        {
+            "latitude": 49.0541521,
+            "longitude": 20.2976401,
+            "location": "Poprad",
+            "country": "Slovakia",
+            "center_distance": 0.9555462397689426,
+            "id": 31
+        },
+        {
+            "latitude": 49.1655267,
+            "longitude": 20.2791933,
+            "location": "Tatransk\u00e1 Lomnica",
+            "country": "Slovakia",
+            "center_distance": 0.9818776180303739,
+            "id": 30
+        },
+        {
+            "latitude": 48.6620675,
+            "longitude": 20.5328607,
+            "location": "Ro\u017e\u0148ava",
+            "country": "Slovakia",
+            "center_distance": 1.137507606200743,
+            "id": 36
+        },
+        {
+            "latitude": 49.123928,
+            "longitude": 18.3239559,
+            "location": "P\u00fachov",
+            "country": "Slovakia",
+            "center_distance": 1.1424937723638893,
+            "id": 19
+        },
+        {
+            "latitude": 48.9435344,
+            "longitude": 20.562964,
+            "location": "Spi\u0161sk\u00e1 Nov\u00e1 Ves",
+            "country": "Slovakia",
+            "center_distance": 1.1841974686194485,
+            "id": 32
+        },
+        {
+            "latitude": 49.0251116,
+            "longitude": 20.587999,
+            "location": "Levo\u010da",
+            "country": "Slovakia",
+            "center_distance": 1.2256678979026703,
+            "id": 33
+        },
+        {
+            "latitude": 48.5594345,
+            "longitude": 18.1754394,
+            "location": "Topo\u013e\u010dany",
+            "country": "Slovakia",
+            "center_distance": 1.2344449583298405,
+            "id": 13
+        },
+        {
+            "latitude": 48.8922719,
+            "longitude": 18.0387465,
+            "location": "Tren\u010d\u00edn",
+            "country": "Slovakia",
+            "center_distance": 1.3681084143400313,
+            "id": 11
+        },
+        {
+            "latitude": 48.31295,
+            "longitude": 18.0894593,
+            "location": "Nitra",
+            "country": "Slovakia",
+            "center_distance": 1.3739927222837345,
+            "id": 9
+        },
+        {
+            "latitude": 49.3001533,
+            "longitude": 20.6889231,
+            "location": "Star\u00e1 \u013dubov\u0148a",
+            "country": "Slovakia",
+            "center_distance": 1.4102897528453024,
+            "id": 22
+        },
+        {
+            "latitude": 47.9861843,
+            "longitude": 18.1631415,
+            "location": "Nov\u00e9 Z\u00e1mky",
+            "country": "Slovakia",
+            "center_distance": 1.4429070130610049,
+            "id": 5
+        },
+        {
+            "latitude": 47.8761227,
+            "longitude": 18.198313,
+            "location": "Hurbanovo",
+            "country": "Slovakia",
+            "center_distance": 1.4740920024305288,
+            "id": 6
+        },
+        {
+            "latitude": 48.7633248,
+            "longitude": 17.8303857,
+            "location": "Nov\u00e9 Mesto Nad V\u00e1hom",
+            "country": "Slovakia",
+            "center_distance": 1.567486100816745,
+            "id": 44
+        },
+        {
+            "latitude": 48.5895247,
+            "longitude": 17.8213848,
+            "location": "Pie\u0161\u0165any",
+            "country": "Slovakia",
+            "center_distance": 1.5827395996700182,
+            "id": 43
+        },
+        {
+            "latitude": 47.7574079,
+            "longitude": 18.1298249,
+            "location": "Kom\u00e1rno",
+            "country": "Slovakia",
+            "center_distance": 1.5998481615995652,
+            "id": 7
+        },
+        {
+            "latitude": 49.1086665,
+            "longitude": 21.0947649,
+            "location": "Sabinov",
+            "country": "Slovakia",
+            "center_distance": 1.7382027404847746,
+            "id": 34
+        },
+        {
+            "latitude": 48.1910498,
+            "longitude": 17.7270629,
+            "location": "Galanta",
+            "country": "Slovakia",
+            "center_distance": 1.7563141700637783,
+            "id": 3
+        },
+        {
+            "latitude": 48.374218,
+            "longitude": 17.5809299,
+            "location": "Trnava",
+            "country": "Slovakia",
+            "center_distance": 1.8517956727398386,
+            "id": 10
+        },
+        {
+            "latitude": 48.7172272,
+            "longitude": 21.2496774,
+            "location": "Ko\u0161ice",
+            "country": "Slovakia",
+            "center_distance": 1.8521632651134172,
+            "id": 1
+        },
+        {
+            "latitude": 49.0000074,
+            "longitude": 21.2392122,
+            "location": "Pre\u0161ov",
+            "country": "Slovakia",
+            "center_distance": 1.8608455276394953,
+            "id": 35
+        },
+        {
+            "latitude": 47.9958371,
+            "longitude": 17.6153028,
+            "location": "Dunajsk\u00e1 Streda",
+            "country": "Slovakia",
+            "center_distance": 1.928815304625515,
+            "id": 4
+        },
+        {
+            "latitude": 49.2926871,
+            "longitude": 21.2756031,
+            "location": "Bardejov",
+            "country": "Slovakia",
+            "center_distance": 1.959568195281718,
+            "id": 23
+        },
+        {
+            "latitude": 48.6787557,
+            "longitude": 17.3661529,
+            "location": "Senica",
+            "country": "Slovakia",
+            "center_distance": 2.032161952948377,
+            "id": 42
+        },
+        {
+            "latitude": 48.2199473,
+            "longitude": 17.3969901,
+            "location": "Senec",
+            "country": "Slovakia",
+            "center_distance": 2.06539874940615,
+            "id": 39
+        },
+        {
+            "latitude": 48.8461007,
+            "longitude": 17.2287837,
+            "location": "Skalica",
+            "country": "Slovakia",
+            "center_distance": 2.1717330176941956,
+            "id": 41
+        },
+        {
+            "latitude": 49.3085082,
+            "longitude": 21.5733508,
+            "location": "Svidn\u00edk",
+            "country": "Slovakia",
+            "center_distance": 2.250525439734697,
+            "id": 24
+        },
+        {
+            "latitude": 48.8891513,
+            "longitude": 21.6822318,
+            "location": "Vranov nad Top\u013eou",
+            "country": "Slovakia",
+            "center_distance": 2.2899600814131738,
+            "id": 27
+        },
+        {
+            "latitude": 49.2020091,
+            "longitude": 21.6521343,
+            "location": "Stropkov",
+            "country": "Slovakia",
+            "center_distance": 2.3027630227976337,
+            "id": 25
+        },
+        {
+            "latitude": 48.6286222,
+            "longitude": 21.7201711,
+            "location": "Trebi\u0161ov",
+            "country": "Slovakia",
+            "center_distance": 2.3249437353305114,
+            "id": 28
+        },
+        {
+            "latitude": 48.1516988,
+            "longitude": 17.1093063,
+            "location": "Bratislava",
+            "country": "Slovakia",
+            "center_distance": 2.3610241782290102,
+            "id": 2
+        },
+        {
+            "latitude": 48.4362992,
+            "longitude": 17.0200447,
+            "location": "Malacky",
+            "country": "Slovakia",
+            "center_distance": 2.396013644461929,
+            "id": 40
+        },
+        {
+            "latitude": 48.8746597,
+            "longitude": 21.8337692,
+            "location": "Str\u00e1\u017eske",
+            "country": "Slovakia",
+            "center_distance": 2.4402852400035213,
+            "id": 46
+        },
+        {
+            "latitude": 48.9350033,
+            "longitude": 21.9020268,
+            "location": "Humenn\u00e9",
+            "country": "Slovakia",
+            "center_distance": 2.5125550923127054,
+            "id": 26
+        },
+        {
+            "latitude": 48.7514383,
+            "longitude": 21.9211949,
+            "location": "Michalovce",
+            "country": "Slovakia",
+            "center_distance": 2.5236767231471875,
+            "id": 29
+        }
+    ],
+    "links": [
+        {
+            "length": 40.0,
+            "source": 18,
+            "target": 16
+        },
+        {
+            "length": 18.0,
+            "source": 18,
+            "target": 14
+        },
+        {
+            "length": 43.0,
+            "source": 14,
+            "target": 12
+        },
+        {
+            "length": 48.0,
+            "source": 14,
+            "target": 38
+        },
+        {
+            "length": 56.0,
+            "source": 14,
+            "target": 8
+        },
+        {
+            "length": 27.0,
+            "source": 16,
+            "target": 15
+        },
+        {
+            "length": 23.0,
+            "source": 16,
+            "target": 17
+        },
+        {
+            "length": 9.0,
+            "source": 17,
+            "target": 45
+        },
+        {
+            "length": 50.0,
+            "source": 17,
+            "target": 31
+        },
+        {
+            "length": 74.0,
+            "source": 38,
+            "target": 36
+        },
+        {
+            "length": 22.0,
+            "source": 15,
+            "target": 20
+        },
+        {
+            "length": 31.0,
+            "source": 37,
+            "target": 36
+        },
+        {
+            "length": 41.0,
+            "source": 12,
+            "target": 13
+        },
+        {
+            "length": 63.0,
+            "source": 20,
+            "target": 11
+        },
+        {
+            "length": 9.0,
+            "source": 20,
+            "target": 21
+        },
+        {
+            "length": 32.0,
+            "source": 20,
+            "target": 19
+        },
+        {
+            "length": 41.0,
+            "source": 8,
+            "target": 5
+        },
+        {
+            "length": 12.0,
+            "source": 31,
+            "target": 30
+        },
+        {
+            "length": 23.0,
+            "source": 31,
+            "target": 32
+        },
+        {
+            "length": 69.0,
+            "source": 31,
+            "target": 35
+        },
+        {
+            "length": 53.0,
+            "source": 36,
+            "target": 1
+        },
+        {
+            "length": 33.0,
+            "source": 19,
+            "target": 11
+        },
+        {
+            "length": 9.0,
+            "source": 32,
+            "target": 33
+        },
+        {
+            "length": 50.0,
+            "source": 32,
+            "target": 35
+        },
+        {
+            "length": 28.0,
+            "source": 13,
+            "target": 9
+        },
+        {
+            "length": 21.0,
+            "source": 11,
+            "target": 44
+        },
+        {
+            "length": 37.0,
+            "source": 11,
+            "target": 43
+        },
+        {
+            "length": 49.0,
+            "source": 9,
+            "target": 6
+        },
+        {
+            "length": 38.0,
+            "source": 9,
+            "target": 10
+        },
+        {
+            "length": 36.0,
+            "source": 22,
+            "target": 34
+        },
+        {
+            "length": 40.0,
+            "source": 5,
+            "target": 3
+        },
+        {
+            "length": 14.0,
+            "source": 6,
+            "target": 7
+        },
+        {
+            "length": 19.0,
+            "source": 44,
+            "target": 43
+        },
+        {
+            "length": 30.0,
+            "source": 43,
+            "target": 10
+        },
+        {
+            "length": 47.0,
+            "source": 7,
+            "target": 4
+        },
+        {
+            "length": 16.0,
+            "source": 34,
+            "target": 35
+        },
+        {
+            "length": 46.0,
+            "source": 3,
+            "target": 2
+        },
+        {
+            "length": 25.0,
+            "source": 3,
+            "target": 39
+        },
+        {
+            "length": 43.0,
+            "source": 10,
+            "target": 2
+        },
+        {
+            "length": 37.0,
+            "source": 10,
+            "target": 42
+        },
+        {
+            "length": 36.0,
+            "source": 1,
+            "target": 28
+        },
+        {
+            "length": 31.0,
+            "source": 1,
+            "target": 35
+        },
+        {
+            "length": 33.0,
+            "source": 35,
+            "target": 23
+        },
+        {
+            "length": 35.0,
+            "source": 35,
+            "target": 27
+        },
+        {
+            "length": 41.0,
+            "source": 4,
+            "target": 2
+        },
+        {
+            "length": 22.0,
+            "source": 23,
+            "target": 24
+        },
+        {
+            "length": 21.0,
+            "source": 42,
+            "target": 41
+        },
+        {
+            "length": 23.0,
+            "source": 39,
+            "target": 2
+        },
+        {
+            "length": 13.0,
+            "source": 24,
+            "target": 25
+        },
+        {
+            "length": 17.0,
+            "source": 27,
+            "target": 26
+        },
+        {
+            "length": 35.0,
+            "source": 25,
+            "target": 26
+        },
+        {
+            "length": 20.0,
+            "source": 28,
+            "target": 29
+        },
+        {
+            "length": 32.0,
+            "source": 2,
+            "target": 40
+        },
+        {
+            "length": 8.0,
+            "source": 46,
+            "target": 26
+        },
+        {
+            "length": 20.0,
+            "source": 26,
+            "target": 29
+        }
+    ]
+}

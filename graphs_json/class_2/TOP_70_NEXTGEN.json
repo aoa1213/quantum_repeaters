@@ -1,0 +1,217 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": -36.38,
+            "longitude": 145.4,
+            "location": "Shepparton",
+            "country": "Australia",
+            "center_distance": 3.463350583701435,
+            "id": 8
+        },
+        {
+            "latitude": -36.08,
+            "longitude": 146.92,
+            "location": "Albury",
+            "country": "Australia",
+            "center_distance": 4.187328774484396,
+            "id": 4
+        },
+        {
+            "latitude": -33.13,
+            "longitude": 148.18,
+            "location": "Parkes",
+            "country": "Australia",
+            "center_distance": 4.4193873744700385,
+            "id": 3
+        },
+        {
+            "latitude": -37.81,
+            "longitude": 144.96,
+            "location": "Melbourne",
+            "country": "Australia",
+            "center_distance": 4.6396589061724205,
+            "id": 11
+        },
+        {
+            "latitude": -38.15,
+            "longitude": 144.36,
+            "location": "Geelong",
+            "country": "Australia",
+            "center_distance": 4.8596872086200165,
+            "id": 7
+        },
+        {
+            "latitude": -32.25,
+            "longitude": 148.62,
+            "location": "Dubbo",
+            "country": "Australia",
+            "center_distance": 4.972995552544279,
+            "id": 1
+        },
+        {
+            "latitude": -34.93,
+            "longitude": 138.6,
+            "location": "Adelaide",
+            "country": "Australia",
+            "center_distance": 5.408071261145226,
+            "id": 10
+        },
+        {
+            "latitude": -35.28,
+            "longitude": 149.13,
+            "location": "Canberra",
+            "country": "Australia",
+            "center_distance": 5.709459016896881,
+            "id": 13
+        },
+        {
+            "latitude": -32.5,
+            "longitude": 137.77,
+            "location": "Port Augusta",
+            "country": "Australia",
+            "center_distance": 6.051755717609949,
+            "id": 16
+        },
+        {
+            "latitude": -29.47,
+            "longitude": 149.85,
+            "location": "Moree",
+            "country": "Australia",
+            "center_distance": 7.204353528639826,
+            "id": 2
+        },
+        {
+            "latitude": -33.87,
+            "longitude": 151.21,
+            "location": "Sydney",
+            "country": "Australia",
+            "center_distance": 7.464784642950212,
+            "id": 12
+        },
+        {
+            "latitude": -32.93,
+            "longitude": 151.78,
+            "location": "Newcastle",
+            "country": "Australia",
+            "center_distance": 8.024819921071453,
+            "id": 5
+        },
+        {
+            "latitude": -30.3,
+            "longitude": 153.13,
+            "location": "Coffs Harbour",
+            "country": "Australia",
+            "center_distance": 9.842011850512332,
+            "id": 6
+        },
+        {
+            "latitude": -27.47,
+            "longitude": 153.03,
+            "location": "Brisbane",
+            "country": "Australia",
+            "center_distance": 10.960985802637703,
+            "id": 14
+        },
+        {
+            "latitude": -30.75,
+            "longitude": 121.47,
+            "location": "Kalgoorlie",
+            "country": "Australia",
+            "center_distance": 22.443424644327887,
+            "id": 15
+        },
+        {
+            "latitude": -31.93,
+            "longitude": 115.83,
+            "location": "West Leederville",
+            "country": "Australia",
+            "center_distance": 27.9699031954997,
+            "id": 9
+        }
+    ],
+    "links": [
+        {
+            "length": 245.5904187693494,
+            "source": 8,
+            "target": 11
+        },
+        {
+            "length": 389.2413693493163,
+            "source": 4,
+            "target": 11
+        },
+        {
+            "length": 327.7931314787214,
+            "source": 4,
+            "target": 13
+        },
+        {
+            "length": 159.2426685232252,
+            "source": 3,
+            "target": 1
+        },
+        {
+            "length": 97.15069430135588,
+            "source": 11,
+            "target": 7
+        },
+        {
+            "length": 940.0318518372522,
+            "source": 7,
+            "target": 10
+        },
+        {
+            "length": 495.9873191580491,
+            "source": 1,
+            "target": 2
+        },
+        {
+            "length": 2668.041349004836,
+            "source": 10,
+            "target": 9
+        },
+        {
+            "length": 421.3409684441467,
+            "source": 10,
+            "target": 16
+        },
+        {
+            "length": 369.9923322059562,
+            "source": 13,
+            "target": 12
+        },
+        {
+            "length": 1942.481536905293,
+            "source": 16,
+            "target": 15
+        },
+        {
+            "length": 573.2539047554518,
+            "source": 2,
+            "target": 14
+        },
+        {
+            "length": 175.7293459970856,
+            "source": 12,
+            "target": 5
+        },
+        {
+            "length": 478.7282571610986,
+            "source": 5,
+            "target": 6
+        },
+        {
+            "length": 472.2482457284324,
+            "source": 6,
+            "target": 14
+        },
+        {
+            "length": 827.0961601404766,
+            "source": 15,
+            "target": 9
+        }
+    ]
+}

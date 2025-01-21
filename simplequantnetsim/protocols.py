@@ -42,7 +42,7 @@ def SP_protocol(G, users, timesteps, reps, count_fusion=False):
         J, users, timesteps, reps, _SD_protocol, nodes=True, count_fusion=count_fusion
     )
     update_usage_from_subgraph(G, J)
-    return er, multipartite_gen_time, avg_links_used,J
+    return er, multipartite_gen_time, avg_links_used
 
 
 def MPG_protocol(G, users, timesteps, reps, count_fusion=False):

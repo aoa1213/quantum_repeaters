@@ -1,0 +1,190 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 34.67,
+            "longitude": 135.5,
+            "location": "Osaka",
+            "country": "Japan",
+            "center_distance": 0.8002289472741926,
+            "id": 8
+        },
+        {
+            "latitude": 35.149,
+            "longitude": 136.91,
+            "location": "Nagoya",
+            "country": "Japan",
+            "center_distance": 0.9476856201938536,
+            "id": 7
+        },
+        {
+            "latitude": 36.58,
+            "longitude": 136.65,
+            "location": "Kanazawa",
+            "country": "Japan",
+            "center_distance": 1.4349917658493874,
+            "id": 5
+        },
+        {
+            "latitude": 36.66,
+            "longitude": 138.19,
+            "location": "Nagano",
+            "country": "Japan",
+            "center_distance": 2.591152517328053,
+            "id": 6
+        },
+        {
+            "latitude": 35.66,
+            "longitude": 139.28,
+            "location": "Hachioji",
+            "country": "Japan",
+            "center_distance": 3.3216090028863317,
+            "id": 4
+        },
+        {
+            "latitude": 33.84,
+            "longitude": 132.75,
+            "location": "Matsuyama",
+            "country": "Japan",
+            "center_distance": 3.5468405708069612,
+            "id": 10
+        },
+        {
+            "latitude": 34.39,
+            "longitude": 132.449,
+            "location": "Hiroshima",
+            "country": "Japan",
+            "center_distance": 3.6462947679421327,
+            "id": 9
+        },
+        {
+            "latitude": 35.68,
+            "longitude": 139.77,
+            "location": "Tokyo",
+            "country": "Japan",
+            "center_distance": 3.8111443646306022,
+            "id": 3
+        },
+        {
+            "latitude": 38.27,
+            "longitude": 140.85,
+            "location": "Sendai",
+            "country": "Japan",
+            "center_distance": 5.700440746239608,
+            "id": 2
+        },
+        {
+            "latitude": 33.57,
+            "longitude": 130.35,
+            "location": "Hakata",
+            "country": "Japan",
+            "center_distance": 5.890323253839499,
+            "id": 11
+        },
+        {
+            "latitude": 43.075,
+            "longitude": 141.34,
+            "location": "Sapporo",
+            "country": "Japan",
+            "center_distance": 9.434906978947321,
+            "id": 1
+        },
+        {
+            "latitude": 26.21,
+            "longitude": 127.68,
+            "location": "Naha",
+            "country": "Japan",
+            "center_distance": 12.316447121690121,
+            "id": 12
+        }
+    ],
+    "links": [
+        {
+            "length": 279.9,
+            "source": 8,
+            "target": 7
+        },
+        {
+            "length": 395.7,
+            "source": 8,
+            "target": 5
+        },
+        {
+            "length": 512.4000000000001,
+            "source": 8,
+            "target": 9
+        },
+        {
+            "length": 549.0,
+            "source": 7,
+            "target": 3
+        },
+        {
+            "length": 376.2,
+            "source": 7,
+            "target": 6
+        },
+        {
+            "length": 736.05,
+            "source": 7,
+            "target": 10
+        },
+        {
+            "length": 378.3,
+            "source": 5,
+            "target": 6
+        },
+        {
+            "length": 376.05,
+            "source": 6,
+            "target": 4
+        },
+        {
+            "length": 1570.5,
+            "source": 4,
+            "target": 1
+        },
+        {
+            "length": 71.1,
+            "source": 4,
+            "target": 3
+        },
+        {
+            "length": 99.30000000000001,
+            "source": 10,
+            "target": 9
+        },
+        {
+            "length": 1500.0,
+            "source": 10,
+            "target": 12
+        },
+        {
+            "length": 547.5,
+            "source": 10,
+            "target": 11
+        },
+        {
+            "length": 421.05,
+            "source": 9,
+            "target": 11
+        },
+        {
+            "length": 527.7,
+            "source": 3,
+            "target": 2
+        },
+        {
+            "length": 889.9499999999999,
+            "source": 2,
+            "target": 1
+        },
+        {
+            "length": 1367.85,
+            "source": 11,
+            "target": 12
+        }
+    ]
+}

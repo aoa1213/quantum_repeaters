@@ -1,0 +1,445 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 30.83685068,
+            "longitude": -91.21575345,
+            "location": "Jackson Louisiana",
+            "country": "United States",
+            "center_distance": 0.31164637665680556,
+            "id": 12
+        },
+        {
+            "latitude": 30.5203641644727,
+            "longitude": -91.1883416332004,
+            "location": "801 Harding Blvd, Baton Rouge, LA 70807, United States",
+            "country": "United States",
+            "center_distance": 0.5680132878843562,
+            "id": 31
+        },
+        {
+            "latitude": 30.4024175,
+            "longitude": -91.5073329,
+            "location": "Ramah Louisiana",
+            "country": "United States",
+            "center_distance": 0.6098304282734346,
+            "id": 23
+        },
+        {
+            "latitude": 30.5601953,
+            "longitude": -91.9540055,
+            "location": "Port Barre Louisiana",
+            "country": "United States",
+            "center_distance": 0.6587530819211073,
+            "id": 22
+        },
+        {
+            "latitude": 30.4057618499999,
+            "longitude": -91.1859745026568,
+            "location": "Louisiana State University",
+            "country": "United States",
+            "center_distance": 0.6705694810203677,
+            "id": 13
+        },
+        {
+            "latitude": 30.394061,
+            "longitude": -91.105683219937,
+            "location": "7733 Perkins Rd, Baton Rouge, LA 70810, United States",
+            "country": "United States",
+            "center_distance": 0.7187951256954853,
+            "id": 32
+        },
+        {
+            "latitude": 30.8494554974206,
+            "longitude": -92.256466934983,
+            "location": "Landry Louisiana",
+            "country": "United States",
+            "center_distance": 0.7990604193436522,
+            "id": 27
+        },
+        {
+            "latitude": 30.829635,
+            "longitude": -90.6677355,
+            "location": "Greensburg Louisiana",
+            "country": "United States",
+            "center_distance": 0.8264611651107452,
+            "id": 11
+        },
+        {
+            "latitude": 30.2171207188979,
+            "longitude": -92.0189421205121,
+            "location": "104 E University Ave, Lafayette, LA 70504, United States",
+            "country": "United States",
+            "center_distance": 0.9632054150611609,
+            "id": 21
+        },
+        {
+            "latitude": 31.3119463,
+            "longitude": -92.4453558,
+            "location": "Alexandria Louisiana",
+            "country": "United States",
+            "center_distance": 1.0168316351450155,
+            "id": 28
+        },
+        {
+            "latitude": 30.5043583,
+            "longitude": -90.4611995,
+            "location": "Hammond Louisiana",
+            "country": "United States",
+            "center_distance": 1.1325815000841852,
+            "id": 14
+        },
+        {
+            "latitude": 30.2140928,
+            "longitude": -92.3745761,
+            "location": "Crowley Louisiana",
+            "country": "United States",
+            "center_distance": 1.2027785266664066,
+            "id": 26
+        },
+        {
+            "latitude": 29.7970217147616,
+            "longitude": -91.5002492235352,
+            "location": "Franklin Louisiana",
+            "country": "United States",
+            "center_distance": 1.2145974242438868,
+            "id": 20
+        },
+        {
+            "latitude": 31.1160119,
+            "longitude": -90.1420331,
+            "location": "Tylertown Mississipi",
+            "country": "United States",
+            "center_distance": 1.3360494903640117,
+            "id": 10
+        },
+        {
+            "latitude": 30.0715993,
+            "longitude": -90.4663589046885,
+            "location": "Laplace Louisiana",
+            "country": "United States",
+            "center_distance": 1.377822407646826,
+            "id": 15
+        },
+        {
+            "latitude": 32.4084539,
+            "longitude": -91.1869112,
+            "location": "Tallulah Louisiana",
+            "country": "United States",
+            "center_distance": 1.4263055065233436,
+            "id": 5
+        },
+        {
+            "latitude": 29.7386285,
+            "longitude": -90.81026625563359,
+            "location": "Schriever Louisiana",
+            "country": "United States",
+            "center_distance": 1.4353716747859842,
+            "id": 19
+        },
+        {
+            "latitude": 30.2351806,
+            "longitude": -92.7478897,
+            "location": "Roanoke Louisiana",
+            "country": "United States",
+            "center_distance": 1.4917347436171968,
+            "id": 24
+        },
+        {
+            "latitude": 31.5340592,
+            "longitude": -92.9476592,
+            "location": "Derry Louisiana",
+            "country": "United States",
+            "center_distance": 1.5636444099191424,
+            "id": 29
+        },
+        {
+            "latitude": 32.3301465,
+            "longitude": -90.6056548,
+            "location": "Edwards Mississippi",
+            "country": "United States",
+            "center_distance": 1.5790012817425856,
+            "id": 6
+        },
+        {
+            "latitude": 32.5102427,
+            "longitude": -92.1032411,
+            "location": "Monroe Louisiana",
+            "country": "United States",
+            "center_distance": 1.6256381759167322,
+            "id": 4
+        },
+        {
+            "latitude": 30.0306062466549,
+            "longitude": -90.0718504878483,
+            "location": "2000 Lakeshore Dr, New Orleans, LA 70148, United States",
+            "country": "United States",
+            "center_distance": 1.7110767819750436,
+            "id": 17
+        },
+        {
+            "latitude": 29.94121955,
+            "longitude": -90.1201008917918,
+            "location": "Tulane University",
+            "country": "United States",
+            "center_distance": 1.7257241440178128,
+            "id": 18
+        },
+        {
+            "latitude": 29.957500674438,
+            "longitude": -90.0832191878507,
+            "location": "433 Bolivar St, New Orleans, LA 70112, United States",
+            "country": "United States",
+            "center_distance": 1.7449269925344826,
+            "id": 16
+        },
+        {
+            "latitude": 32.2998686,
+            "longitude": -90.1830408,
+            "location": "Jackson Mississippi",
+            "country": "United States",
+            "center_distance": 1.823960472095441,
+            "id": 7
+        },
+        {
+            "latitude": 31.9622006,
+            "longitude": -89.8702079,
+            "location": "Mendenhall Mississippi",
+            "country": "United States",
+            "center_distance": 1.8644614572510656,
+            "id": 8
+        },
+        {
+            "latitude": 30.2305095,
+            "longitude": -93.2169807,
+            "location": "Lake Charles Louisiana",
+            "country": "United States",
+            "center_distance": 1.9099096692892634,
+            "id": 25
+        },
+        {
+            "latitude": 32.5297498,
+            "longitude": -92.6386604,
+            "location": "Ruston Louisiana",
+            "country": "United States",
+            "center_distance": 1.9136546831608214,
+            "id": 3
+        },
+        {
+            "latitude": 31.5623892,
+            "longitude": -89.4975669,
+            "location": "Seminary Mississipi",
+            "country": "United States",
+            "center_distance": 2.0517924782193844,
+            "id": 9
+        },
+        {
+            "latitude": 32.0148834,
+            "longitude": -93.3421165,
+            "location": "Coushatta Louisiana",
+            "country": "United States",
+            "center_distance": 2.1206272014213123,
+            "id": 30
+        },
+        {
+            "latitude": 32.5326514,
+            "longitude": -93.5040627,
+            "location": "Haughton Louisiana",
+            "country": "United States",
+            "center_distance": 2.5368597089690796,
+            "id": 2
+        },
+        {
+            "latitude": 32.5135356,
+            "longitude": -93.7477839,
+            "location": "Shreveport Louisiana",
+            "country": "United States",
+            "center_distance": 2.725217561641626,
+            "id": 1
+        }
+    ],
+    "links": [
+        {
+            "length": 78.4955097368057,
+            "source": 12,
+            "target": 11
+        },
+        {
+            "length": 72.0293661713391,
+            "source": 12,
+            "target": 13
+        },
+        {
+            "length": 19.1178488207747,
+            "source": 31,
+            "target": 13
+        },
+        {
+            "length": 24.1874378274335,
+            "source": 31,
+            "target": 32
+        },
+        {
+            "length": 79.8887707931108,
+            "source": 23,
+            "target": 21
+        },
+        {
+            "length": 46.2323270258112,
+            "source": 23,
+            "target": 13
+        },
+        {
+            "length": 57.9800163255536,
+            "source": 22,
+            "target": 21
+        },
+        {
+            "length": 113.360617554627,
+            "source": 22,
+            "target": 13
+        },
+        {
+            "length": 11.7144990378713,
+            "source": 13,
+            "target": 32
+        },
+        {
+            "length": 105.497391794154,
+            "source": 13,
+            "target": 14
+        },
+        {
+            "length": 110.851576789315,
+            "source": 27,
+            "target": 21
+        },
+        {
+            "length": 81.7228820043048,
+            "source": 27,
+            "target": 28
+        },
+        {
+            "length": 89.0710038137409,
+            "source": 11,
+            "target": 10
+        },
+        {
+            "length": 102.578683444083,
+            "source": 21,
+            "target": 20
+        },
+        {
+            "length": 105.096261912059,
+            "source": 21,
+            "target": 24
+        },
+        {
+            "length": 51.2606327984105,
+            "source": 21,
+            "target": 26
+        },
+        {
+            "length": 80.5217121287057,
+            "source": 28,
+            "target": 29
+        },
+        {
+            "length": 72.1848323971283,
+            "source": 14,
+            "target": 15
+        },
+        {
+            "length": 121.439624686707,
+            "source": 26,
+            "target": 25
+        },
+        {
+            "length": 100.371577678976,
+            "source": 20,
+            "target": 19
+        },
+        {
+            "length": 118.203317040308,
+            "source": 10,
+            "target": 9
+        },
+        {
+            "length": 58.5161812644335,
+            "source": 15,
+            "target": 16
+        },
+        {
+            "length": 130.072031316664,
+            "source": 5,
+            "target": 4
+        },
+        {
+            "length": 82.919809587456,
+            "source": 5,
+            "target": 6
+        },
+        {
+            "length": 105.414800698162,
+            "source": 19,
+            "target": 18
+        },
+        {
+            "length": 67.6035222684387,
+            "source": 24,
+            "target": 25
+        },
+        {
+            "length": 97.7755619441603,
+            "source": 29,
+            "target": 30
+        },
+        {
+            "length": 59.7853425408143,
+            "source": 6,
+            "target": 7
+        },
+        {
+            "length": 75.3716481744459,
+            "source": 4,
+            "target": 3
+        },
+        {
+            "length": 12.3035680925013,
+            "source": 17,
+            "target": 16
+        },
+        {
+            "length": 16.4580904531734,
+            "source": 17,
+            "target": 18
+        },
+        {
+            "length": 71.5850298472018,
+            "source": 7,
+            "target": 8
+        },
+        {
+            "length": 85.085814783863,
+            "source": 8,
+            "target": 9
+        },
+        {
+            "length": 121.695789761288,
+            "source": 3,
+            "target": 2
+        },
+        {
+            "length": 100.950491419734,
+            "source": 30,
+            "target": 1
+        },
+        {
+            "length": 34.4237789034312,
+            "source": 2,
+            "target": 1
+        }
+    ]
+}

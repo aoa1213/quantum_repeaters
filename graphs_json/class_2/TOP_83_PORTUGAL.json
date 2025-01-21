@@ -1,0 +1,397 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 39.4071857,
+            "longitude": -9.1346004,
+            "location": "Caldas da Rainha",
+            "country": "Portugal",
+            "center_distance": 0.12743913841277046,
+            "id": 13
+        },
+        {
+            "latitude": 39.2363637,
+            "longitude": -8.6867081,
+            "location": "Santarem",
+            "country": "Portugal",
+            "center_distance": 0.5407398774310853,
+            "id": 12
+        },
+        {
+            "latitude": 39.7437902,
+            "longitude": -8.8071119,
+            "location": "Leiria",
+            "country": "Portugal",
+            "center_distance": 0.5970517742907083,
+            "id": 14
+        },
+        {
+            "latitude": 38.7077507,
+            "longitude": -9.1365919,
+            "location": "Lisboa",
+            "country": "Portugal",
+            "center_distance": 0.6124647180781907,
+            "id": 11
+        },
+        {
+            "latitude": 38.5241783,
+            "longitude": -8.8932341,
+            "location": "Setubal",
+            "country": "Portugal",
+            "center_distance": 0.8556792604259273,
+            "id": 9
+        },
+        {
+            "latitude": 38.36584625,
+            "longitude": -8.53125903367014,
+            "location": "Alcacer do Sal",
+            "country": "Portugal",
+            "center_distance": 1.1731765116750072,
+            "id": 8
+        },
+        {
+            "latitude": 40.2111931,
+            "longitude": -8.4294632,
+            "location": "Coimbra",
+            "country": "Portugal",
+            "center_distance": 1.196788597205277,
+            "id": 17
+        },
+        {
+            "latitude": 37.956549,
+            "longitude": -8.8689639,
+            "location": "Sines",
+            "country": "Portugal",
+            "center_distance": 1.4028089888248836,
+            "id": 5
+        },
+        {
+            "latitude": 40.640496,
+            "longitude": -8.6537841,
+            "location": "Aveiro",
+            "country": "Portugal",
+            "center_distance": 1.4427606592483782,
+            "id": 20
+        },
+        {
+            "latitude": 39.2076447,
+            "longitude": -7.72151335401534,
+            "location": "Portalegre",
+            "country": "Portugal",
+            "center_distance": 1.5040781005029562,
+            "id": 15
+        },
+        {
+            "latitude": 38.5707742,
+            "longitude": -7.9092808,
+            "location": "Evora",
+            "country": "Portugal",
+            "center_distance": 1.5084748529495304,
+            "id": 7
+        },
+        {
+            "latitude": 40.9020813,
+            "longitude": -8.4896358,
+            "location": "Sao Joao da Madeira",
+            "country": "Portugal",
+            "center_distance": 1.748501902557205,
+            "id": 22
+        },
+        {
+            "latitude": 40.6574713,
+            "longitude": -7.9138664,
+            "location": "Viseu",
+            "country": "Portugal",
+            "center_distance": 1.8748155573071537,
+            "id": 19
+        },
+        {
+            "latitude": 38.0154479,
+            "longitude": -7.8650368,
+            "location": "Beja",
+            "country": "Portugal",
+            "center_distance": 1.878226944368437,
+            "id": 6
+        },
+        {
+            "latitude": 39.97675825,
+            "longitude": -7.4460599299667,
+            "location": "Castelo Branco",
+            "country": "Portugal",
+            "center_distance": 1.8953069004071141,
+            "id": 16
+        },
+        {
+            "latitude": 41.1494512,
+            "longitude": -8.6107884,
+            "location": "Porto",
+            "country": "Portugal",
+            "center_distance": 1.9342385807717706,
+            "id": 21
+        },
+        {
+            "latitude": 38.8806123,
+            "longitude": -7.1637237,
+            "location": "Elvas",
+            "country": "Portugal",
+            "center_distance": 2.103273718616523,
+            "id": 10
+        },
+        {
+            "latitude": 37.1375808,
+            "longitude": -8.5368426,
+            "location": "Portimao",
+            "country": "Portugal",
+            "center_distance": 2.2819075062228222,
+            "id": 4
+        },
+        {
+            "latitude": 41.5510583,
+            "longitude": -8.4280045,
+            "location": "Braga",
+            "country": "Portugal",
+            "center_distance": 2.37347833724241,
+            "id": 24
+        },
+        {
+            "latitude": 40.7046066,
+            "longitude": -7.1951392360713,
+            "location": "Guarda",
+            "country": "Portugal",
+            "center_distance": 2.457733897423219,
+            "id": 18
+        },
+        {
+            "latitude": 37.0162727,
+            "longitude": -7.9351771,
+            "location": "Faro",
+            "country": "Portugal",
+            "center_distance": 2.6336583618048053,
+            "id": 3
+        },
+        {
+            "latitude": 41.8803257,
+            "longitude": -8.52325529355434,
+            "location": "Viana do Castelo",
+            "country": "Portugal",
+            "center_distance": 2.659450896341952,
+            "id": 25
+        },
+        {
+            "latitude": 41.5229299,
+            "longitude": -7.54663124811733,
+            "location": "Vila Real",
+            "country": "Portugal",
+            "center_distance": 2.7720838451946768,
+            "id": 23
+        },
+        {
+            "latitude": 41.8071182,
+            "longitude": -6.7589839,
+            "location": "Braganca",
+            "country": "Portugal",
+            "center_distance": 3.504262384841804,
+            "id": 26
+        },
+        {
+            "latitude": 32.6496497,
+            "longitude": -16.9086783,
+            "location": "Funchal",
+            "country": "Portugal",
+            "center_distance": 10.173739604375255,
+            "id": 2
+        },
+        {
+            "latitude": 37.74757445,
+            "longitude": -25.6726782661463,
+            "location": "Ponta Delgada",
+            "country": "Portugal",
+            "center_distance": 16.525302561886797,
+            "id": 1
+        }
+    ],
+    "links": [
+        {
+            "length": 116.660881544439,
+            "source": 13,
+            "target": 11
+        },
+        {
+            "length": 70.175819762463,
+            "source": 13,
+            "target": 14
+        },
+        {
+            "length": 105.721174313766,
+            "source": 12,
+            "target": 11
+        },
+        {
+            "length": 124.808544662972,
+            "source": 12,
+            "target": 15
+        },
+        {
+            "length": 165.909315256897,
+            "source": 12,
+            "target": 17
+        },
+        {
+            "length": 86.0422924530701,
+            "source": 12,
+            "target": 14
+        },
+        {
+            "length": 150.834266690821,
+            "source": 14,
+            "target": 20
+        },
+        {
+            "length": 1807.99931798281,
+            "source": 11,
+            "target": 1
+        },
+        {
+            "length": 1458.29128229942,
+            "source": 11,
+            "target": 2
+        },
+        {
+            "length": 44.0832981217847,
+            "source": 11,
+            "target": 9
+        },
+        {
+            "length": 54.160486988783,
+            "source": 9,
+            "target": 8
+        },
+        {
+            "length": 81.3751421404074,
+            "source": 8,
+            "target": 5
+        },
+        {
+            "length": 88.1231389466861,
+            "source": 8,
+            "target": 7
+        },
+        {
+            "length": 99.1224703846554,
+            "source": 17,
+            "target": 19
+        },
+        {
+            "length": 115.487054177831,
+            "source": 17,
+            "target": 22
+        },
+        {
+            "length": 77.0611972125991,
+            "source": 17,
+            "target": 20
+        },
+        {
+            "length": 143.484777119693,
+            "source": 5,
+            "target": 4
+        },
+        {
+            "length": 85.0628763068771,
+            "source": 20,
+            "target": 21
+        },
+        {
+            "length": 90.5335249420081,
+            "source": 15,
+            "target": 10
+        },
+        {
+            "length": 133.078116646033,
+            "source": 15,
+            "target": 16
+        },
+        {
+            "length": 92.8052326542097,
+            "source": 7,
+            "target": 6
+        },
+        {
+            "length": 109.919731257632,
+            "source": 7,
+            "target": 10
+        },
+        {
+            "length": 43.9857316249099,
+            "source": 22,
+            "target": 21
+        },
+        {
+            "length": 108.520323417874,
+            "source": 22,
+            "target": 24
+        },
+        {
+            "length": 91.2488350468542,
+            "source": 19,
+            "target": 18
+        },
+        {
+            "length": 151.553725091653,
+            "source": 19,
+            "target": 23
+        },
+        {
+            "length": 166.913170300805,
+            "source": 6,
+            "target": 3
+        },
+        {
+            "length": 125.520697751784,
+            "source": 16,
+            "target": 18
+        },
+        {
+            "length": 70.7868039300848,
+            "source": 21,
+            "target": 24
+        },
+        {
+            "length": 122.393655580164,
+            "source": 21,
+            "target": 25
+        },
+        {
+            "length": 1367.35802711232,
+            "source": 4,
+            "target": 2
+        },
+        {
+            "length": 82.5814681028717,
+            "source": 4,
+            "target": 3
+        },
+        {
+            "length": 212.254361766413,
+            "source": 24,
+            "target": 26
+        },
+        {
+            "length": 56.1851673887582,
+            "source": 24,
+            "target": 25
+        },
+        {
+            "length": 108.988655135176,
+            "source": 23,
+            "target": 26
+        },
+        {
+            "length": 1465.11343435881,
+            "source": 2,
+            "target": 1
+        }
+    ]
+}

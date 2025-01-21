@@ -1,0 +1,438 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 50.07,
+            "longitude": 8.38,
+            "location": "Hochheim am Main",
+            "country": "Germany",
+            "center_distance": 1.3861295861469218,
+            "id": 11
+        },
+        {
+            "latitude": 48.35,
+            "longitude": 7.45,
+            "location": "Epfig",
+            "country": "France",
+            "center_distance": 1.6830748479724678,
+            "id": 24
+        },
+        {
+            "latitude": 47.22,
+            "longitude": 8.32,
+            "location": "Hohenrain",
+            "country": "Switzerland",
+            "center_distance": 1.7959015486515344,
+            "id": 28
+        },
+        {
+            "latitude": 48.07,
+            "longitude": 11.33,
+            "location": "Gauting",
+            "country": "Germany",
+            "center_distance": 2.408585435690503,
+            "id": 18
+        },
+        {
+            "latitude": 45.28,
+            "longitude": 9.11,
+            "location": "Giovenzano",
+            "country": "Italy",
+            "center_distance": 3.579362205899313,
+            "id": 17
+        },
+        {
+            "latitude": 53.33,
+            "longitude": 10.0,
+            "location": "Marxen",
+            "country": "Germany",
+            "center_distance": 4.569995101703264,
+            "id": 13
+        },
+        {
+            "latitude": 50.49,
+            "longitude": 4.2,
+            "location": "La Louviere",
+            "country": "Belgium",
+            "center_distance": 5.120984651511895,
+            "id": 7
+        },
+        {
+            "latitude": 50.04,
+            "longitude": 14.25,
+            "location": "Rudna",
+            "country": "Czechia",
+            "center_distance": 5.328262067331456,
+            "id": 21
+        },
+        {
+            "latitude": 52.31,
+            "longitude": 13.21,
+            "location": "Ludwigsfelde",
+            "country": "Germany",
+            "center_distance": 5.401838134338336,
+            "id": 5
+        },
+        {
+            "latitude": 52.2,
+            "longitude": 4.51,
+            "location": "Sassenheim",
+            "country": "Netherlands (Kingdom of the)",
+            "center_distance": 5.6403272018454365,
+            "id": 1
+        },
+        {
+            "latitude": 45.43,
+            "longitude": 4.49,
+            "location": "Saint-Jean-Bonnefonds",
+            "country": "France",
+            "center_distance": 5.708787544618544,
+            "id": 15
+        },
+        {
+            "latitude": 48.51,
+            "longitude": 2.2,
+            "location": "Etrechy",
+            "country": "France",
+            "center_distance": 6.863161356184219,
+            "id": 20
+        },
+        {
+            "latitude": 48.12,
+            "longitude": 16.21,
+            "location": "Kaltenleutgeben",
+            "country": "Austria",
+            "center_distance": 7.193765521091788,
+            "id": 25
+        },
+        {
+            "latitude": 55.41,
+            "longitude": 12.32,
+            "location": "Stroby Egede",
+            "country": "Denmark",
+            "center_distance": 7.319933514599927,
+            "id": 9
+        },
+        {
+            "latitude": 45.48,
+            "longitude": 15.57,
+            "location": "Karlovac",
+            "country": "Croatia",
+            "center_distance": 7.339733710692616,
+            "id": 27
+        },
+        {
+            "latitude": 41.53,
+            "longitude": 12.29,
+            "location": "Torvaianica",
+            "country": "Italy",
+            "center_distance": 8.011431890984129,
+            "id": 22
+        },
+        {
+            "latitude": 51.3,
+            "longitude": -0.07,
+            "location": "Whyteleafe",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "center_distance": 9.44517969735389,
+            "id": 14
+        },
+        {
+            "latitude": 47.29,
+            "longitude": 19.02,
+            "location": "Szigethalom",
+            "country": "Hungary",
+            "center_distance": 10.08845865763124,
+            "id": 8
+        },
+        {
+            "latitude": 41.22,
+            "longitude": 2.07,
+            "location": "Viladecans",
+            "country": "Spain",
+            "center_distance": 10.350530259757868,
+            "id": 3
+        },
+        {
+            "latitude": 44.51,
+            "longitude": -0.35,
+            "location": "Noaillan",
+            "country": "France",
+            "center_distance": 10.361166416736395,
+            "id": 6
+        },
+        {
+            "latitude": 59.54,
+            "longitude": 10.45,
+            "location": "Berger",
+            "country": "Norway",
+            "center_distance": 10.771875659772157,
+            "id": 19
+        },
+        {
+            "latitude": 52.14,
+            "longitude": 20.59,
+            "location": "Bieniewice",
+            "country": "Poland",
+            "center_distance": 11.993253678673709,
+            "id": 26
+        },
+        {
+            "latitude": 44.47,
+            "longitude": 20.25,
+            "location": "Stepojevac",
+            "country": "Serbia",
+            "center_distance": 12.02525311053572,
+            "id": 4
+        },
+        {
+            "latitude": 59.19,
+            "longitude": 18.03,
+            "location": "Huddinge",
+            "country": "Sweden",
+            "center_distance": 13.685557489595388,
+            "id": 23
+        },
+        {
+            "latitude": 55.51,
+            "longitude": -4.16,
+            "location": "Muirkirk",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "center_distance": 14.793718196813629,
+            "id": 12
+        },
+        {
+            "latitude": 40.25,
+            "longitude": -3.42,
+            "location": "Morata de Tajuna",
+            "country": "Spain",
+            "center_distance": 15.156564756883132,
+            "id": 16
+        },
+        {
+            "latitude": 53.21,
+            "longitude": -6.15,
+            "location": "Enniskerry",
+            "country": "Ireland",
+            "center_distance": 15.814617499584466,
+            "id": 10
+        },
+        {
+            "latitude": 37.58,
+            "longitude": 23.42,
+            "location": "Poros",
+            "country": "Greece",
+            "center_distance": 18.264390946816796,
+            "id": 2
+        }
+    ],
+    "links": [
+        {
+            "length": 450.941856404134,
+            "source": 11,
+            "target": 7
+        },
+        {
+            "length": 568.9082458927351,
+            "source": 11,
+            "target": 13
+        },
+        {
+            "length": 463.8143014051812,
+            "source": 11,
+            "target": 18
+        },
+        {
+            "length": 304.2479271607037,
+            "source": 11,
+            "target": 24
+        },
+        {
+            "length": 581.5286628993272,
+            "source": 24,
+            "target": 20
+        },
+        {
+            "length": 212.1978065100511,
+            "source": 24,
+            "target": 28
+        },
+        {
+            "length": 532.5782980276541,
+            "source": 28,
+            "target": 15
+        },
+        {
+            "length": 336.1565723463755,
+            "source": 28,
+            "target": 17
+        },
+        {
+            "length": 735.0758208533219,
+            "source": 18,
+            "target": 5
+        },
+        {
+            "length": 530.1308034294885,
+            "source": 18,
+            "target": 17
+        },
+        {
+            "length": 543.6059291132768,
+            "source": 18,
+            "target": 25
+        },
+        {
+            "length": 734.5002801181136,
+            "source": 17,
+            "target": 22
+        },
+        {
+            "length": 585.0701325894771,
+            "source": 13,
+            "target": 1
+        },
+        {
+            "length": 365.5096518359057,
+            "source": 13,
+            "target": 5
+        },
+        {
+            "length": 287.0369913926625,
+            "source": 7,
+            "target": 1
+        },
+        {
+            "length": 394.9344268018788,
+            "source": 7,
+            "target": 20
+        },
+        {
+            "length": 393.9165847124962,
+            "source": 21,
+            "target": 5
+        },
+        {
+            "length": 697.2434946645521,
+            "source": 21,
+            "target": 8
+        },
+        {
+            "length": 385.2039046334942,
+            "source": 21,
+            "target": 25
+        },
+        {
+            "length": 524.4037894750307,
+            "source": 5,
+            "target": 9
+        },
+        {
+            "length": 754.2256003851683,
+            "source": 5,
+            "target": 26
+        },
+        {
+            "length": 1014.924288498928,
+            "source": 1,
+            "target": 12
+        },
+        {
+            "length": 496.082590705949,
+            "source": 1,
+            "target": 14
+        },
+        {
+            "length": 761.0207893336487,
+            "source": 15,
+            "target": 3
+        },
+        {
+            "length": 575.98939482729,
+            "source": 15,
+            "target": 20
+        },
+        {
+            "length": 728.4507289037214,
+            "source": 20,
+            "target": 6
+        },
+        {
+            "length": 525.308569510817,
+            "source": 20,
+            "target": 14
+        },
+        {
+            "length": 446.3493354434656,
+            "source": 25,
+            "target": 27
+        },
+        {
+            "length": 708.8985474726883,
+            "source": 9,
+            "target": 19
+        },
+        {
+            "length": 577.2240484085744,
+            "source": 27,
+            "target": 4
+        },
+        {
+            "length": 768.9337781286542,
+            "source": 27,
+            "target": 22
+        },
+        {
+            "length": 1500.0,
+            "source": 22,
+            "target": 2
+        },
+        {
+            "length": 697.4339795081776,
+            "source": 14,
+            "target": 10
+        },
+        {
+            "length": 491.5420793362368,
+            "source": 8,
+            "target": 4
+        },
+        {
+            "length": 826.4188164439588,
+            "source": 8,
+            "target": 26
+        },
+        {
+            "length": 712.328011104343,
+            "source": 3,
+            "target": 16
+        },
+        {
+            "length": 804.7897660190185,
+            "source": 6,
+            "target": 16
+        },
+        {
+            "length": 646.5222073761438,
+            "source": 19,
+            "target": 23
+        },
+        {
+            "length": 1200.066296064601,
+            "source": 26,
+            "target": 23
+        },
+        {
+            "length": 1216.193134088645,
+            "source": 4,
+            "target": 2
+        },
+        {
+            "length": 429.57515190986,
+            "source": 12,
+            "target": 10
+        }
+    ]
+}

@@ -1,0 +1,238 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 29.89,
+            "longitude": -81.31,
+            "location": "Saint Augustine",
+            "country": "United States of America (the)",
+            "center_distance": 0.5067750858658229,
+            "id": 15
+        },
+        {
+            "latitude": 29.21,
+            "longitude": -81.02,
+            "location": "Daytona Beach",
+            "country": "United States of America (the)",
+            "center_distance": 0.7274681275102053,
+            "id": 18
+        },
+        {
+            "latitude": 30.33,
+            "longitude": -81.66,
+            "location": "Jacksonville",
+            "country": "United States of America (the)",
+            "center_distance": 0.7956331433301572,
+            "id": 16
+        },
+        {
+            "latitude": 28.54,
+            "longitude": -81.38,
+            "location": "Orlando",
+            "country": "United States of America (the)",
+            "center_distance": 1.0361782820049688,
+            "id": 4
+        },
+        {
+            "latitude": 28.61,
+            "longitude": -80.81,
+            "location": "Titusville",
+            "country": "United States of America (the)",
+            "center_distance": 1.263372421949757,
+            "id": 17
+        },
+        {
+            "latitude": 28.09,
+            "longitude": -81.72,
+            "location": "Lake Alfred",
+            "country": "United States of America (the)",
+            "center_distance": 1.4452715580620883,
+            "id": 3
+        },
+        {
+            "latitude": 30.94,
+            "longitude": -82.02,
+            "location": "Folkston",
+            "country": "United States of America (the)",
+            "center_distance": 1.4482091964019603,
+            "id": 13
+        },
+        {
+            "latitude": 27.95,
+            "longitude": -82.46,
+            "location": "Tampa",
+            "country": "United States of America (the)",
+            "center_distance": 1.7699745412132972,
+            "id": 6
+        },
+        {
+            "latitude": 28.08,
+            "longitude": -80.61,
+            "location": "Melbourne",
+            "country": "United States of America (the)",
+            "center_distance": 1.800379246741852,
+            "id": 2
+        },
+        {
+            "latitude": 31.72,
+            "longitude": -82.2,
+            "location": "Baxley",
+            "country": "United States of America (the)",
+            "center_distance": 2.2486388200886944,
+            "id": 14
+        },
+        {
+            "latitude": 27.45,
+            "longitude": -80.33,
+            "location": "Fort Pierce",
+            "country": "United States of America (the)",
+            "center_distance": 2.478605990132554,
+            "id": 1
+        },
+        {
+            "latitude": 32.32,
+            "longitude": -82.56,
+            "location": "Soperton",
+            "country": "United States of America (the)",
+            "center_distance": 2.923943092790377,
+            "id": 11
+        },
+        {
+            "latitude": 26.72,
+            "longitude": -80.05,
+            "location": "West Palm Beach",
+            "country": "United States of America (the)",
+            "center_distance": 3.2479376172322176,
+            "id": 5
+        },
+        {
+            "latitude": 32.88,
+            "longitude": -83.33,
+            "location": "Gordon",
+            "country": "United States of America (the)",
+            "center_distance": 3.734254185374595,
+            "id": 12
+        },
+        {
+            "latitude": 26.12,
+            "longitude": -80.14,
+            "location": "Fort Lauderdale",
+            "country": "United States of America (the)",
+            "center_distance": 3.7420224610182937,
+            "id": 8
+        },
+        {
+            "latitude": 25.77,
+            "longitude": -80.19,
+            "location": "Miami",
+            "country": "United States of America (the)",
+            "center_distance": 4.045334608999042,
+            "id": 7
+        },
+        {
+            "latitude": 33.25,
+            "longitude": -83.9,
+            "location": "Indian Springs",
+            "country": "United States of America (the)",
+            "center_distance": 4.332816493394585,
+            "id": 9
+        },
+        {
+            "latitude": 33.75,
+            "longitude": -84.39,
+            "location": "Atlanta",
+            "country": "United States of America (the)",
+            "center_distance": 5.016299974293682,
+            "id": 10
+        }
+    ],
+    "links": [
+        {
+            "length": 120.972544952087,
+            "source": 15,
+            "target": 18
+        },
+        {
+            "length": 89.08495741337417,
+            "source": 15,
+            "target": 16
+        },
+        {
+            "length": 123.502526239912,
+            "source": 18,
+            "target": 4
+        },
+        {
+            "length": 104.6670832176189,
+            "source": 18,
+            "target": 17
+        },
+        {
+            "length": 114.1091942451913,
+            "source": 16,
+            "target": 13
+        },
+        {
+            "length": 90.14377938900955,
+            "source": 4,
+            "target": 3
+        },
+        {
+            "length": 93.14768168607968,
+            "source": 17,
+            "target": 2
+        },
+        {
+            "length": 111.4326474233612,
+            "source": 3,
+            "target": 6
+        },
+        {
+            "length": 132.6014600386424,
+            "source": 13,
+            "target": 14
+        },
+        {
+            "length": 112.9130335236984,
+            "source": 2,
+            "target": 1
+        },
+        {
+            "length": 112.280376164828,
+            "source": 14,
+            "target": 11
+        },
+        {
+            "length": 128.6622981191926,
+            "source": 1,
+            "target": 5
+        },
+        {
+            "length": 142.935071154233,
+            "source": 11,
+            "target": 12
+        },
+        {
+            "length": 100.9743372348429,
+            "source": 5,
+            "target": 8
+        },
+        {
+            "length": 100.7797542631112,
+            "source": 12,
+            "target": 9
+        },
+        {
+            "length": 58.85702770663077,
+            "source": 8,
+            "target": 7
+        },
+        {
+            "length": 107.7012067809803,
+            "source": 9,
+            "target": 10
+        }
+    ]
+}

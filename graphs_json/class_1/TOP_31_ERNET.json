@@ -1,0 +1,227 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 22.72,
+            "longitude": 75.83,
+            "location": "Indore",
+            "country": "India",
+            "center_distance": 3.539615367963727,
+            "id": 2
+        },
+        {
+            "latitude": 17.38,
+            "longitude": 78.47,
+            "location": "Hyderabad",
+            "country": "India",
+            "center_distance": 3.987750237054097,
+            "id": 16
+        },
+        {
+            "latitude": 25.45,
+            "longitude": 81.85,
+            "location": "Allahabad",
+            "country": "India",
+            "center_distance": 4.971691307103145,
+            "id": 13
+        },
+        {
+            "latitude": 26.47,
+            "longitude": 80.35,
+            "location": "Kanpur",
+            "country": "India",
+            "center_distance": 5.303375288731223,
+            "id": 12
+        },
+        {
+            "latitude": 18.52,
+            "longitude": 73.86,
+            "location": "Pune",
+            "country": "India",
+            "center_distance": 5.924943202523124,
+            "id": 1
+        },
+        {
+            "latitude": 26.92,
+            "longitude": 75.82,
+            "location": "Jaipur",
+            "country": "India",
+            "center_distance": 6.4798728346415135,
+            "id": 6
+        },
+        {
+            "latitude": 19.01,
+            "longitude": 72.85,
+            "location": "Mumbai",
+            "country": "India",
+            "center_distance": 6.6458607007012285,
+            "id": 4
+        },
+        {
+            "latitude": 23.03,
+            "longitude": 72.62,
+            "location": "Ahmedabad",
+            "country": "India",
+            "center_distance": 6.683540562690176,
+            "id": 5
+        },
+        {
+            "latitude": 20.23,
+            "longitude": 85.83,
+            "location": "Bhubaneshwar",
+            "country": "India",
+            "center_distance": 6.83630671145795,
+            "id": 15
+        },
+        {
+            "latitude": 28.64,
+            "longitude": 77.22,
+            "location": "New Delhi",
+            "country": "India",
+            "center_distance": 7.552317654410797,
+            "id": 9
+        },
+        {
+            "latitude": 13.09,
+            "longitude": 80.28,
+            "location": "George Town",
+            "country": "India",
+            "center_distance": 8.317462921656158,
+            "id": 7
+        },
+        {
+            "latitude": 12.98,
+            "longitude": 77.6,
+            "location": "Bangalore",
+            "country": "India",
+            "center_distance": 8.471134927099497,
+            "id": 8
+        },
+        {
+            "latitude": 29.45,
+            "longitude": 75.68,
+            "location": "Gorakhpur",
+            "country": "India",
+            "center_distance": 8.812221028385801,
+            "id": 11
+        },
+        {
+            "latitude": 22.57,
+            "longitude": 88.37,
+            "location": "Kolkata",
+            "country": "India",
+            "center_distance": 9.3723964093035,
+            "id": 14
+        },
+        {
+            "latitude": 8.48,
+            "longitude": 76.92,
+            "location": "Thiruvananthapuram",
+            "country": "India",
+            "center_distance": 13.021238495363065,
+            "id": 3
+        },
+        {
+            "latitude": 26.19,
+            "longitude": 91.75,
+            "location": "Guwahati",
+            "country": "India",
+            "center_distance": 13.57232623587884,
+            "id": 10
+        }
+    ],
+    "links": [
+        {
+            "length": 773.6337951082263,
+            "source": 2,
+            "target": 4
+        },
+        {
+            "length": 772.5246083159809,
+            "source": 16,
+            "target": 7
+        },
+        {
+            "length": 747.1215199807971,
+            "source": 16,
+            "target": 8
+        },
+        {
+            "length": 1500.0,
+            "source": 16,
+            "target": 14
+        },
+        {
+            "length": 282.0298130830362,
+            "source": 13,
+            "target": 12
+        },
+        {
+            "length": 587.5069712378195,
+            "source": 12,
+            "target": 9
+        },
+        {
+            "length": 848.6111993950832,
+            "source": 12,
+            "target": 11
+        },
+        {
+            "length": 179.224401832357,
+            "source": 1,
+            "target": 4
+        },
+        {
+            "length": 1101.786486959481,
+            "source": 1,
+            "target": 8
+        },
+        {
+            "length": 353.5213518954667,
+            "source": 6,
+            "target": 9
+        },
+        {
+            "length": 1500.0,
+            "source": 4,
+            "target": 9
+        },
+        {
+            "length": 1162.635332833133,
+            "source": 5,
+            "target": 9
+        },
+        {
+            "length": 554.8701312485068,
+            "source": 15,
+            "target": 14
+        },
+        {
+            "length": 2177.195551264161,
+            "source": 9,
+            "target": 8
+        },
+        {
+            "length": 1631.198779249713,
+            "source": 9,
+            "target": 14
+        },
+        {
+            "length": 435.869644797688,
+            "source": 7,
+            "target": 8
+        },
+        {
+            "length": 758.7883770649184,
+            "source": 8,
+            "target": 3
+        },
+        {
+            "length": 792.5113756660074,
+            "source": 14,
+            "target": 10
+        }
+    ]
+}

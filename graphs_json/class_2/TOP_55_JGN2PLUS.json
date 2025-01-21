@@ -1,0 +1,147 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 35.03,
+            "longitude": 136.9,
+            "location": "Obu",
+            "country": "Japan",
+            "center_distance": 0.9621987561211097,
+            "id": 6
+        },
+        {
+            "latitude": 35.0,
+            "longitude": 135.5,
+            "location": "Kameoka",
+            "country": "Japan",
+            "center_distance": 1.4074926419665694,
+            "id": 2
+        },
+        {
+            "latitude": 37.0,
+            "longitude": 137.5,
+            "location": "Nyuzen",
+            "country": "Japan",
+            "center_distance": 1.4267378847341163,
+            "id": 7
+        },
+        {
+            "latitude": 35.61,
+            "longitude": 139.58,
+            "location": "Chofugaoka",
+            "country": "Japan",
+            "center_distance": 3.0395228529415497,
+            "id": 11
+        },
+        {
+            "latitude": 33.75,
+            "longitude": 133.5,
+            "location": "Kochi-shi",
+            "country": "Japan",
+            "center_distance": 3.754377940352852,
+            "id": 4
+        },
+        {
+            "latitude": 34.5,
+            "longitude": 133.0,
+            "location": "Mihara",
+            "country": "Japan",
+            "center_distance": 3.8336001464216976,
+            "id": 1
+        },
+        {
+            "latitude": 38.27,
+            "longitude": 140.87,
+            "location": "Sendai-shi",
+            "country": "Japan",
+            "center_distance": 4.907083848970456,
+            "id": 10
+        },
+        {
+            "latitude": 33.0,
+            "longitude": 131.0,
+            "location": "Aso",
+            "country": "Japan",
+            "center_distance": 6.281946650442681,
+            "id": 3
+        },
+        {
+            "latitude": 43.06,
+            "longitude": 141.35,
+            "location": "Sapporo",
+            "country": "Japan",
+            "center_distance": 8.591862380971538,
+            "id": 9
+        },
+        {
+            "latitude": 43.66,
+            "longitude": 145.13,
+            "location": "Shibetsu",
+            "country": "Japan",
+            "center_distance": 11.543769239917397,
+            "id": 5
+        },
+        {
+            "latitude": 26.34,
+            "longitude": 127.8,
+            "location": "Okinawa",
+            "country": "Japan",
+            "center_distance": 12.986165334025449,
+            "id": 8
+        }
+    ],
+    "links": [
+        {
+            "length": 191.3084647985127,
+            "source": 6,
+            "target": 2
+        },
+        {
+            "length": 377.323250985928,
+            "source": 6,
+            "target": 11
+        },
+        {
+            "length": 352.6038111726988,
+            "source": 2,
+            "target": 1
+        },
+        {
+            "length": 345.3459715788485,
+            "source": 2,
+            "target": 4
+        },
+        {
+            "length": 363.184659100073,
+            "source": 7,
+            "target": 11
+        },
+        {
+            "length": 1500.0,
+            "source": 11,
+            "target": 5
+        },
+        {
+            "length": 475.8156762525535,
+            "source": 11,
+            "target": 10
+        },
+        {
+            "length": 373.5148152658263,
+            "source": 1,
+            "target": 3
+        },
+        {
+            "length": 801.2359389789707,
+            "source": 10,
+            "target": 9
+        },
+        {
+            "length": 1203.552674046391,
+            "source": 3,
+            "target": 8
+        }
+    ]
+}

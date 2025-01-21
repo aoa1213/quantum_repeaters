@@ -1,0 +1,209 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 43.46,
+            "longitude": -88.84,
+            "location": "Beaver Dam",
+            "country": "United States of America (the)",
+            "center_distance": 0.44967000245857597,
+            "id": 15
+        },
+        {
+            "latitude": 43.07,
+            "longitude": -89.4,
+            "location": "Madison",
+            "country": "United States of America (the)",
+            "center_distance": 0.6445953080120241,
+            "id": 6
+        },
+        {
+            "latitude": 44.02,
+            "longitude": -88.54,
+            "location": "Oshkosh",
+            "country": "United States of America (the)",
+            "center_distance": 0.7609575838668133,
+            "id": 13
+        },
+        {
+            "latitude": 43.77,
+            "longitude": -88.44,
+            "location": "Fond du Lac",
+            "country": "United States of America (the)",
+            "center_distance": 0.789993530212595,
+            "id": 14
+        },
+        {
+            "latitude": 44.26,
+            "longitude": -88.42,
+            "location": "Appleton",
+            "country": "United States of America (the)",
+            "center_distance": 0.9868011169655296,
+            "id": 12
+        },
+        {
+            "latitude": 42.68,
+            "longitude": -89.02,
+            "location": "Janesville",
+            "country": "United States of America (the)",
+            "center_distance": 1.031447095643351,
+            "id": 3
+        },
+        {
+            "latitude": 43.92,
+            "longitude": -90.27,
+            "location": "New Lisbon",
+            "country": "United States of America (the)",
+            "center_distance": 1.0688918456877676,
+            "id": 7
+        },
+        {
+            "latitude": 43.01,
+            "longitude": -88.23,
+            "location": "Waukesha",
+            "country": "United States of America (the)",
+            "center_distance": 1.2063677346112478,
+            "id": 4
+        },
+        {
+            "latitude": 44.96,
+            "longitude": -89.63,
+            "location": "Wausau",
+            "country": "United States of America (the)",
+            "center_distance": 1.3320747393112466,
+            "id": 10
+        },
+        {
+            "latitude": 42.27,
+            "longitude": -89.09,
+            "location": "Rockford",
+            "country": "United States of America (the)",
+            "center_distance": 1.427161440684886,
+            "id": 2
+        },
+        {
+            "latitude": 44.52,
+            "longitude": -88.02,
+            "location": "Green Bay",
+            "country": "United States of America (the)",
+            "center_distance": 1.463635807767,
+            "id": 11
+        },
+        {
+            "latitude": 43.04,
+            "longitude": -87.91,
+            "location": "Milwaukee",
+            "country": "United States of America (the)",
+            "center_distance": 1.468067815569526,
+            "id": 1
+        },
+        {
+            "latitude": 42.59,
+            "longitude": -87.82,
+            "location": "Kenosha",
+            "country": "United States of America (the)",
+            "center_distance": 1.7855820090690535,
+            "id": 5
+        },
+        {
+            "latitude": 44.81,
+            "longitude": -91.5,
+            "location": "Eau Claire",
+            "country": "United States of America (the)",
+            "center_distance": 2.534557774269742,
+            "id": 9
+        },
+        {
+            "latitude": 44.98,
+            "longitude": -93.26,
+            "location": "Minneapolis",
+            "country": "United States of America (the)",
+            "center_distance": 4.235036770140798,
+            "id": 8
+        }
+    ],
+    "links": [
+        {
+            "length": 94.11399976081071,
+            "source": 15,
+            "target": 6
+        },
+        {
+            "length": 70.75718093948329,
+            "source": 15,
+            "target": 14
+        },
+        {
+            "length": 79.92983480781709,
+            "source": 6,
+            "target": 3
+        },
+        {
+            "length": 142.9780858880039,
+            "source": 6,
+            "target": 4
+        },
+        {
+            "length": 176.5788615413109,
+            "source": 6,
+            "target": 7
+        },
+        {
+            "length": 42.52913763533532,
+            "source": 13,
+            "target": 12
+        },
+        {
+            "length": 43.39577057780664,
+            "source": 13,
+            "target": 14
+        },
+        {
+            "length": 64.44807162855902,
+            "source": 12,
+            "target": 11
+        },
+        {
+            "length": 68.9249489242323,
+            "source": 3,
+            "target": 2
+        },
+        {
+            "length": 208.6732898997296,
+            "source": 7,
+            "target": 9
+        },
+        {
+            "length": 39.33857400442843,
+            "source": 4,
+            "target": 1
+        },
+        {
+            "length": 428.3236075781989,
+            "source": 10,
+            "target": 8
+        },
+        {
+            "length": 204.3696485906607,
+            "source": 10,
+            "target": 11
+        },
+        {
+            "length": 165.2065935025056,
+            "source": 2,
+            "target": 5
+        },
+        {
+            "length": 75.860016937924,
+            "source": 1,
+            "target": 5
+        },
+        {
+            "length": 209.8743549933172,
+            "source": 9,
+            "target": 8
+        }
+    ]
+}

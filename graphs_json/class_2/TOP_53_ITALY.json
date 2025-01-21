@@ -1,0 +1,352 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 43.1121,
+            "longitude": 12.3888,
+            "location": "Perugia",
+            "country": "Italy",
+            "center_distance": 0.38117471144569215,
+            "id": 12
+        },
+        {
+            "latitude": 41.893055555556,
+            "longitude": 12.482777777778,
+            "location": "Rome",
+            "country": "Italy",
+            "center_distance": 0.8415703748465635,
+            "id": 13
+        },
+        {
+            "latitude": 43.616666666667,
+            "longitude": 13.516666666667,
+            "location": "Ancona",
+            "country": "Italy",
+            "center_distance": 1.4049696302281207,
+            "id": 11
+        },
+        {
+            "latitude": 43.771388888889,
+            "longitude": 11.254166666667,
+            "location": "Florence",
+            "country": "Italy",
+            "center_distance": 1.5649860620516678,
+            "id": 10
+        },
+        {
+            "latitude": 42.464277777778,
+            "longitude": 14.214188888889,
+            "location": "Pescara",
+            "country": "Italy",
+            "center_distance": 1.8095004248930922,
+            "id": 14
+        },
+        {
+            "latitude": 44.493888888889,
+            "longitude": 11.342777777778,
+            "location": "Bologna",
+            "country": "Italy",
+            "center_distance": 2.0670311692053414,
+            "id": 8
+        },
+        {
+            "latitude": 43.716666666667,
+            "longitude": 10.4,
+            "location": "Pisa",
+            "country": "Italy",
+            "center_distance": 2.251164893952486,
+            "id": 9
+        },
+        {
+            "latitude": 40.833333333333,
+            "longitude": 14.25,
+            "location": "Naples",
+            "country": "Italy",
+            "center_distance": 2.63420226000351,
+            "id": 16
+        },
+        {
+            "latitude": 45.439722222222,
+            "longitude": 12.331944444444,
+            "location": "Venice",
+            "country": "Italy",
+            "center_distance": 2.7086914416015837,
+            "id": 4
+        },
+        {
+            "latitude": 45.4386111111111,
+            "longitude": 10.9927777777778,
+            "location": "Verona",
+            "country": "Italy",
+            "center_distance": 3.061499933126708,
+            "id": 3
+        },
+        {
+            "latitude": 45.6502777777778,
+            "longitude": 13.7702777777778,
+            "location": "Trieste",
+            "country": "Italy",
+            "center_distance": 3.212992599707862,
+            "id": 5
+        },
+        {
+            "latitude": 44.407186111111,
+            "longitude": 8.9339833333333,
+            "location": "Genoa",
+            "country": "Italy",
+            "center_distance": 3.8715951990604274,
+            "id": 7
+        },
+        {
+            "latitude": 46.498113,
+            "longitude": 11.35478,
+            "location": "Bolzano",
+            "country": "Italy",
+            "center_distance": 3.9145451172227776,
+            "id": 1
+        },
+        {
+            "latitude": 40.633333333333,
+            "longitude": 15.8,
+            "location": "Potenza",
+            "country": "Italy",
+            "center_distance": 3.9748809009204087,
+            "id": 18
+        },
+        {
+            "latitude": 45.466944444444,
+            "longitude": 9.19,
+            "location": "Milan",
+            "country": "Italy",
+            "center_distance": 4.235539249749731,
+            "id": 2
+        },
+        {
+            "latitude": 38.1156580555556,
+            "longitude": 13.3612619444444,
+            "location": "Palermo",
+            "country": "Italy",
+            "center_distance": 4.710996329453902,
+            "id": 19
+        },
+        {
+            "latitude": 41.125277777778,
+            "longitude": 16.866666666667,
+            "location": "Bari",
+            "country": "Italy",
+            "center_distance": 4.723838442789236,
+            "id": 17
+        },
+        {
+            "latitude": 39.216666666667,
+            "longitude": 9.1166666666667,
+            "location": "Cagliari",
+            "country": "Italy",
+            "center_distance": 4.827523276225065,
+            "id": 15
+        },
+        {
+            "latitude": 45.0791666666667,
+            "longitude": 7.67611111111111,
+            "location": "Turin",
+            "country": "Italy",
+            "center_distance": 5.296729521292521,
+            "id": 6
+        },
+        {
+            "latitude": 38.91,
+            "longitude": 16.5875,
+            "location": "Vibo Valentia",
+            "country": "Italy",
+            "center_distance": 5.651668315552328,
+            "id": 21
+        },
+        {
+            "latitude": 37.502669444444,
+            "longitude": 15.087269444444,
+            "location": "Catania",
+            "country": "Italy",
+            "center_distance": 5.868702765124684,
+            "id": 20
+        }
+    ],
+    "links": [
+        {
+            "length": 175.987186946548,
+            "source": 12,
+            "target": 10
+        },
+        {
+            "length": 203.648462979176,
+            "source": 12,
+            "target": 13
+        },
+        {
+            "length": 248.182178507232,
+            "source": 12,
+            "target": 14
+        },
+        {
+            "length": 396.803728772618,
+            "source": 13,
+            "target": 9
+        },
+        {
+            "length": 347.454300072031,
+            "source": 13,
+            "target": 10
+        },
+        {
+            "length": 617.343609013397,
+            "source": 13,
+            "target": 15
+        },
+        {
+            "length": 283.161787922061,
+            "source": 13,
+            "target": 16
+        },
+        {
+            "length": 298.832774020608,
+            "source": 11,
+            "target": 8
+        },
+        {
+            "length": 210.176645530252,
+            "source": 11,
+            "target": 14
+        },
+        {
+            "length": 297.488338258972,
+            "source": 10,
+            "target": 7
+        },
+        {
+            "length": 120.973508987489,
+            "source": 10,
+            "target": 8
+        },
+        {
+            "length": 103.331594203955,
+            "source": 10,
+            "target": 9
+        },
+        {
+            "length": 272.075343657304,
+            "source": 14,
+            "target": 16
+        },
+        {
+            "length": 162.891982593212,
+            "source": 8,
+            "target": 3
+        },
+        {
+            "length": 196.235856061237,
+            "source": 8,
+            "target": 4
+        },
+        {
+            "length": 287.159495375602,
+            "source": 8,
+            "target": 7
+        },
+        {
+            "length": 210.08373896944,
+            "source": 9,
+            "target": 7
+        },
+        {
+            "length": 333.060309910828,
+            "source": 16,
+            "target": 17
+        },
+        {
+            "length": 198.718428002341,
+            "source": 16,
+            "target": 18
+        },
+        {
+            "length": 467.485715896853,
+            "source": 16,
+            "target": 19
+        },
+        {
+            "length": 565.964068552132,
+            "source": 16,
+            "target": 20
+        },
+        {
+            "length": 156.716880890438,
+            "source": 4,
+            "target": 3
+        },
+        {
+            "length": 171.653723818967,
+            "source": 4,
+            "target": 5
+        },
+        {
+            "length": 181.630976291983,
+            "source": 3,
+            "target": 1
+        },
+        {
+            "length": 210.98419981037,
+            "source": 3,
+            "target": 2
+        },
+        {
+            "length": 313.210082158055,
+            "source": 5,
+            "target": 1
+        },
+        {
+            "length": 179.315668395523,
+            "source": 7,
+            "target": 2
+        },
+        {
+            "length": 186.463410669487,
+            "source": 7,
+            "target": 6
+        },
+        {
+            "length": 304.176474840211,
+            "source": 1,
+            "target": 2
+        },
+        {
+            "length": 157.574397539279,
+            "source": 18,
+            "target": 17
+        },
+        {
+            "length": 304.643442961717,
+            "source": 18,
+            "target": 21
+        },
+        {
+            "length": 189.093468143853,
+            "source": 2,
+            "target": 6
+        },
+        {
+            "length": 582.415395802952,
+            "source": 19,
+            "target": 15
+        },
+        {
+            "length": 249.36328289901,
+            "source": 19,
+            "target": 20
+        },
+        {
+            "length": 306.187196649243,
+            "source": 21,
+            "target": 20
+        }
+    ]
+}

@@ -1,0 +1,476 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 38.46,
+            "longitude": 23.6,
+            "location": "Chalkida",
+            "country": "Greece",
+            "center_distance": 0.24766382505770218,
+            "id": 17
+        },
+        {
+            "latitude": 37.98,
+            "longitude": 23.72,
+            "location": "Athens",
+            "country": "Greece",
+            "center_distance": 0.7415855547056549,
+            "id": 18
+        },
+        {
+            "latitude": 39.37,
+            "longitude": 22.95,
+            "location": "Volos",
+            "country": "Greece",
+            "center_distance": 0.882400979084496,
+            "id": 2
+        },
+        {
+            "latitude": 37.92,
+            "longitude": 22.88,
+            "location": "Arkhaia Korinthos",
+            "country": "Greece",
+            "center_distance": 1.0008918168642078,
+            "id": 24
+        },
+        {
+            "latitude": 39.64,
+            "longitude": 22.42,
+            "location": "Larisa",
+            "country": "Greece",
+            "center_distance": 1.4484055187387297,
+            "id": 3
+        },
+        {
+            "latitude": 38.03,
+            "longitude": 22.11,
+            "location": "Kalavryta",
+            "country": "Greece",
+            "center_distance": 1.5543475138371146,
+            "id": 23
+        },
+        {
+            "latitude": 37.51,
+            "longitude": 22.38,
+            "location": "Tripoli",
+            "country": "Greece",
+            "center_distance": 1.6399934593506151,
+            "id": 21
+        },
+        {
+            "latitude": 39.37,
+            "longitude": 21.92,
+            "location": "Karditsa",
+            "country": "Greece",
+            "center_distance": 1.7335654400535603,
+            "id": 1
+        },
+        {
+            "latitude": 38.24,
+            "longitude": 21.73,
+            "location": "Patra",
+            "country": "Greece",
+            "center_distance": 1.842425436181683,
+            "id": 22
+        },
+        {
+            "latitude": 37.44,
+            "longitude": 24.94,
+            "location": "Ermoupolis",
+            "country": "Greece",
+            "center_distance": 1.896832271013929,
+            "id": 9
+        },
+        {
+            "latitude": 39.56,
+            "longitude": 21.77,
+            "location": "Trikala",
+            "country": "Greece",
+            "center_distance": 1.9493322430441762,
+            "id": 4
+        },
+        {
+            "latitude": 40.64,
+            "longitude": 22.94,
+            "location": "Thessaloniki",
+            "country": "Greece",
+            "center_distance": 2.0304380184366186,
+            "id": 28
+        },
+        {
+            "latitude": 38.37,
+            "longitude": 21.43,
+            "location": "Mesolongi",
+            "country": "Greece",
+            "center_distance": 2.11073356768959,
+            "id": 11
+        },
+        {
+            "latitude": 37.04,
+            "longitude": 22.11,
+            "location": "Kalamata",
+            "country": "Greece",
+            "center_distance": 2.1699584611654155,
+            "id": 16
+        },
+        {
+            "latitude": 37.45,
+            "longitude": 25.33,
+            "location": "Mykonos",
+            "country": "Greece",
+            "center_distance": 2.1990738062958024,
+            "id": 10
+        },
+        {
+            "latitude": 41.09,
+            "longitude": 23.55,
+            "location": "Serres",
+            "country": "Greece",
+            "center_distance": 2.3973016116669754,
+            "id": 27
+        },
+        {
+            "latitude": 38.47,
+            "longitude": 25.91,
+            "location": "Vrontados",
+            "country": "Greece",
+            "center_distance": 2.404475426392328,
+            "id": 25
+        },
+        {
+            "latitude": 40.94,
+            "longitude": 24.4,
+            "location": "Kavala",
+            "country": "Greece",
+            "center_distance": 2.4147333952720795,
+            "id": 31
+        },
+        {
+            "latitude": 36.91,
+            "longitude": 21.7,
+            "location": "Pylos",
+            "country": "Greece",
+            "center_distance": 2.5448591235032056,
+            "id": 15
+        },
+        {
+            "latitude": 40.8,
+            "longitude": 22.05,
+            "location": "Edessa",
+            "country": "Greece",
+            "center_distance": 2.5668089057188332,
+            "id": 29
+        },
+        {
+            "latitude": 38.37,
+            "longitude": 26.14,
+            "location": "Chios",
+            "country": "Greece",
+            "center_distance": 2.6439146032097454,
+            "id": 6
+        },
+        {
+            "latitude": 41.14,
+            "longitude": 24.88,
+            "location": "Xanthi",
+            "country": "Greece",
+            "center_distance": 2.8015913051033112,
+            "id": 32
+        },
+        {
+            "latitude": 39.67,
+            "longitude": 20.85,
+            "location": "Ioannina",
+            "country": "Greece",
+            "center_distance": 2.839290873503429,
+            "id": 26
+        },
+        {
+            "latitude": 40.52,
+            "longitude": 21.27,
+            "location": "Kastoria",
+            "country": "Greece",
+            "center_distance": 2.8951910969553123,
+            "id": 30
+        },
+        {
+            "latitude": 39.11,
+            "longitude": 26.55,
+            "location": "Mytilini",
+            "country": "Greece",
+            "center_distance": 3.062647214172327,
+            "id": 5
+        },
+        {
+            "latitude": 41.12,
+            "longitude": 25.4,
+            "location": "Komotini",
+            "country": "Greece",
+            "center_distance": 3.072541918482229,
+            "id": 33
+        },
+        {
+            "latitude": 40.85,
+            "longitude": 25.87,
+            "location": "Alexandroupoli",
+            "country": "Greece",
+            "center_distance": 3.192925408518009,
+            "id": 34
+        },
+        {
+            "latitude": 35.51,
+            "longitude": 24.02,
+            "location": "Chania",
+            "country": "Greece",
+            "center_distance": 3.222615263252515,
+            "id": 12
+        },
+        {
+            "latitude": 37.79,
+            "longitude": 26.7,
+            "location": "Neon Karlovasion",
+            "country": "Greece",
+            "center_distance": 3.3096688593388763,
+            "id": 20
+        },
+        {
+            "latitude": 39.5,
+            "longitude": 20.27,
+            "location": "Igoumenitsa",
+            "country": "Greece",
+            "center_distance": 3.344711675731054,
+            "id": 7
+        },
+        {
+            "latitude": 35.36,
+            "longitude": 24.47,
+            "location": "Rethymno",
+            "country": "Greece",
+            "center_distance": 3.4668194891344117,
+            "id": 14
+        },
+        {
+            "latitude": 39.62,
+            "longitude": 19.92,
+            "location": "Kerkyra",
+            "country": "Greece",
+            "center_distance": 3.7134630681450838,
+            "id": 8
+        },
+        {
+            "latitude": 35.33,
+            "longitude": 25.14,
+            "location": "Irakleion",
+            "country": "Greece",
+            "center_distance": 3.734585852258488,
+            "id": 13
+        },
+        {
+            "latitude": 36.44,
+            "longitude": 28.22,
+            "location": "Rodos",
+            "country": "Greece",
+            "center_distance": 5.215790139758971,
+            "id": 19
+        }
+    ],
+    "links": [
+        {
+            "length": 81.5899524590216,
+            "source": 17,
+            "target": 18
+        },
+        {
+            "length": 324.3472995358508,
+            "source": 18,
+            "target": 3
+        },
+        {
+            "length": 184.4625948166933,
+            "source": 18,
+            "target": 9
+        },
+        {
+            "length": 413.9229400580977,
+            "source": 18,
+            "target": 12
+        },
+        {
+            "length": 481.0915037522016,
+            "source": 18,
+            "target": 13
+        },
+        {
+            "length": 264.731685058454,
+            "source": 18,
+            "target": 22
+        },
+        {
+            "length": 110.9318983172991,
+            "source": 18,
+            "target": 24
+        },
+        {
+            "length": 454.9374876550069,
+            "source": 18,
+            "target": 28
+        },
+        {
+            "length": 81.73229393655609,
+            "source": 2,
+            "target": 3
+        },
+        {
+            "length": 95.01942907971164,
+            "source": 24,
+            "target": 21
+        },
+        {
+            "length": 78.53929172182724,
+            "source": 3,
+            "target": 1
+        },
+        {
+            "length": 84.59401638652376,
+            "source": 3,
+            "target": 4
+        },
+        {
+            "length": 179.4869997937854,
+            "source": 3,
+            "target": 28
+        },
+        {
+            "length": 60.92742003066908,
+            "source": 23,
+            "target": 22
+        },
+        {
+            "length": 44.85471876101077,
+            "source": 22,
+            "target": 11
+        },
+        {
+            "length": 206.346951649401,
+            "source": 22,
+            "target": 16
+        },
+        {
+            "length": 264.4131623925118,
+            "source": 22,
+            "target": 26
+        },
+        {
+            "length": 221.3588042185257,
+            "source": 9,
+            "target": 6
+        },
+        {
+            "length": 51.6717453698879,
+            "source": 9,
+            "target": 10
+        },
+        {
+            "length": 617.1803943232806,
+            "source": 9,
+            "target": 32
+        },
+        {
+            "length": 352.954785110536,
+            "source": 9,
+            "target": 13
+        },
+        {
+            "length": 311.6945352214178,
+            "source": 28,
+            "target": 26
+        },
+        {
+            "length": 107.4881727901519,
+            "source": 28,
+            "target": 27
+        },
+        {
+            "length": 258.4322462802127,
+            "source": 28,
+            "target": 32
+        },
+        {
+            "length": 115.6287838232727,
+            "source": 28,
+            "target": 29
+        },
+        {
+            "length": 58.77805641493629,
+            "source": 16,
+            "target": 15
+        },
+        {
+            "length": 189.6678890347853,
+            "source": 10,
+            "target": 20
+        },
+        {
+            "length": 135.3424406030754,
+            "source": 25,
+            "target": 5
+        },
+        {
+            "length": 68.98688815502658,
+            "source": 31,
+            "target": 32
+        },
+        {
+            "length": 109.1826654097571,
+            "source": 29,
+            "target": 30
+        },
+        {
+            "length": 134.4584677324705,
+            "source": 6,
+            "target": 5
+        },
+        {
+            "length": 65.41324576667797,
+            "source": 32,
+            "target": 33
+        },
+        {
+            "length": 79.76494490241927,
+            "source": 26,
+            "target": 7
+        },
+        {
+            "length": 74.36357320098753,
+            "source": 33,
+            "target": 34
+        },
+        {
+            "length": 155.1654250427453,
+            "source": 12,
+            "target": 13
+        },
+        {
+            "length": 302.6001938517479,
+            "source": 20,
+            "target": 19
+        },
+        {
+            "length": 49.25628855799397,
+            "source": 7,
+            "target": 8
+        },
+        {
+            "length": 91.2904242025082,
+            "source": 14,
+            "target": 13
+        },
+        {
+            "length": 455.5023571894742,
+            "source": 13,
+            "target": 19
+        }
+    ]
+}

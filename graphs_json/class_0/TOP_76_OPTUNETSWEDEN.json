@@ -1,0 +1,354 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 59.27412,
+            "longitude": 15.2066,
+            "location": "Orebro",
+            "country": "Sweden",
+            "center_distance": 0.7544744309756266,
+            "id": 3
+        },
+        {
+            "latitude": 58.41667,
+            "longitude": 15.61667,
+            "location": "Linkoping",
+            "country": "Sweden",
+            "center_distance": 1.0102072069610193,
+            "id": 6
+        },
+        {
+            "latitude": 60.4858,
+            "longitude": 15.43714,
+            "location": "Borlaenge",
+            "country": "Sweden",
+            "center_distance": 1.2315556844722872,
+            "id": 24
+        },
+        {
+            "latitude": 59.8585,
+            "longitude": 17.64543,
+            "location": "Uppsala",
+            "country": "Sweden",
+            "center_distance": 1.7598756088587668,
+            "id": 25
+        },
+        {
+            "latitude": 60.67452,
+            "longitude": 17.14174,
+            "location": "Gavle",
+            "country": "Sweden",
+            "center_distance": 1.7645752637379957,
+            "id": 23
+        },
+        {
+            "latitude": 59.33258,
+            "longitude": 18.0649,
+            "location": "Stockholm",
+            "country": "Sweden",
+            "center_distance": 2.110055487354779,
+            "id": 17
+        },
+        {
+            "latitude": 58.39118,
+            "longitude": 13.84506,
+            "location": "Skoevde",
+            "country": "Sweden",
+            "center_distance": 2.325425319488025,
+            "id": 2
+        },
+        {
+            "latitude": 57.78145,
+            "longitude": 14.15618,
+            "location": "Jonkoping",
+            "country": "Sweden",
+            "center_distance": 2.3989518498827724,
+            "id": 9
+        },
+        {
+            "latitude": 59.3793,
+            "longitude": 13.50357,
+            "location": "Karlstad",
+            "country": "Sweden",
+            "center_distance": 2.4516038591615876,
+            "id": 4
+        },
+        {
+            "latitude": 56.66157,
+            "longitude": 16.36163,
+            "location": "Kalmar",
+            "country": "Sweden",
+            "center_distance": 2.737263121038237,
+            "id": 14
+        },
+        {
+            "latitude": 56.86667,
+            "longitude": 14.81667,
+            "location": "Vaexjoe",
+            "country": "Sweden",
+            "center_distance": 2.7486742260580783,
+            "id": 10
+        },
+        {
+            "latitude": 57.64089,
+            "longitude": 18.29602,
+            "location": "Visby",
+            "country": "Sweden",
+            "center_distance": 2.9093389946405335,
+            "id": 15
+        },
+        {
+            "latitude": 56.20999,
+            "longitude": 15.27602,
+            "location": "Ronneby",
+            "country": "Sweden",
+            "center_distance": 3.230681337571996,
+            "id": 13
+        },
+        {
+            "latitude": 62.39129,
+            "longitude": 17.3063,
+            "location": "Sundsvall",
+            "country": "Sweden",
+            "center_distance": 3.3110364594996566,
+            "id": 22
+        },
+        {
+            "latitude": 57.72101,
+            "longitude": 12.9401,
+            "location": "Boras",
+            "country": "Sweden",
+            "center_distance": 3.435796426329124,
+            "id": 7
+        },
+        {
+            "latitude": 56.03129,
+            "longitude": 14.15242,
+            "location": "Kristianstad",
+            "country": "Sweden",
+            "center_distance": 3.7929802591808954,
+            "id": 12
+        },
+        {
+            "latitude": 58.28365,
+            "longitude": 12.28864,
+            "location": "Trollhattan",
+            "country": "Sweden",
+            "center_distance": 3.823631832127144,
+            "id": 8
+        },
+        {
+            "latitude": 56.67446,
+            "longitude": 12.85676,
+            "location": "Halmstad",
+            "country": "Sweden",
+            "center_distance": 4.1058234137229945,
+            "id": 5
+        },
+        {
+            "latitude": 57.70716,
+            "longitude": 11.96679,
+            "location": "Goeteborg",
+            "country": "Sweden",
+            "center_distance": 4.320533870087812,
+            "id": 1
+        },
+        {
+            "latitude": 55.70584,
+            "longitude": 13.19321,
+            "location": "Lund",
+            "country": "Sweden",
+            "center_distance": 4.587294805692777,
+            "id": 11
+        },
+        {
+            "latitude": 55.60587,
+            "longitude": 13.00073,
+            "location": "Malmoe",
+            "country": "Sweden",
+            "center_distance": 4.783916977686373,
+            "id": 16
+        },
+        {
+            "latitude": 63.82842,
+            "longitude": 20.25972,
+            "location": "Umea",
+            "country": "Sweden",
+            "center_distance": 6.198415282069772,
+            "id": 21
+        },
+        {
+            "latitude": 65.58415,
+            "longitude": 22.15465,
+            "location": "Lulea",
+            "country": "Sweden",
+            "center_distance": 8.77885551046126,
+            "id": 20
+        },
+        {
+            "latitude": 67.85572,
+            "longitude": 20.22513,
+            "location": "Kiruna",
+            "country": "Sweden",
+            "center_distance": 9.500837022078432,
+            "id": 19
+        },
+        {
+            "latitude": 65.85,
+            "longitude": 23.16667,
+            "location": "Kalix",
+            "country": "Sweden",
+            "center_distance": 9.696188445397295,
+            "id": 18
+        }
+    ],
+    "links": [
+        {
+            "length": 188.4095708659947,
+            "source": 3,
+            "target": 2
+        },
+        {
+            "length": 203.0177338605977,
+            "source": 3,
+            "target": 24
+        },
+        {
+            "length": 145.9610522942691,
+            "source": 3,
+            "target": 4
+        },
+        {
+            "length": 1253.714379773383,
+            "source": 3,
+            "target": 18
+        },
+        {
+            "length": 260.5348643627447,
+            "source": 6,
+            "target": 17
+        },
+        {
+            "length": 166.7174780120039,
+            "source": 6,
+            "target": 9
+        },
+        {
+            "length": 143.1556159924878,
+            "source": 24,
+            "target": 23
+        },
+        {
+            "length": 94.59605471963164,
+            "source": 25,
+            "target": 17
+        },
+        {
+            "length": 142.339911379905,
+            "source": 25,
+            "target": 23
+        },
+        {
+            "length": 286.6426397341182,
+            "source": 23,
+            "target": 22
+        },
+        {
+            "length": 282.8790813503142,
+            "source": 17,
+            "target": 15
+        },
+        {
+            "length": 1154.573279465749,
+            "source": 17,
+            "target": 18
+        },
+        {
+            "length": 137.3740662255246,
+            "source": 2,
+            "target": 7
+        },
+        {
+            "length": 137.4396981416263,
+            "source": 2,
+            "target": 8
+        },
+        {
+            "length": 163.7588213038351,
+            "source": 9,
+            "target": 10
+        },
+        {
+            "length": 210.694581270405,
+            "source": 4,
+            "target": 8
+        },
+        {
+            "length": 145.3156585583322,
+            "source": 14,
+            "target": 10
+        },
+        {
+            "length": 125.2771429335356,
+            "source": 14,
+            "target": 13
+        },
+        {
+            "length": 245.0906239697914,
+            "source": 10,
+            "target": 11
+        },
+        {
+            "length": 108.6370977105624,
+            "source": 13,
+            "target": 12
+        },
+        {
+            "length": 327.1913618719075,
+            "source": 22,
+            "target": 21
+        },
+        {
+            "length": 86.74341799687855,
+            "source": 7,
+            "target": 1
+        },
+        {
+            "length": 129.1553528994795,
+            "source": 12,
+            "target": 16
+        },
+        {
+            "length": 100.2746698658031,
+            "source": 8,
+            "target": 1
+        },
+        {
+            "length": 190.0960808400053,
+            "source": 5,
+            "target": 1
+        },
+        {
+            "length": 164.5478734830161,
+            "source": 5,
+            "target": 11
+        },
+        {
+            "length": 24.6185530101705,
+            "source": 11,
+            "target": 16
+        },
+        {
+            "length": 322.4443218961811,
+            "source": 21,
+            "target": 20
+        },
+        {
+            "length": 399.6140407572479,
+            "source": 20,
+            "target": 19
+        }
+    ]
+}

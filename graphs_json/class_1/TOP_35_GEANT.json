@@ -1,0 +1,365 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 46.2038,
+            "longitude": 6.1399,
+            "location": "Geneve",
+            "country": "Switzerland",
+            "center_distance": 0.8929884507938796,
+            "id": 3
+        },
+        {
+            "latitude": 49.6112,
+            "longitude": 6.1296,
+            "location": "Luxembourg",
+            "country": "Luxembourg",
+            "center_distance": 2.5431928360333154,
+            "id": 14
+        },
+        {
+            "latitude": 45.4642,
+            "longitude": 9.19,
+            "location": "Milano",
+            "country": "Italy",
+            "center_distance": 3.2817389820554266,
+            "id": 13
+        },
+        {
+            "latitude": 50.1122,
+            "longitude": 8.6842,
+            "location": "Frankfurt am Main",
+            "country": "Germany",
+            "center_distance": 3.8411250084715736,
+            "id": 5
+        },
+        {
+            "latitude": 50.8469,
+            "longitude": 4.3518,
+            "location": "Brussels",
+            "country": "Belgium",
+            "center_distance": 4.258892156650416,
+            "id": 2
+        },
+        {
+            "latitude": 48.8566,
+            "longitude": 2.351,
+            "location": "Paris",
+            "country": "France",
+            "center_distance": 4.360470094233619,
+            "id": 7
+        },
+        {
+            "latitude": 52.3236,
+            "longitude": 4.9407,
+            "location": "Duivendrecht",
+            "country": "Netherlands (Kingdom of the)",
+            "center_distance": 5.428719451531176,
+            "id": 15
+        },
+        {
+            "latitude": 51.5086,
+            "longitude": -0.1264,
+            "location": "London",
+            "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+            "center_distance": 7.832647717864008,
+            "id": 22
+        },
+        {
+            "latitude": 46.0574,
+            "longitude": 14.5148,
+            "location": "Ljubljana",
+            "country": "Slovenia",
+            "center_distance": 8.246594880983874,
+            "id": 20
+        },
+        {
+            "latitude": 50.0785,
+            "longitude": 14.4423,
+            "location": "Karlin",
+            "country": "Czechia",
+            "center_distance": 8.64883007685676,
+            "id": 4
+        },
+        {
+            "latitude": 45.8071,
+            "longitude": 15.9644,
+            "location": "Zagreb - Centar",
+            "country": "Croatia",
+            "center_distance": 9.716258388559417,
+            "id": 9
+        },
+        {
+            "latitude": 48.2091,
+            "longitude": 16.3729,
+            "location": "Vienna",
+            "country": "Austria",
+            "center_distance": 10.105268153276038,
+            "id": 1
+        },
+        {
+            "latitude": 48.1531,
+            "longitude": 17.1297,
+            "location": "Bratislava",
+            "country": "Slovakia",
+            "center_distance": 10.851926147328383,
+            "id": 21
+        },
+        {
+            "latitude": 52.3963,
+            "longitude": 16.8874,
+            "location": "Poznan",
+            "country": "Poland",
+            "center_distance": 11.820972393111562,
+            "id": 17
+        },
+        {
+            "latitude": 40.4167,
+            "longitude": -3.7033,
+            "location": "Madrid",
+            "country": "Spain",
+            "center_distance": 12.043293808882582,
+            "id": 6
+        },
+        {
+            "latitude": 47.4976,
+            "longitude": 19.0936,
+            "location": "Budapest VIII. keruelet",
+            "country": "Hungary",
+            "center_distance": 12.769203844668853,
+            "id": 10
+        },
+        {
+            "latitude": 53.3416,
+            "longitude": -6.2573,
+            "location": "Dublin",
+            "country": "Ireland",
+            "center_distance": 14.061712217603716,
+            "id": 11
+        },
+        {
+            "latitude": 59.3617,
+            "longitude": 17.8742,
+            "location": "Bromma",
+            "country": "Sweden",
+            "center_distance": 16.857493416168374,
+            "id": 19
+        },
+        {
+            "latitude": 38.7073,
+            "longitude": -9.1363,
+            "location": "Lisbon",
+            "country": "Portugal",
+            "center_distance": 17.586470413147836,
+            "id": 18
+        },
+        {
+            "latitude": 37.9778,
+            "longitude": 23.5808,
+            "location": "Perama",
+            "country": "Greece",
+            "center_distance": 19.501818663820156,
+            "id": 8
+        },
+        {
+            "latitude": 32.0714,
+            "longitude": 34.8097,
+            "location": "Giv`atayim",
+            "country": "Israel",
+            "center_distance": 32.18935705601771,
+            "id": 12
+        },
+        {
+            "latitude": 40.6698,
+            "longitude": -73.94384,
+            "location": "Brooklyn",
+            "country": "United States of America (the)",
+            "center_distance": 80.53041032309909,
+            "id": 16
+        }
+    ],
+    "links": [
+        {
+            "length": 1205.741718697376,
+            "source": 3,
+            "target": 1
+        },
+        {
+            "length": 614.5443962857513,
+            "source": 3,
+            "target": 7
+        },
+        {
+            "length": 375.2774972722834,
+            "source": 3,
+            "target": 13
+        },
+        {
+            "length": 280.095250485013,
+            "source": 14,
+            "target": 2
+        },
+        {
+            "length": 430.2917638658975,
+            "source": 14,
+            "target": 7
+        },
+        {
+            "length": 777.315099448178,
+            "source": 13,
+            "target": 5
+        },
+        {
+            "length": 1500.0,
+            "source": 13,
+            "target": 6
+        },
+        {
+            "length": 1815.420595779476,
+            "source": 13,
+            "target": 8
+        },
+        {
+            "length": 3319.590434051195,
+            "source": 13,
+            "target": 12
+        },
+        {
+            "length": 896.1689368748143,
+            "source": 5,
+            "target": 1
+        },
+        {
+            "length": 615.985650719161,
+            "source": 5,
+            "target": 4
+        },
+        {
+            "length": 717.2335947676761,
+            "source": 5,
+            "target": 7
+        },
+        {
+            "length": 2240.980605010167,
+            "source": 5,
+            "target": 8
+        },
+        {
+            "length": 1500.0,
+            "source": 5,
+            "target": 11
+        },
+        {
+            "length": 537.4556978209507,
+            "source": 5,
+            "target": 15
+        },
+        {
+            "length": 1500.0,
+            "source": 5,
+            "target": 19
+        },
+        {
+            "length": 395.5671921820349,
+            "source": 2,
+            "target": 7
+        },
+        {
+            "length": 253.748818411639,
+            "source": 2,
+            "target": 15
+        },
+        {
+            "length": 1500.0,
+            "source": 7,
+            "target": 6
+        },
+        {
+            "length": 515.36158679831,
+            "source": 7,
+            "target": 22
+        },
+        {
+            "length": 4116.059850695134,
+            "source": 15,
+            "target": 12
+        },
+        {
+            "length": 538.6083143873095,
+            "source": 15,
+            "target": 22
+        },
+        {
+            "length": 694.1747825761532,
+            "source": 22,
+            "target": 11
+        },
+        {
+            "length": 6961.479107534074,
+            "source": 22,
+            "target": 16
+        },
+        {
+            "length": 1983.225004686776,
+            "source": 22,
+            "target": 18
+        },
+        {
+            "length": 1781.016899491856,
+            "source": 22,
+            "target": 19
+        },
+        {
+            "length": 416.2042271506733,
+            "source": 20,
+            "target": 1
+        },
+        {
+            "length": 173.2635674625123,
+            "source": 20,
+            "target": 9
+        },
+        {
+            "length": 463.2422772840073,
+            "source": 4,
+            "target": 17
+        },
+        {
+            "length": 434.9231408588021,
+            "source": 4,
+            "target": 21
+        },
+        {
+            "length": 455.8481192958354,
+            "source": 9,
+            "target": 10
+        },
+        {
+            "length": 326.792609366545,
+            "source": 1,
+            "target": 10
+        },
+        {
+            "length": 8494.167120778287,
+            "source": 1,
+            "target": 16
+        },
+        {
+            "length": 245.5911295353906,
+            "source": 21,
+            "target": 10
+        },
+        {
+            "length": 1165.404461338919,
+            "source": 17,
+            "target": 19
+        },
+        {
+            "length": 754.3780747471078,
+            "source": 6,
+            "target": 18
+        }
+    ]
+}

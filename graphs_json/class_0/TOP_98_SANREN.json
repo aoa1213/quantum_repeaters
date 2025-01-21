@@ -1,0 +1,100 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": -29.13,
+            "longitude": 26.2,
+            "location": "Bloemfontein",
+            "country": "South Africa",
+            "center_distance": 1.165560213907844,
+            "id": 4
+        },
+        {
+            "latitude": -33.02,
+            "longitude": 27.91,
+            "location": "East London",
+            "country": "South Africa",
+            "center_distance": 3.1071878486069413,
+            "id": 5
+        },
+        {
+            "latitude": -33.97,
+            "longitude": 25.58,
+            "location": "Port Elizabeth",
+            "country": "South Africa",
+            "center_distance": 3.816215670113041,
+            "id": 6
+        },
+        {
+            "latitude": -26.2,
+            "longitude": 28.04,
+            "location": "Johannesburg",
+            "country": "South Africa",
+            "center_distance": 4.350724312205535,
+            "id": 1
+        },
+        {
+            "latitude": -29.85,
+            "longitude": 31.02,
+            "location": "Durban",
+            "country": "South Africa",
+            "center_distance": 4.55860433349811,
+            "id": 3
+        },
+        {
+            "latitude": -25.74,
+            "longitude": 28.19,
+            "location": "Pretoria",
+            "country": "South Africa",
+            "center_distance": 4.833985552991509,
+            "id": 2
+        },
+        {
+            "latitude": -33.92,
+            "longitude": 18.42,
+            "location": "Cape Town",
+            "country": "South Africa",
+            "center_distance": 8.851482638403533,
+            "id": 7
+        }
+    ],
+    "links": [
+        {
+            "length": 559.1786021926544,
+            "source": 4,
+            "target": 1
+        },
+        {
+            "length": 1363.739306447085,
+            "source": 4,
+            "target": 7
+        },
+        {
+            "length": 689.4391493981935,
+            "source": 5,
+            "target": 3
+        },
+        {
+            "length": 360.7364115689852,
+            "source": 5,
+            "target": 6
+        },
+        {
+            "length": 990.5388718653302,
+            "source": 6,
+            "target": 7
+        },
+        {
+            "length": 79.95347697325593,
+            "source": 1,
+            "target": 2
+        },
+        {
+            "length": 802.5869299607084,
+            "source": 3,
+            "target": 2
+        }
+    ]
+}

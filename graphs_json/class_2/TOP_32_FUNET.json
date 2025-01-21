@@ -1,0 +1,336 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 62.23,
+            "longitude": 25.73,
+            "location": "Jyvaeskylae",
+            "country": "Finland",
+            "center_distance": 0.6112096669265367,
+            "id": 4
+        },
+        {
+            "latitude": 60.98,
+            "longitude": 25.66,
+            "location": "Lahti",
+            "country": "Finland",
+            "center_distance": 1.5063097037499067,
+            "id": 2
+        },
+        {
+            "latitude": 61.0,
+            "longitude": 24.46,
+            "location": "Haemeenlinna",
+            "country": "Finland",
+            "center_distance": 1.5517094628004475,
+            "id": 8
+        },
+        {
+            "latitude": 61.5,
+            "longitude": 23.79,
+            "location": "Tampere",
+            "country": "Finland",
+            "center_distance": 1.6203118805581183,
+            "id": 7
+        },
+        {
+            "latitude": 60.87,
+            "longitude": 26.7,
+            "location": "Kouvola",
+            "country": "Finland",
+            "center_distance": 2.180088436343305,
+            "id": 1
+        },
+        {
+            "latitude": 60.17,
+            "longitude": 24.94,
+            "location": "Helsinki",
+            "country": "Finland",
+            "center_distance": 2.2332529914031505,
+            "id": 12
+        },
+        {
+            "latitude": 60.21,
+            "longitude": 24.65,
+            "location": "Espoo",
+            "country": "Finland",
+            "center_distance": 2.238729682270236,
+            "id": 13
+        },
+        {
+            "latitude": 61.69,
+            "longitude": 27.27,
+            "location": "Mikkeli",
+            "country": "Finland",
+            "center_distance": 2.2421925111248706,
+            "id": 3
+        },
+        {
+            "latitude": 62.8,
+            "longitude": 22.83,
+            "location": "Seinaejoki",
+            "country": "Finland",
+            "center_distance": 2.3466097368212813,
+            "id": 5
+        },
+        {
+            "latitude": 63.84,
+            "longitude": 23.13,
+            "location": "Kokkola",
+            "country": "Finland",
+            "center_distance": 2.4770063767131845,
+            "id": 22
+        },
+        {
+            "latitude": 62.89,
+            "longitude": 27.68,
+            "location": "Kuopio",
+            "country": "Finland",
+            "center_distance": 2.5867165010770785,
+            "id": 24
+        },
+        {
+            "latitude": 60.47,
+            "longitude": 26.92,
+            "location": "Kotka",
+            "country": "Finland",
+            "center_distance": 2.6203757218405035,
+            "id": 11
+        },
+        {
+            "latitude": 65.01,
+            "longitude": 25.47,
+            "location": "Oulu",
+            "country": "Finland",
+            "center_distance": 2.636410550403291,
+            "id": 17
+        },
+        {
+            "latitude": 65.18,
+            "longitude": 25.35,
+            "location": "Haukipudas",
+            "country": "Finland",
+            "center_distance": 2.793643485416693,
+            "id": 18
+        },
+        {
+            "latitude": 60.38,
+            "longitude": 23.13,
+            "location": "Salo",
+            "country": "Finland",
+            "center_distance": 2.84640016926839,
+            "id": 14
+        },
+        {
+            "latitude": 61.06,
+            "longitude": 28.19,
+            "location": "Lappeenranta",
+            "country": "Finland",
+            "center_distance": 3.3278938169575754,
+            "id": 16
+        },
+        {
+            "latitude": 60.45,
+            "longitude": 22.27,
+            "location": "Turku",
+            "country": "Finland",
+            "center_distance": 3.4675438844054707,
+            "id": 10
+        },
+        {
+            "latitude": 61.48,
+            "longitude": 21.78,
+            "location": "Pori",
+            "country": "Finland",
+            "center_distance": 3.4833464164427355,
+            "id": 6
+        },
+        {
+            "latitude": 63.1,
+            "longitude": 21.62,
+            "location": "Vaasa",
+            "country": "Finland",
+            "center_distance": 3.591295345268115,
+            "id": 23
+        },
+        {
+            "latitude": 64.5,
+            "longitude": 28.22,
+            "location": "Ristijaervi",
+            "country": "Finland",
+            "center_distance": 3.7300449850206574,
+            "id": 21
+        },
+        {
+            "latitude": 61.13,
+            "longitude": 21.51,
+            "location": "Rauma",
+            "country": "Finland",
+            "center_distance": 3.845008962747824,
+            "id": 9
+        },
+        {
+            "latitude": 66.5,
+            "longitude": 25.72,
+            "location": "Rovaniemi",
+            "country": "Finland",
+            "center_distance": 4.146422424646466,
+            "id": 19
+        },
+        {
+            "latitude": 62.6,
+            "longitude": 29.77,
+            "location": "Joensuu",
+            "country": "Finland",
+            "center_distance": 4.633324284313706,
+            "id": 15
+        },
+        {
+            "latitude": 67.42,
+            "longitude": 26.6,
+            "location": "Sodankylae",
+            "country": "Finland",
+            "center_distance": 5.233254461321791,
+            "id": 20
+        }
+    ],
+    "links": [
+        {
+            "length": 150.6323530292557,
+            "source": 4,
+            "target": 3
+        },
+        {
+            "length": 195.195695505043,
+            "source": 4,
+            "target": 7
+        },
+        {
+            "length": 86.26813317125257,
+            "source": 2,
+            "target": 1
+        },
+        {
+            "length": 147.4201259926803,
+            "source": 2,
+            "target": 12
+        },
+        {
+            "length": 99.2162348130858,
+            "source": 8,
+            "target": 7
+        },
+        {
+            "length": 132.6807485603897,
+            "source": 8,
+            "target": 13
+        },
+        {
+            "length": 69.09568740311218,
+            "source": 1,
+            "target": 11
+        },
+        {
+            "length": 144.1965983644955,
+            "source": 1,
+            "target": 3
+        },
+        {
+            "length": 124.7085175355978,
+            "source": 1,
+            "target": 16
+        },
+        {
+            "length": 24.95422619798337,
+            "source": 12,
+            "target": 13
+        },
+        {
+            "length": 128.787008362161,
+            "source": 13,
+            "target": 14
+        },
+        {
+            "length": 202.6600285101637,
+            "source": 3,
+            "target": 24
+        },
+        {
+            "length": 104.5322038934294,
+            "source": 5,
+            "target": 23
+        },
+        {
+            "length": 234.8775019654867,
+            "source": 5,
+            "target": 6
+        },
+        {
+            "length": 257.7850438447481,
+            "source": 22,
+            "target": 17
+        },
+        {
+            "length": 166.9925127743007,
+            "source": 22,
+            "target": 23
+        },
+        {
+            "length": 166.7983713185157,
+            "source": 24,
+            "target": 15
+        },
+        {
+            "length": 271.4832163981253,
+            "source": 24,
+            "target": 21
+        },
+        {
+            "length": 29.58091876383459,
+            "source": 17,
+            "target": 18
+        },
+        {
+            "length": 213.2936479072919,
+            "source": 17,
+            "target": 21
+        },
+        {
+            "length": 221.6090728913921,
+            "source": 18,
+            "target": 19
+        },
+        {
+            "length": 71.77452056803335,
+            "source": 14,
+            "target": 10
+        },
+        {
+            "length": 285.3835358247076,
+            "source": 16,
+            "target": 15
+        },
+        {
+            "length": 129.1903800084547,
+            "source": 10,
+            "target": 9
+        },
+        {
+            "length": 62.2530885907188,
+            "source": 6,
+            "target": 9
+        },
+        {
+            "length": 375.6714421259598,
+            "source": 21,
+            "target": 19
+        },
+        {
+            "length": 163.8450341129229,
+            "source": 19,
+            "target": 20
+        }
+    ]
+}

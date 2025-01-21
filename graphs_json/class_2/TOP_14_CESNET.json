@@ -1,0 +1,200 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 50.03,
+            "longitude": 15.77,
+            "location": "Pardubice",
+            "country": "Czech Republic",
+            "center_distance": 0.24324110752444894,
+            "id": 5
+        },
+        {
+            "latitude": 49.400277777778,
+            "longitude": 15.590555555556,
+            "location": "Jihlava",
+            "country": "Czech Republic",
+            "center_distance": 0.4134459402943908,
+            "id": 8
+        },
+        {
+            "latitude": 50.29,
+            "longitude": 15.83,
+            "location": "Hradec Kr\u00e1lov\u00e9",
+            "country": "Czech Republic",
+            "center_distance": 0.5086442904107604,
+            "id": 4
+        },
+        {
+            "latitude": 49.195277777778,
+            "longitude": 16.608333333333,
+            "location": "Brno",
+            "country": "Czech Republic",
+            "center_distance": 1.1095857211139943,
+            "id": 9
+        },
+        {
+            "latitude": 50.76,
+            "longitude": 15.05,
+            "location": "Liberec",
+            "country": "Czech Republic",
+            "center_distance": 1.1453484975473849,
+            "id": 2
+        },
+        {
+            "latitude": 50.09,
+            "longitude": 14.42,
+            "location": "Prague",
+            "country": "Czech Republic",
+            "center_distance": 1.2925876771253664,
+            "id": 3
+        },
+        {
+            "latitude": 48.974722222222,
+            "longitude": 14.474722222222,
+            "location": "\u010cesk\u00e9 Bud\u011bjovice",
+            "country": "Czech Republic",
+            "center_distance": 1.4633265468049645,
+            "id": 7
+        },
+        {
+            "latitude": 49.59,
+            "longitude": 17.25,
+            "location": "Olomouc",
+            "country": "Czech Republic",
+            "center_distance": 1.5839886174128623,
+            "id": 12
+        },
+        {
+            "latitude": 50.5,
+            "longitude": 13.85,
+            "location": "Chomutov",
+            "country": "Czech Republic",
+            "center_distance": 1.9584257744850573,
+            "id": 1
+        },
+        {
+            "latitude": 49.23,
+            "longitude": 17.66,
+            "location": "Krom\u011b\u0159\u00ed\u017e",
+            "country": "Czech Republic",
+            "center_distance": 2.0609833447898067,
+            "id": 10
+        },
+        {
+            "latitude": 49.75,
+            "longitude": 13.37,
+            "location": "Plze\u0148",
+            "country": "Czech Republic",
+            "center_distance": 2.3111359911790212,
+            "id": 6
+        },
+        {
+            "latitude": 49.835555555556,
+            "longitude": 18.2925,
+            "location": "Ostrava",
+            "country": "Czech Republic",
+            "center_distance": 2.6121835330741803,
+            "id": 11
+        }
+    ],
+    "links": [
+        {
+            "length": 43.84,
+            "source": 5,
+            "target": 4
+        },
+        {
+            "length": 176.41,
+            "source": 5,
+            "target": 3
+        },
+        {
+            "length": 211.34,
+            "source": 8,
+            "target": 9
+        },
+        {
+            "length": 119.66,
+            "source": 8,
+            "target": 7
+        },
+        {
+            "length": 154.22,
+            "source": 4,
+            "target": 2
+        },
+        {
+            "length": 144.9,
+            "source": 4,
+            "target": 3
+        },
+        {
+            "length": 192.0,
+            "source": 4,
+            "target": 12
+        },
+        {
+            "length": 235.95,
+            "source": 9,
+            "target": 12
+        },
+        {
+            "length": 95.85,
+            "source": 9,
+            "target": 10
+        },
+        {
+            "length": 114.74,
+            "source": 9,
+            "target": 11
+        },
+        {
+            "length": 74.73,
+            "source": 9,
+            "target": 7
+        },
+        {
+            "length": 134.16,
+            "source": 2,
+            "target": 1
+        },
+        {
+            "length": 130.27,
+            "source": 2,
+            "target": 3
+        },
+        {
+            "length": 91.46,
+            "source": 3,
+            "target": 1
+        },
+        {
+            "length": 113.96,
+            "source": 3,
+            "target": 6
+        },
+        {
+            "length": 126.22,
+            "source": 3,
+            "target": 7
+        },
+        {
+            "length": 186.12,
+            "source": 7,
+            "target": 6
+        },
+        {
+            "length": 140.84,
+            "source": 12,
+            "target": 10
+        },
+        {
+            "length": 115.85,
+            "source": 12,
+            "target": 11
+        }
+    ]
+}

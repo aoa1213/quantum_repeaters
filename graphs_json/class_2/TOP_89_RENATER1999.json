@@ -1,0 +1,316 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 45.78,
+            "longitude": 3.08,
+            "location": "Clermont-Ferrand",
+            "country": "France",
+            "center_distance": 0.9996343949720331,
+            "id": 8
+        },
+        {
+            "latitude": 47.92,
+            "longitude": 1.9,
+            "location": "Orleans",
+            "country": "France",
+            "center_distance": 1.794961166788237,
+            "id": 3
+        },
+        {
+            "latitude": 47.32,
+            "longitude": 5.02,
+            "location": "Dijon",
+            "country": "France",
+            "center_distance": 1.8362422471661466,
+            "id": 5
+        },
+        {
+            "latitude": 45.75,
+            "longitude": 4.85,
+            "location": "Lyon",
+            "country": "France",
+            "center_distance": 1.8752050350857912,
+            "id": 11
+        },
+        {
+            "latitude": 45.83,
+            "longitude": 1.26,
+            "location": "Limoges",
+            "country": "France",
+            "center_distance": 2.2160047962367866,
+            "id": 4
+        },
+        {
+            "latitude": 48.85,
+            "longitude": 2.35,
+            "location": "Paris",
+            "country": "France",
+            "center_distance": 2.2827199982209376,
+            "id": 12
+        },
+        {
+            "latitude": 49.25,
+            "longitude": 4.03,
+            "location": "Reims",
+            "country": "France",
+            "center_distance": 2.601962834146136,
+            "id": 19
+        },
+        {
+            "latitude": 49.42,
+            "longitude": 2.83,
+            "location": "Compiegne",
+            "country": "France",
+            "center_distance": 2.6950483465566633,
+            "id": 20
+        },
+        {
+            "latitude": 47.25,
+            "longitude": 6.03,
+            "location": "Besancon",
+            "country": "France",
+            "center_distance": 2.802120136065627,
+            "id": 6
+        },
+        {
+            "latitude": 45.17,
+            "longitude": 5.72,
+            "location": "Grenoble",
+            "country": "France",
+            "center_distance": 2.9207009301897195,
+            "id": 9
+        },
+        {
+            "latitude": 46.58,
+            "longitude": 0.33,
+            "location": "Poitiers",
+            "country": "France",
+            "center_distance": 2.9464134565509377,
+            "id": 16
+        },
+        {
+            "latitude": 43.6,
+            "longitude": 3.88,
+            "location": "Montpellier",
+            "country": "France",
+            "center_distance": 3.219407645868685,
+            "id": 7
+        },
+        {
+            "latitude": 49.44,
+            "longitude": 1.1,
+            "location": "Rouen",
+            "country": "France",
+            "center_distance": 3.44792965757875,
+            "id": 22
+        },
+        {
+            "latitude": 48.68,
+            "longitude": 6.2,
+            "location": "Jarville-la-Malgrange",
+            "country": "France",
+            "center_distance": 3.501659452832488,
+            "id": 18
+        },
+        {
+            "latitude": 43.6,
+            "longitude": 1.44,
+            "location": "Toulouse",
+            "country": "France",
+            "center_distance": 3.6531427917540285,
+            "id": 2
+        },
+        {
+            "latitude": 50.63,
+            "longitude": 3.07,
+            "location": "Lille",
+            "country": "France",
+            "center_distance": 3.873959291252016,
+            "id": 21
+        },
+        {
+            "latitude": 43.3,
+            "longitude": 5.4,
+            "location": "Marseille 04",
+            "country": "France",
+            "center_distance": 4.063693179479037,
+            "id": 14
+        },
+        {
+            "latitude": 44.83,
+            "longitude": -0.57,
+            "location": "Bordeaux",
+            "country": "France",
+            "center_distance": 4.299037945511116,
+            "id": 1
+        },
+        {
+            "latitude": 49.19,
+            "longitude": -0.36,
+            "location": "Caen",
+            "country": "France",
+            "center_distance": 4.368269366344577,
+            "id": 23
+        },
+        {
+            "latitude": 48.58,
+            "longitude": 7.75,
+            "location": "Strasbourg",
+            "country": "France",
+            "center_distance": 4.834334037928882,
+            "id": 17
+        },
+        {
+            "latitude": 47.22,
+            "longitude": -1.55,
+            "location": "Nantes",
+            "country": "France",
+            "center_distance": 4.842611443248135,
+            "id": 15
+        },
+        {
+            "latitude": 43.7,
+            "longitude": 7.27,
+            "location": "Nice",
+            "country": "France",
+            "center_distance": 5.036326596863804,
+            "id": 10
+        },
+        {
+            "latitude": 48.08,
+            "longitude": -1.68,
+            "location": "Rennes",
+            "country": "France",
+            "center_distance": 5.123460964713643,
+            "id": 24
+        },
+        {
+            "latitude": 42.3,
+            "longitude": 9.15,
+            "location": "Corte",
+            "country": "France",
+            "center_distance": 7.380200014697734,
+            "id": 13
+        }
+    ],
+    "links": [
+        {
+            "length": 206.0046605848057,
+            "source": 8,
+            "target": 11
+        },
+        {
+            "length": 162.9284693466608,
+            "source": 3,
+            "target": 12
+        },
+        {
+            "length": 285.5552568765627,
+            "source": 3,
+            "target": 16
+        },
+        {
+            "length": 391.9101437019439,
+            "source": 5,
+            "target": 12
+        },
+        {
+            "length": 114.8694624115643,
+            "source": 5,
+            "target": 6
+        },
+        {
+            "length": 140.4186699208927,
+            "source": 11,
+            "target": 9
+        },
+        {
+            "length": 589.2508599924295,
+            "source": 11,
+            "target": 12
+        },
+        {
+            "length": 413.8389675135418,
+            "source": 11,
+            "target": 14
+        },
+        {
+            "length": 164.8408021406742,
+            "source": 4,
+            "target": 16
+        },
+        {
+            "length": 881.9148496472068,
+            "source": 12,
+            "target": 2
+        },
+        {
+            "length": 424.175933883086,
+            "source": 12,
+            "target": 18
+        },
+        {
+            "length": 195.388303552465,
+            "source": 12,
+            "target": 19
+        },
+        {
+            "length": 108.5465409911054,
+            "source": 12,
+            "target": 20
+        },
+        {
+            "length": 306.8625058255422,
+            "source": 12,
+            "target": 21
+        },
+        {
+            "length": 168.1761860997829,
+            "source": 12,
+            "target": 22
+        },
+        {
+            "length": 463.7727051434647,
+            "source": 12,
+            "target": 24
+        },
+        {
+            "length": 310.1353076025006,
+            "source": 16,
+            "target": 1
+        },
+        {
+            "length": 294.7081152484741,
+            "source": 7,
+            "target": 2
+        },
+        {
+            "length": 164.130662797804,
+            "source": 22,
+            "target": 23
+        },
+        {
+            "length": 171.6753296158936,
+            "source": 18,
+            "target": 17
+        },
+        {
+            "length": 235.8713173227889,
+            "source": 14,
+            "target": 10
+        },
+        {
+            "length": 144.1831991731319,
+            "source": 15,
+            "target": 24
+        },
+        {
+            "length": 327.2726517839708,
+            "source": 10,
+            "target": 13
+        }
+    ]
+}

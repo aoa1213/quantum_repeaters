@@ -1,0 +1,92 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 41.85,
+            "longitude": -87.65,
+            "location": "Chicago",
+            "country": "United States of America (the)",
+            "center_distance": 12.74577075826416,
+            "id": 4
+        },
+        {
+            "latitude": 34.05,
+            "longitude": -118.24,
+            "location": "Los Angeles",
+            "country": "United States of America (the)",
+            "center_distance": 18.96553203987581,
+            "id": 3
+        },
+        {
+            "latitude": 37.77,
+            "longitude": -122.42,
+            "location": "San Francisco",
+            "country": "United States of America (the)",
+            "center_distance": 22.26571966549078,
+            "id": 2
+        },
+        {
+            "latitude": 38.9,
+            "longitude": -77.04,
+            "location": "Washington, D.C.",
+            "country": "United States of America (the)",
+            "center_distance": 23.27516714345043,
+            "id": 6
+        },
+        {
+            "latitude": 47.61,
+            "longitude": -122.33,
+            "location": "Seattle",
+            "country": "United States of America (the)",
+            "center_distance": 23.27671523695349,
+            "id": 1
+        },
+        {
+            "latitude": 40.71,
+            "longitude": -74.01,
+            "location": "New York City",
+            "country": "United States of America (the)",
+            "center_distance": 26.277669966891814,
+            "id": 5
+        }
+    ],
+    "links": [
+        {
+            "length": 3729.536934968901,
+            "source": 4,
+            "target": 2
+        },
+        {
+            "length": 1500.0,
+            "source": 4,
+            "target": 5
+        },
+        {
+            "length": 1433.948068913156,
+            "source": 4,
+            "target": 6
+        },
+        {
+            "length": 838.7553033988663,
+            "source": 3,
+            "target": 2
+        },
+        {
+            "length": 1500.0,
+            "source": 2,
+            "target": 1
+        },
+        {
+            "length": 4898.330764100102,
+            "source": 2,
+            "target": 6
+        },
+        {
+            "length": 491.7553096743694,
+            "source": 6,
+            "target": 5
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "latitude": 44.02,
+            "longitude": 20.92,
+            "location": "Kragujevac",
+            "country": "Serbia",
+            "center_distance": 0.32249461666480517,
+            "id": 3
+        },
+        {
+            "latitude": 43.58,
+            "longitude": 21.33,
+            "location": "Krusevac",
+            "country": "Serbia",
+            "center_distance": 0.7794674107648375,
+            "id": 5
+        },
+        {
+            "latitude": 44.8,
+            "longitude": 20.47,
+            "location": "Belgrade",
+            "country": "Serbia",
+            "center_distance": 0.9107704308868282,
+            "id": 2
+        },
+        {
+            "latitude": 43.32,
+            "longitude": 21.9,
+            "location": "Nis",
+            "country": "Serbia",
+            "center_distance": 1.405964477186782,
+            "id": 4
+        },
+        {
+            "latitude": 45.25,
+            "longitude": 19.84,
+            "location": "Novi Sad",
+            "country": "Serbia",
+            "center_distance": 1.5576914899227599,
+            "id": 1
+        },
+        {
+            "latitude": 42.44,
+            "longitude": 19.26,
+            "location": "Podgorica",
+            "country": "Montenegro",
+            "center_distance": 1.9965143236261644,
+            "id": 6
+        }
+    ],
+    "links": [
+        {
+            "length": 140.7127501064379,
+            "source": 3,
+            "target": 2
+        },
+        {
+            "length": 166.162096751931,
+            "source": 3,
+            "target": 4
+        },
+        {
+            "length": 81.5124068971401,
+            "source": 5,
+            "target": 4
+        },
+        {
+            "length": 316.0425249015269,
+            "source": 5,
+            "target": 6
+        },
+        {
+            "length": 105.5904827819614,
+            "source": 2,
+            "target": 1
+        },
+        {
+            "length": 473.8473643351294,
+            "source": 1,
+            "target": 6
+        }
+    ]
+}
