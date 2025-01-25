@@ -370,8 +370,8 @@ for subfolder in root_path.iterdir():
                             protocol_name = funcs[idx].__name__
                             failure_counts[protocol_name] += 1
                     
-                    er_output_path = er_topology_folder_path.joinpath(f'result_{combo_idx}')
-                    plot_er_vs_p(p_range, ER, funcs, cols, er_output_path)
+                    # er_output_path = er_topology_folder_path.joinpath(f'result_{combo_idx}')
+                    # plot_er_vs_p(p_range, ER, funcs, cols, er_output_path)
         
         # 计算每个协议的 SR
         sr_for_protocols = {}
