@@ -56,7 +56,7 @@ def run_entanglement_step(G, used_nodes, nodes=False):
 
             if node["age"] >= node["Qc"]:
                 node["entangled"] = False
-                edge["age"] = 0
+                node["age"] = 0
             #   If the exsist time exceed the quantum capacity then the entagled ends
 
         for path in used_nodes:
