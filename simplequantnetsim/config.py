@@ -6,6 +6,6 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent  # 指向 QUANTUM_REPEATER
 
 DATA_PATHS = {
     "input_graphs": PROJECT_ROOT / "graphs_json",          # 输入数据目录
-    "output_results": PROJECT_ROOT / "new_result",         # 输出结果目录
+    "output_results": PROJECT_ROOT / "new_result2",         # 输出结果目录
     "communities": PROJECT_ROOT / "communities"            # 社区划分结果目录
 }

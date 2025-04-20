@@ -1,0 +1,7 @@
+Combination_ID,Nodes,MPC_protocol,MPG_protocol,SP_protocol
+combo_0,"[6, 3, 2]",1.0,1.0,1.0
+combo_1,"[6, 1, 5]",1.0,1.0,1.0
+combo_2,"[6, 1, 2]",1.0,1.0,1.0
+combo_3,"[6, 4, 2]",1.0,1.0,1.0
+combo_4,"[6, 4, 5]",1.0,1.0,1.0
+combo_5,"[6, 3, 5]",1.0,1.0,1.0
