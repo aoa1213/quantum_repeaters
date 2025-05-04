@@ -1,1 +1,1 @@
-# Impact of Repeater Placement
+# Impact of topology on resource-constrained quantum network protocols
