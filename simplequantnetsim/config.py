@@ -1,11 +1,10 @@
-# config.py（位于 simplequantnetsim 文件夹内）
 from pathlib import Path
 
-# 项目根目录：假设 simplequantnetsim 是项目根目录的直接子文件夹
-PROJECT_ROOT = Path(__file__).resolve().parent.parent  # 指向 QUANTUM_REPEATERS_TEST
+# Project root directory: assuming simplequantnetsim is a direct subfolder of the project root
+PROJECT_ROOT = Path(__file__).resolve().parent.parent  # Points to QUANTUM_REPEATERS_TEST
 
 DATA_PATHS = {
-    "input_graphs": PROJECT_ROOT / "graphs_json",          # 输入数据目录
-    "output_results": PROJECT_ROOT / "new_result2",         # 输出结果目录
-    "communities": PROJECT_ROOT / "communities"            # 社区划分结果目录
+    "input_graphs": PROJECT_ROOT / "graphs_json",        # Directory for input graph data
+    "output_results": PROJECT_ROOT / "new_result",      # Directory for output results
+    "communities": PROJECT_ROOT / "communities"          # Directory for community detection results
 }
